@@ -3,10 +3,10 @@ import os
 import requests
 from pydub import AudioSegment
 from io import BytesIO
+import tempfile
 
 
-
-openai.api_key = ""
+openai.api_key = "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"
 podcast_title = "Estoy Escribiendo, por Isa Garcia"
 downloads_folder = os.path.expanduser('~/Downloads')
 local_file_path = os.path.join(downloads_folder, 'good_morning_10.mp3')
@@ -27,18 +27,18 @@ def transcribe_audio_file(api_key, file_path):
     print(f"Audio file loaded. Transcribing {len(chunks)} chunks...")
     for i, chunk in enumerate(chunks, start=1):
         print(f"Transcribing chunk {i}/{len(chunks)}...")
-        audio_data = BytesIO()
-        chunk.export(audio_data, format="mp3")
-        audio_data.seek(0)  # Reset the file pointer to the beginning
-        transcript = transcribe_audio_data(api_key, audio_data)
-        transcripts.append(transcript)
+        with tempfile.NamedTemporaryFile(suffix=".mp3") as temp_audio_file:
+            chunk.export(temp_audio_file.name, format="mp3")
+            temp_audio_file.seek(0)  # Reset the file pointer to the beginning
+            transcript = transcribe_audio_data(api_key, temp_audio_file)
+            transcripts.append(transcript)
         print(f"Finished transcribing chunk {i}/{len(chunks)}")
 
     print("Transcription completed.")
     return ' '.join(transcripts)
 
 
-def summarize_transcript(podcast_title, podcast_transcript, prompt_length=50):
+def summarize_transcript(podcast_title, podcast_transcript, prompt_length=3800):
     print("Summarizing transcript...")
     prompt = f"Please provide a summary of the podcast '{podcast_title}'. Here is the transcript: {podcast_transcript}"
     response = openai.Completion.create(

@@ -6,7 +6,7 @@ from io import BytesIO
 import tempfile
 
 
-openai.api_key = "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"
+openai.api_key = ""
 podcast_title = "Estoy Escribiendo, por Isa Garcia"
 downloads_folder = os.path.expanduser('~/Downloads')
 local_file_path = os.path.join(downloads_folder, 'good_morning_10.mp3')
@@ -33,6 +33,7 @@ def transcribe_audio_file(api_key, file_path):
             transcript = transcribe_audio_data(api_key, temp_audio_file)
             transcripts.append(transcript)
         print(f"Finished transcribing chunk {i}/{len(chunks)}")
+        print(f"Transcription for chunk {i}: {transcript}")  # Print the transcript for the current chunk
 
     print("Transcription completed.")
     return ' '.join(transcripts)
@@ -40,7 +41,7 @@ def transcribe_audio_file(api_key, file_path):
 
 def summarize_transcript(podcast_title, podcast_transcript, prompt_length=3800):
     print("Summarizing transcript...")
-    prompt = f"Please provide a summary of the podcast '{podcast_title}'. Here is the transcript: {podcast_transcript}"
+    prompt = f"Summarize the transcript from a episode of the podcast \"Mi Mejor Versión con Isa Garcia\". The summary should be in spanish and should include the key points discussed in the episode, along with any important quotes or examples mentioned. Try to keep the summary under 3800 tokens. Here is the transcript: {podcast_transcript}"
     response = openai.Completion.create(
         engine="text-davinci-003", # Replace with "gpt-3.5-turbo" when it is available
         prompt=prompt,

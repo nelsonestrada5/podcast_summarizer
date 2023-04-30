@@ -4,27 +4,21 @@ import requests
 from pydub import AudioSegment
 
 
-openai.api_key = "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"
+openai.api_key = "KEY_GOES HERE_"
 podcast_title = "Estoy Escribiendo, por Isa Garcia"
 downloads_folder = os.path.expanduser('~/Downloads')
-local_file_path = os.path.join(downloads_folder, 'estoy_escribiendo_un_libro.m4a')
+local_file_path = os.path.join(downloads_folder, 'good_morning_10.mp3')
 
 
 def transcribe_audio_data(api_key, audio_data):
-    url = "https://api.openai.com/v1/audio/transcriptions"
-    headers = {
-        "Content-Type": "application/octet-stream",
-        "Authorization": f"Bearer {api_key}",
-        model: "whisper-1"
-    }
-    response = requests.post(url, headers=headers, data=audio_data)
-    response.raise_for_status()
-    return response.json()['transcript']
+    openai.api_key = api_key
+    transcript = openai.Audio.transcribe("whisper-1", audio_data)
+    return transcript["text"]
 
 def transcribe_audio_file(api_key, file_path):
     print("Loading audio file...")
     audio = AudioSegment.from_file(file_path)
-    chunk_length_ms = 1000 * 60 * 5  # 5-minute chunks
+    chunk_length_ms = 1000 * 60 * 1  # 1-minute chunks
     chunks = [audio[i:i + chunk_length_ms] for i in range(0, len(audio), chunk_length_ms)]
     transcripts = []
 
@@ -39,11 +33,12 @@ def transcribe_audio_file(api_key, file_path):
     print("Transcription completed.")
     return ' '.join(transcripts)
 
+
 def summarize_transcript(podcast_title, podcast_transcript, prompt_length=50):
     print("Summarizing transcript...")
     prompt = f"Please provide a summary of the podcast '{podcast_title}'. Here is the transcript: {podcast_transcript}"
     response = openai.Completion.create(
-        engine="text-davinci-002", # Replace with "gpt-3.5-turbo" when it is available
+        engine="text-davinci-003", # Replace with "gpt-3.5-turbo" when it is available
         prompt=prompt,
         max_tokens=prompt_length,
         n=1,

@@ -1,6 +1,6 @@
 from pydub import AudioSegment
 
-podcast = AudioSegment.from_file("estoy_escribiendo_un_libro.m4a")
+podcast = AudioSegment.from_file("/Users/nelsonestrada/Downloads/estoy_escribiendo_un_libro.m4a")
 
 # PyDub handles time in milliseconds
 ten_minutes = 10 * 60 * 1000

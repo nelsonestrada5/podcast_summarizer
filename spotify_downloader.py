@@ -1,13 +1,17 @@
 import spotipy
+import spotipy.util as util
 import feedparser
 import requests
 
 # Get user input for the podcast name
 podcast_name = input("Enter the name of the podcast on Spotify: ")
 
-# Initialize a Spotipy instance
+# Get user input for the Spotify API access token
+token = input("Enter your Spotify API access token: ")
+
+# Initialize a Spotipy instance with the access token
 print("Initializing Spotipy instance...")
-sp = spotipy.Spotify()
+sp = spotipy.Spotify(auth=token)
 
 # Search for the podcast on Spotify
 print(f"Searching for {podcast_name} on Spotify...")

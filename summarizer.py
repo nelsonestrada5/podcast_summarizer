@@ -4,12 +4,17 @@ import requests
 from pydub import AudioSegment
 from io import BytesIO
 import tempfile
+import configparser
 
 
-openai.api_key = "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"
+config = configparser.ConfigParser()
+config.read('config.ini')
+openai.api_key = config.get('openai', 'api_key')
+
+
 podcast_title = "Estoy Escribiendo, por Isa Garcia"
-downloads_folder = os.path.expanduser('~/Downloads')
-local_file_path = os.path.join(downloads_folder, 'good_morning_10.mp3')
+downloads_folder = os.path.expanduser('/Users/nelsonestrada/projects/podcast_summarizer')
+local_file_path = os.path.join(downloads_folder, 'good_morning_5.mp3')
 
 
 def transcribe_audio_data(api_key, audio_data):

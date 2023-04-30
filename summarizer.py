@@ -2,9 +2,11 @@ import openai
 import os
 import requests
 from pydub import AudioSegment
+from io import BytesIO
 
 
-openai.api_key = "KEY_GOES HERE_"
+
+openai.api_key = ""
 podcast_title = "Estoy Escribiendo, por Isa Garcia"
 downloads_folder = os.path.expanduser('~/Downloads')
 local_file_path = os.path.join(downloads_folder, 'good_morning_10.mp3')
@@ -25,7 +27,9 @@ def transcribe_audio_file(api_key, file_path):
     print(f"Audio file loaded. Transcribing {len(chunks)} chunks...")
     for i, chunk in enumerate(chunks, start=1):
         print(f"Transcribing chunk {i}/{len(chunks)}...")
-        audio_data = chunk.export(format="mp3")
+        audio_data = BytesIO()
+        chunk.export(audio_data, format="mp3")
+        audio_data.seek(0)  # Reset the file pointer to the beginning
         transcript = transcribe_audio_data(api_key, audio_data)
         transcripts.append(transcript)
         print(f"Finished transcribing chunk {i}/{len(chunks)}")

@@ -6,7 +6,7 @@ from io import BytesIO
 import tempfile
 
 
-openai.api_key = ""
+openai.api_key = "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"
 podcast_title = "Estoy Escribiendo, por Isa Garcia"
 downloads_folder = os.path.expanduser('~/Downloads')
 local_file_path = os.path.join(downloads_folder, 'good_morning_10.mp3')

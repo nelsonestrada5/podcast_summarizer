@@ -44,9 +44,9 @@ def transcribe_audio_file(api_key, file_path):
     return ' '.join(transcripts)
 
 
-def summarize_transcript(podcast_title, podcast_transcript, prompt_length=3800):
+def summarize_transcript(podcast_title, podcast_transcript, prompt_length=2000):
     print("Summarizing transcript...")
-    prompt = f"Summarize the transcript from a episode of the podcast \"Mi Mejor Versión con Isa Garcia\". The summary should be in spanish and should include the key points discussed in the episode, along with any important quotes or examples mentioned. Try to keep the summary under 3800 tokens. Here is the transcript: {podcast_transcript}"
+    prompt = f"Summarize the transcript from a episode of the podcast \"Mi Mejor Versión con Isa Garcia\". The summary should be in spanish and should include the key points discussed in the episode, along with any important quotes or examples mentioned. Try to keep the summary under 2000 tokens. Here is the transcript: {podcast_transcript}"
     response = openai.Completion.create(
         engine="text-davinci-003", # Replace with "gpt-3.5-turbo" when it is available
         prompt=prompt,
@@ -66,4 +66,4 @@ def summarize_local_podcast(podcast_title, local_file_path):
 
 
 summary = summarize_local_podcast(podcast_title, local_file_path)
-print("\nPodcast summary:", summary)
+print("\nPodcast summary:\n", summary)

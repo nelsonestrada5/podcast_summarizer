@@ -16,22 +16,43 @@ podcast_title = "Estoy Escribiendo, por Isa Garcia"
 downloads_folder = os.path.expanduser('/Users/nelsonestrada/Downloads/')
 local_file_path = os.path.join(downloads_folder, '3_arquetipos.mp3')
 
-# The rest of the code remains the same until the summarize_transcript function
+def transcribe_audio_data(api_key, audio_data):
+    openai.api_key = api_key
+    transcript = openai.Audio.transcribe("whisper-1", audio_data)
+    return transcript["text"]
 
-def extract_important_sentences(text, num_sentences=3):
-    model = Summarizer()
-    summary = model(text, num_sentences=num_sentences)
-    return ' '.join(summary)
+def transcribe_audio_file(api_key, file_path):
+    print("Loading audio file...")
+    audio = AudioSegment.from_file(file_path)
+    chunk_length_ms = 1000 * 60 * 5  # 5-minute chunks
+    chunks = [audio[i:i + chunk_length_ms] for i in range(0, len(audio), chunk_length_ms)]
+    transcripts = []
 
+    print(f"Audio file loaded. Transcribing {len(chunks)} chunks...")
+    for i, chunk in enumerate(chunks, start=1):
+        print(f"Transcribing chunk {i}/{len(chunks)}...")
+        with tempfile.NamedTemporaryFile(suffix=".mp3") as temp_audio_file:
+            chunk.export(temp_audio_file.name, format="mp3")
+            temp_audio_file.seek(0)  # Reset the file pointer to the beginning
+            transcript = transcribe_audio_data(api_key, temp_audio_file)
+            transcripts.append(transcript)
+        print(f"Finished transcribing chunk {i}/{len(chunks)}")
+        print(f"Transcription for chunk {i}: {transcript}")  # Print the transcript for the current chunk
+
+    print("Transcription completed.")
+    return ' '.join(transcripts)
+
+# The rest of the code remains the same
 def summarize_transcript(podcast_title, podcast_transcript, prompt_length=2000):
     print("Summarizing transcript...")
 
     transcript_chunks = textwrap.wrap(podcast_transcript, prompt_length - 200)
     important_sentences = []
 
+    bert_model = Summarizer()
     for i, chunk in enumerate(transcript_chunks, start=1):
         print(f"Extracting important sentences from chunk {i}/{len(transcript_chunks)}...")
-        important_chunk = extract_important_sentences(chunk, num_sentences=3)  # Extract important sentences from the chunk
+        important_chunk = bert_model(chunk)  # Extract important sentences from the chunk
         important_sentences.append(important_chunk)
         print(f"Finished extracting important sentences from chunk {i}/{len(transcript_chunks)}")
 
@@ -51,7 +72,9 @@ def summarize_transcript(podcast_title, podcast_transcript, prompt_length=2000):
     print("Summary completed.")
     return summary
 
-# The rest of the code remains the same
+def summarize_local_podcast(podcast_title, local_file_path, api_key):
+    podcast_transcript = transcribe_audio_file(api_key, local_file_path)
+    return summarize_transcript(podcast_title, podcast_transcript)
 
-summary = summarize_local_podcast(podcast_title, local_file_path)
+summary = summarize_local_podcast(podcast_title, local_file_path, openai.api_key)
 print("\nPodcast summary:\n", summary)

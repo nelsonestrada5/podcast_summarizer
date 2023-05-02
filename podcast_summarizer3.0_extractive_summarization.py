@@ -42,7 +42,6 @@ def transcribe_audio_file(api_key, file_path):
     print("Transcription completed.")
     return ' '.join(transcripts)
 
-# The rest of the code remains the same
 def summarize_transcript(podcast_title, podcast_transcript, prompt_length=2000):
     print("Summarizing transcript...")
 
@@ -55,8 +54,10 @@ def summarize_transcript(podcast_title, podcast_transcript, prompt_length=2000):
         important_chunk = bert_model(chunk)  # Extract important sentences from the chunk
         important_sentences.append(important_chunk)
         print(f"Finished extracting important sentences from chunk {i}/{len(transcript_chunks)}")
+        print(f"Important sentences for chunk {i}: {important_chunk}")  # Print the important sentences for the current chunk
 
     important_text = ' '.join(important_sentences)  # Join the important sentences
+
 
     print("Generating summary based on important sentences...")
     prompt = f"Summarize the transcript from a episode of the podcast \"Mi Mejor Versión con Isa Garcia\". The summary should be in spanish and should include the key points discussed in the episode, along with any important quotes or examples mentioned. Try to keep the summary under 2000 tokens. Here are the important sentences: {important_text}"

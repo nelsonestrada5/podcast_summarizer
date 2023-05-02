@@ -4,6 +4,7 @@ import requests
 from pydub import AudioSegment
 from io import BytesIO
 import tempfile
+import datetime
 import configparser
 import textwrap
 from summarizer import Summarizer
@@ -45,7 +46,9 @@ def transcribe_audio_file(api_key, file_path):
 
 # NEW FUNCTION TO SAVE OUTPUT
 def write_to_file(file_name, content):
-    with open(file_name, 'w') as file:
+    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+    unique_file_name = f"{os.path.splitext(file_name)[0]}_{timestamp}{os.path.splitext(file_name)[1]}"
+    with open(unique_file_name, 'w') as file:
         file.write(content)
 
 def summarize_transcript(podcast_title, podcast_transcript, prompt_length=2000):

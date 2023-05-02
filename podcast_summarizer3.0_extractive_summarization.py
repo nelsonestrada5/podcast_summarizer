@@ -21,6 +21,7 @@ def transcribe_audio_data(api_key, audio_data):
     transcript = openai.Audio.transcribe("whisper-1", audio_data)
     return transcript["text"]
 
+
 def transcribe_audio_file(api_key, file_path):
     print("Loading audio file...")
     audio = AudioSegment.from_file(file_path)
@@ -42,6 +43,11 @@ def transcribe_audio_file(api_key, file_path):
     print("Transcription completed.")
     return ' '.join(transcripts)
 
+# NEW FUNCTION TO SAVE OUTPUT
+def write_to_file(file_name, content):
+    with open(file_name, 'w') as file:
+        file.write(content)
+
 def summarize_transcript(podcast_title, podcast_transcript, prompt_length=2000):
     print("Summarizing transcript...")
 
@@ -58,6 +64,15 @@ def summarize_transcript(podcast_title, podcast_transcript, prompt_length=2000):
 
     important_text = ' '.join(important_sentences)  # Join the important sentences
 
+    # Write the complete podcast transcript to a file
+    write_to_file('podcast_transcript.txt', podcast_transcript)
+
+    # Write the important sentences to another file
+    write_to_file('important_sentences.txt', important_text)
+
+    # Read the important sentences from the file
+    with open('important_sentences.txt', 'r') as file:
+        important_text = file.read()
 
     print("Generating summary based on important sentences...")
     prompt = f"Summarize the transcript from a episode of the podcast \"Mi Mejor Versión con Isa Garcia\". The summary should be in spanish and should include the key points discussed in the episode, along with any important quotes or examples mentioned. Try to keep the summary under 2000 tokens. Here are the important sentences: {important_text}"
@@ -72,6 +87,7 @@ def summarize_transcript(podcast_title, podcast_transcript, prompt_length=2000):
     summary = response.choices[0].text.strip()
     print("Summary completed.")
     return summary
+
 
 def summarize_local_podcast(podcast_title, local_file_path, api_key):
     podcast_transcript = transcribe_audio_file(api_key, local_file_path)

@@ -6,7 +6,7 @@ from io import BytesIO
 import tempfile
 import configparser
 import textwrap
-from gensim.summarization import summarize
+from gensim.summarization.summarizer import summarize
 
 config = configparser.ConfigParser()
 config.read('config.ini')

@@ -4,17 +4,7 @@ import configparser
 import requests
 import os
 import json
-from datetime import datetime, timedelta
-
-
-def ms_to_time(duration_ms):
-    """
-    Convert duration in milliseconds to hh:mm:ss format
-    """
-    seconds = duration_ms // 1000
-    minutes, seconds = divmod(seconds, 60)
-    hours, minutes = divmod(minutes, 60)
-    return f"{hours:02d}:{minutes:02d}:{seconds:02d}"
+from datetime import timedelta
 
 
 # Set the podcast ID for the show you want to query
@@ -45,12 +35,9 @@ sp = spotipy.Spotify(token)
 # Get metadata for the podcast
 print(f"Getting metadata for podcast {PODCAST_ID}...")
 metadata = sp.show(PODCAST_ID)
-
-# Extract and print podcast title and episode count
-podcast_title = metadata['name']
-num_episodes = metadata['total_episodes']
-print(f"Podcast title: {podcast_title}")
-print(f"Number of episodes: {num_episodes}")
+metadata_file = 'podcast_metadata.json'
+with open(metadata_file, 'w') as f:
+    json.dump(metadata, f, indent=2)
 
 # Get the number of recent episodes to retrieve
 num_episodes = input("How many recent episodes do you want to retrieve? Enter a number or 'all': ")
@@ -71,60 +58,13 @@ else:
     results = sp.show_episodes(PODCAST_ID, limit=num_episodes)
     episodes = results['items']
 
-# Extract information for each episode and store in a list of dictionaries
-episode_info = []
+# Print information for each episode
 for episode in episodes:
-    info = {}
-    info['name'] = episode['name']
-    info['release_date'] = episode['release_date']
-    info['description'] = episode['description']
-    info['duration'] = ms_to_time(episode['duration_ms'])
-    info['url'] = episode['external_urls']['spotify']
-    episode_info.append(info)
-
-# Save episode information to a JSON file
-filename = f"{podcast_title}_episodes.json"
-with open(filename, 'w') as f:
-    json.dump(episode_info, f, indent=4)
-
-# Print success message
-print(f"Episodes saved to file {filename}!")
-
-
-# Commented out original code
-'''
-# Get user input for the podcast name
-podcast_name = input("Enter the name of the podcast on Spotify: ")
-
-
-# Search for the podcast on Spotify
-print(f"Searching for {podcast_name} on Spotify...")
-results = sp.search(q=podcast_name, type='show')
-
-# Extract the RSS feed URL from the first search result
-rss_url = None
-for item in results['shows']['items']:
-    if 'rss' in item['external_urls']:
-        rss_url = item['external_urls']['rss']
-        break
-
-if rss_url is None:
-    print("Could not find an RSS feed URL for this podcast.")
-else:
-    print(f"RSS feed URL: {rss_url}")
-
-    # Parse the RSS feed using feedparser
-    print("Parsing RSS feed...")
-    feed = feedparser.parse(rss_url)
-
-    # Download the first podcast from the RSS feed
-    podcast_url = feed.entries[0]['enclosures'][0]['url']
-    print(f"Downloading first podcast from {podcast_url}...")
-    response = requests.get(podcast_url)
-
-    # Save the podcast to a file
-    filename = feed.entries[0]['title'] + ".mp3"
-    with open(filename, "wb") as f:
-        f.write(response.content)
-    print(f"Podcast saved to {filename}!")
-'''
+    episode_info = {
+        'Episode name': episode['name'],
+        'Release Date': episode['release_date'],
+        'Description': episode['description'],
+        'Duration': str(timedelta(milliseconds=episode['duration_ms'])),
+        'Podcast URL': episode['external_urls']['spotify']
+    }
+    print(json.dumps(episode_info, indent=2))

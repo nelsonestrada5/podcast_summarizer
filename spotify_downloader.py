@@ -1,9 +1,9 @@
 import spotipy
 import spotipy.util as util
-import feedparser
-import requests
 import configparser
+import requests
 import os
+import json
 
 # Set the podcast ID for the show you want to query
 PODCAST_ID = "1Grr7tNmgKPvWwsiA98AqK"
@@ -33,7 +33,19 @@ sp = spotipy.Spotify(token)
 # Get metadata for the podcast
 print(f"Getting metadata for podcast {PODCAST_ID}...")
 metadata = sp.show(PODCAST_ID)
-print(f"Podcast metadata: {metadata}")
+
+# Save podcast metadata to a file
+filename = f"{metadata['name']}_metadata.json"
+with open(filename, "w") as f:
+    json.dump(metadata, f, indent=4)
+print(f"Podcast metadata saved to {filename}!")
+
+# Extract the podcast title and number of episodes
+podcast_title = metadata['name']
+num_episodes = metadata['total_episodes']
+
+print(f"Podcast Title: {podcast_title}")
+print(f"Number of episodes: {num_episodes}")
 
 # Get the number of recent episodes to retrieve
 num_episodes = input("How many recent episodes do you want to retrieve? Enter a number or 'all': ")

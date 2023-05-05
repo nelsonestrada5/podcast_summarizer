@@ -5,8 +5,9 @@ import requests
 import configparser
 import os
 
-# Get user input for the podcast name
-podcast_name = input("Enter the name of the podcast on Spotify: ")
+
+# Set the podcast id for the show to retrieve metadata and episodes from
+PODCAST_ID = "1Grr7tNmgKPvWwsiA98AqK"
 
 # Read the Spotify API credentials from the config.ini file
 config = configparser.ConfigParser()
@@ -29,6 +30,22 @@ token = util.prompt_for_user_token(
 # Initialize a Spotipy instance with the access token
 print("Initializing Spotipy instance...")
 sp = spotipy.Spotify(token)
+
+# Get metadata for the podcast
+print(f"Getting metadata for podcast with id {PODCAST_ID}...")
+podcast_metadata = sp.show(PODCAST_ID)
+print(podcast_metadata)
+
+# Get the list of episodes for the podcast
+print(f"Getting episodes for podcast with id {PODCAST_ID}...")
+episodes = sp.show_episodes(PODCAST_ID)
+print(episodes)
+
+# Commented out original code
+'''
+# Get user input for the podcast name
+podcast_name = input("Enter the name of the podcast on Spotify: ")
+
 
 # Search for the podcast on Spotify
 print(f"Searching for {podcast_name} on Spotify...")
@@ -60,3 +77,4 @@ else:
     with open(filename, "wb") as f:
         f.write(response.content)
     print(f"Podcast saved to {filename}!")
+'''

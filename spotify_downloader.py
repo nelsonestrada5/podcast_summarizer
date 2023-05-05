@@ -6,7 +6,6 @@ import os
 import json
 from datetime import timedelta
 
-
 # Set the podcast ID for the show you want to query
 PODCAST_ID = "1Grr7tNmgKPvWwsiA98AqK"
 
@@ -35,9 +34,10 @@ sp = spotipy.Spotify(token)
 # Get metadata for the podcast
 print(f"Getting metadata for podcast {PODCAST_ID}...")
 metadata = sp.show(PODCAST_ID)
-metadata_file = 'podcast_metadata.json'
-with open(metadata_file, 'w') as f:
-    json.dump(metadata, f, indent=2)
+metadata_file = open("metadata.json", "w")
+metadata_file.write(json.dumps(metadata, indent=4))
+metadata_file.close()
+print("Podcast metadata saved to metadata.json")
 
 # Get the number of recent episodes to retrieve
 num_episodes = input("How many recent episodes do you want to retrieve? Enter a number or 'all': ")
@@ -60,11 +60,11 @@ else:
 
 # Print information for each episode
 for episode in episodes:
-    episode_info = {
-        'Episode name': episode['name'],
-        'Release Date': episode['release_date'],
-        'Description': episode['description'],
-        'Duration': str(timedelta(milliseconds=episode['duration_ms'])),
-        'Podcast URL': episode['external_urls']['spotify']
+    episode_data = {
+        "Episode Name": episode["name"],
+        "Release Date": episode["release_date"],
+        "Description": episode["description"],
+        "Duration": str(timedelta(milliseconds=episode["duration_ms"])).split(".")[0],
+        "Podcast URL": episode["external_urls"]["spotify"]
     }
-    print(json.dumps(episode_info, indent=2))
+    print(json.dumps({episode_data["Episode Name"]: episode_data}, indent=4))

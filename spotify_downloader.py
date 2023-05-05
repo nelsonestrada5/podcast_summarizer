@@ -4,6 +4,18 @@ import configparser
 import requests
 import os
 import json
+from datetime import datetime, timedelta
+
+
+def ms_to_time(duration_ms):
+    """
+    Convert duration in milliseconds to hh:mm:ss format
+    """
+    seconds = duration_ms // 1000
+    minutes, seconds = divmod(seconds, 60)
+    hours, minutes = divmod(minutes, 60)
+    return f"{hours:02d}:{minutes:02d}:{seconds:02d}"
+
 
 # Set the podcast ID for the show you want to query
 PODCAST_ID = "1Grr7tNmgKPvWwsiA98AqK"
@@ -34,17 +46,10 @@ sp = spotipy.Spotify(token)
 print(f"Getting metadata for podcast {PODCAST_ID}...")
 metadata = sp.show(PODCAST_ID)
 
-# Save podcast metadata to a file
-filename = f"{metadata['name']}_metadata.json"
-with open(filename, "w") as f:
-    json.dump(metadata, f, indent=4)
-print(f"Podcast metadata saved to {filename}!")
-
-# Extract the podcast title and number of episodes
+# Extract and print podcast title and episode count
 podcast_title = metadata['name']
 num_episodes = metadata['total_episodes']
-
-print(f"Podcast Title: {podcast_title}")
+print(f"Podcast title: {podcast_title}")
 print(f"Number of episodes: {num_episodes}")
 
 # Get the number of recent episodes to retrieve
@@ -66,12 +71,25 @@ else:
     results = sp.show_episodes(PODCAST_ID, limit=num_episodes)
     episodes = results['items']
 
-# Print information for each episode
+# Extract information for each episode and store in a list of dictionaries
+episode_info = []
 for episode in episodes:
-    print(f"Episode name: {episode['name']}")
-    print(f"Release date: {episode['release_date']}")
-    print(f"Description: {episode['description']}")
-    print()  # add blank line between episodes
+    info = {}
+    info['name'] = episode['name']
+    info['release_date'] = episode['release_date']
+    info['description'] = episode['description']
+    info['duration'] = ms_to_time(episode['duration_ms'])
+    info['url'] = episode['external_urls']['spotify']
+    episode_info.append(info)
+
+# Save episode information to a JSON file
+filename = f"{podcast_title}_episodes.json"
+with open(filename, 'w') as f:
+    json.dump(episode_info, f, indent=4)
+
+# Print success message
+print(f"Episodes saved to file {filename}!")
+
 
 # Commented out original code
 '''

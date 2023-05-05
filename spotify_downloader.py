@@ -5,8 +5,7 @@ import requests
 import configparser
 import os
 
-
-# Set the podcast id for the show to retrieve metadata and episodes from
+# Set the podcast ID for the show you want to query
 PODCAST_ID = "1Grr7tNmgKPvWwsiA98AqK"
 
 # Read the Spotify API credentials from the config.ini file
@@ -32,14 +31,35 @@ print("Initializing Spotipy instance...")
 sp = spotipy.Spotify(token)
 
 # Get metadata for the podcast
-print(f"Getting metadata for podcast with id {PODCAST_ID}...")
-podcast_metadata = sp.show(PODCAST_ID)
-print(podcast_metadata)
+print(f"Getting metadata for podcast {PODCAST_ID}...")
+metadata = sp.show(PODCAST_ID)
+print(f"Podcast metadata: {metadata}")
 
-# Get the list of episodes for the podcast
-print(f"Getting episodes for podcast with id {PODCAST_ID}...")
-episodes = sp.show_episodes(PODCAST_ID)
-print(episodes)
+# Get the number of recent episodes to retrieve
+num_episodes = input("How many recent episodes do you want to retrieve? Enter a number or 'all': ")
+if num_episodes == "all":
+    # Retrieve all episodes
+    print("Retrieving all episodes...")
+    episodes = []
+    total = 1
+    offset = 0
+    while len(episodes) < total:
+        results = sp.show_episodes(PODCAST_ID, limit=50, offset=offset)
+        total = results['total']
+        offset += len(results['items'])
+        episodes.extend(results['items'])
+else:
+    # Retrieve specified number of episodes
+    print(f"Retrieving {num_episodes} episodes...")
+    results = sp.show_episodes(PODCAST_ID, limit=num_episodes)
+    episodes = results['items']
+
+# Print information for each episode
+for episode in episodes:
+    print(f"Episode name: {episode['name']}")
+    print(f"Release date: {episode['release_date']}")
+    print(f"Description: {episode['description']}")
+    print()  # add blank line between episodes
 
 # Commented out original code
 '''

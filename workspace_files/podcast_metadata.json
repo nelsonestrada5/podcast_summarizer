@@ -1,0 +1,2219 @@
+{
+  "available_markets": [
+    "AD",
+    "AE",
+    "AG",
+    "AL",
+    "AM",
+    "AO",
+    "AR",
+    "AT",
+    "AU",
+    "AZ",
+    "BA",
+    "BB",
+    "BE",
+    "BF",
+    "BG",
+    "BH",
+    "BI",
+    "BJ",
+    "BN",
+    "BO",
+    "BR",
+    "BS",
+    "BT",
+    "BW",
+    "BZ",
+    "CA",
+    "CH",
+    "CI",
+    "CL",
+    "CM",
+    "CO",
+    "CR",
+    "CV",
+    "CW",
+    "CY",
+    "CZ",
+    "DE",
+    "DJ",
+    "DK",
+    "DM",
+    "DO",
+    "DZ",
+    "EC",
+    "EE",
+    "EG",
+    "ES",
+    "FI",
+    "FJ",
+    "FM",
+    "FR",
+    "GA",
+    "GB",
+    "GD",
+    "GE",
+    "GH",
+    "GM",
+    "GN",
+    "GQ",
+    "GR",
+    "GT",
+    "GW",
+    "GY",
+    "HK",
+    "HN",
+    "HR",
+    "HT",
+    "HU",
+    "ID",
+    "IE",
+    "IL",
+    "IN",
+    "IS",
+    "IT",
+    "JM",
+    "JO",
+    "JP",
+    "KE",
+    "KH",
+    "KI",
+    "KM",
+    "KN",
+    "KR",
+    "KW",
+    "LA",
+    "LB",
+    "LC",
+    "LI",
+    "LR",
+    "LS",
+    "LT",
+    "LU",
+    "LV",
+    "MA",
+    "MC",
+    "ME",
+    "MG",
+    "MH",
+    "MK",
+    "ML",
+    "MN",
+    "MO",
+    "MR",
+    "MT",
+    "MU",
+    "MV",
+    "MW",
+    "MX",
+    "MY",
+    "MZ",
+    "NA",
+    "NE",
+    "NG",
+    "NI",
+    "NL",
+    "NO",
+    "NP",
+    "NR",
+    "NZ",
+    "OM",
+    "PA",
+    "PE",
+    "PG",
+    "PH",
+    "PL",
+    "PS",
+    "PT",
+    "PW",
+    "PY",
+    "QA",
+    "RO",
+    "RS",
+    "RW",
+    "SA",
+    "SB",
+    "SC",
+    "SE",
+    "SG",
+    "SI",
+    "SK",
+    "SL",
+    "SM",
+    "SN",
+    "SR",
+    "ST",
+    "SV",
+    "SZ",
+    "TD",
+    "TG",
+    "TH",
+    "TL",
+    "TN",
+    "TO",
+    "TR",
+    "TT",
+    "TV",
+    "TW",
+    "TZ",
+    "UA",
+    "US",
+    "UY",
+    "UZ",
+    "VC",
+    "VN",
+    "VU",
+    "WS",
+    "XK",
+    "ZA",
+    "ZM",
+    "ZW"
+  ],
+  "copyrights": [],
+  "description": "El mundo nos necesita brillando. Poderosas. Sabias. Llenas de confianza y amor propio. Nos necesita viviendo la vida de nuestros sue\u00f1os, saludables, vibrantes y abundantes. Nos debemos a nosotras mismas un SI PUEDO, CREO EN TI frente al espejo. Un TE AMO. Un GRACIAS. Nos merecemos vivir sin tanto ruido externo y sin miedo al qu\u00e9 dir\u00e1n. Nos merecemos informaci\u00f3n actualizada y saber c\u00f3mo cuidarnos y alimentarnos. Nos necesitamos llenas de vida y prop\u00f3sito, y con mucha auto compasi\u00f3n en el camino.   xx Isa Garcia  @isagarcia https://isagarcia.co",
+  "episodes": {
+    "href": "https://api.spotify.com/v1/shows/1Grr7tNmgKPvWwsiA98AqK/episodes?offset=0&limit=50",
+    "items": [
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/238de958d4d3935ea7767c1bce31511d27e8a7e8",
+        "description": "Este cap\u00edtulo es la parte #2 de un training gratuito para aprender a vender m\u00e1s a trav\u00e9s de arquetipos. Despu\u00e9s de escucharlo sabr\u00e1s que parte de ti debes activar o remover para conectarte con ese lado de ti que atrae ventas magn\u00e9ticamente. Aprender\u00e1s a dejar de tomarte el rechazo como algo personal y lo agradecer\u00e1s la pr\u00f3xima vez que alguien te diga no ante una venta. Vas a enamorarte de experimentar en la cancha. En este cap\u00edtulo profundizamos en los arquetipos de Artista y L\u00edder Influyente. Club de Empresarias 2.0 Libro: Hola, Me Presento. Waitlist: Journal #5.",
+        "duration_ms": 2755735,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/3Yfbg0ya2e5cpT7eUy40gO"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3Yfbg0ya2e5cpT7eUy40gO",
+        "html_description": "<p>Este cap\u00edtulo es la parte #2 de un training gratuito para aprender a vender m\u00e1s a trav\u00e9s de arquetipos. Despu\u00e9s de escucharlo sabr\u00e1s que parte de ti debes activar o remover para conectarte con ese lado de ti que atrae ventas magn\u00e9ticamente. Aprender\u00e1s a dejar de tomarte el rechazo como algo personal y lo agradecer\u00e1s la pr\u00f3xima vez que alguien te diga no ante una venta. Vas a enamorarte de experimentar en la cancha. En este cap\u00edtulo profundizamos en los arquetipos de Artista y L\u00edder Influyente.</p> <p><a href=\"https://www.isagarcia.online/club\" rel=\"nofollow\">Club de Empresarias 2.0</a></p> <p>Libro: <a href=\"https://holamepresento.substack.com\" rel=\"nofollow\">Hola, Me Presento.</a></p> <p>Waitlist: <a href=\"https://www.isagarcia.online\" rel=\"nofollow\">Journal #5.</a></p>",
+        "id": "3Yfbg0ya2e5cpT7eUy40gO",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#93: 3 Ingredientes para vender m\u00e1s Training Gratis (Parte 2)",
+        "release_date": "2023-05-01",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:3Yfbg0ya2e5cpT7eUy40gO"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/50c8be5a9d666328d583c86dfdfb187ddf8578c3",
+        "description": "Este cap\u00edtulo es un training gratuito para aprender a vender m\u00e1s a trav\u00e9s de arquetipos. Despu\u00e9s de escucharlo sabr\u00e1s que parte de ti debes activar o remover para conectarte con ese lado de ti que atrae ventas magn\u00e9ticamente. Aprender\u00e1s a dejar de tomarte el rechazo como algo personal y lo agradecer\u00e1s la pr\u00f3xima vez que alguien te diga no ante una venta. Vas a enamorarte de experimentar en la cancha. Club de Empresarias 2.0 Libro: Hola, Me Presento. Waitlist: Journal #5.",
+        "duration_ms": 3071477,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/1V0FJbwRhKSsStP0AxHQ7q"
+        },
+        "href": "https://api.spotify.com/v1/episodes/1V0FJbwRhKSsStP0AxHQ7q",
+        "html_description": "<p>Este cap\u00edtulo es un training gratuito para aprender a vender m\u00e1s a trav\u00e9s de arquetipos. Despu\u00e9s de escucharlo sabr\u00e1s que parte de ti debes activar o remover para conectarte con ese lado de ti que atrae ventas magn\u00e9ticamente. Aprender\u00e1s a dejar de tomarte el rechazo como algo personal y lo agradecer\u00e1s la pr\u00f3xima vez que alguien te diga no ante una venta. Vas a enamorarte de experimentar en la cancha.</p> <p><a href=\"https://www.isagarcia.online/club\" rel=\"nofollow\">Club de Empresarias 2.0</a></p> <p>Libro: <a href=\"https://holamepresento.substack.com\" rel=\"nofollow\">Hola, Me Presento.</a></p> <p>Waitlist: <a href=\"https://www.isagarcia.online\" rel=\"nofollow\">Journal #5.</a></p>",
+        "id": "1V0FJbwRhKSsStP0AxHQ7q",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#92: 3 Ingredientes para vender m\u00e1s Training Gratis (Parte 1)",
+        "release_date": "2023-04-24",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:1V0FJbwRhKSsStP0AxHQ7q"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/576495c27e4dd2bc77b0cd2a27e8930a3da048bc",
+        "description": "Este cap\u00edtulo habla sobre la importancia de serle leal a tu futuro y moverte intencionalmente desde tus necesidades y no negociables, manteniendo altos tus est\u00e1ndares. Este es tu recordatorio para que midas el costo a corto y largo plazo antes de tomar cualquier decisi\u00f3n. Para esto nececesitas ser firme y clara con tus l\u00edmites y valores. Despu\u00e9s de escucharlo vas a pensar dos veces antes de entrar en victimismo o desesperaci\u00f3n de lo que tu cabeza dice que debe ser. T\u00f3mate un Caf\u00e9 Gratis en Quito haciendo click aqu\u00ed. T\u00f3mate un Caf\u00e9 Gratis en Starbucks haciendo click aqu\u00ed. Libro: Hola, Me Presento. Waitlist: Journal #5. \u00a0",
+        "duration_ms": 4005015,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7hK4svG5YYQ3D5PVfI1UnA"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7hK4svG5YYQ3D5PVfI1UnA",
+        "html_description": "<p>Este cap\u00edtulo habla sobre la importancia de serle leal a tu futuro y moverte intencionalmente desde tus necesidades y no negociables, manteniendo altos tus est\u00e1ndares. Este es tu recordatorio para que midas el costo a corto y largo plazo antes de tomar cualquier decisi\u00f3n. Para esto nececesitas ser firme y clara con tus l\u00edmites y valores. Despu\u00e9s de escucharlo vas a pensar dos veces antes de entrar en victimismo o desesperaci\u00f3n de lo que tu cabeza dice que debe ser.</p> <p>T\u00f3mate un Caf\u00e9 Gratis en Quito haciendo <a href=\"https://www.isagarcia.online/cafegratis\" rel=\"nofollow\">click aqu\u00ed.</a></p> <p>T\u00f3mate un Caf\u00e9 Gratis en Starbucks haciendo <a href=\"https://www.isagarcia.online/cafegratisusa\" rel=\"nofollow\">click aqu\u00ed.</a></p> <p>Libro: <a href=\"https://holamepresento.substack.com\" rel=\"nofollow\">Hola, Me Presento.</a></p> <p>Waitlist: <a href=\"https://www.isagarcia.online\" rel=\"nofollow\">Journal #5.</a></p> <p>\u00a0</p>",
+        "id": "7hK4svG5YYQ3D5PVfI1UnA",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#91: Manifestando el departamento de nuestros sue\u00f1os",
+        "release_date": "2023-04-17",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:7hK4svG5YYQ3D5PVfI1UnA"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/bcef5b565ded27fcc51906f6239634f7bf0d3f65",
+        "description": "Este cap\u00edtulo es una gu\u00eda sobre c\u00f3mo leer m\u00e1s. Isa te comparte las estrategias que ha utilizado para lograr leer cientos de libros a lo largo de su vida. Despu\u00e9s de escucharlo vas a querer correr a tu librer\u00eda favorita y elegir todos esos libros que te ayudar\u00e1n a expandir tu cerebro. La lectura es una excelente estrategia de negocios porque te da enfoque, y cultiva ideas, proyectos y sue\u00f1os. Esta es una invitaci\u00f3n a estar menos tiempo pegada a social media, y m\u00e1s a libros que te ayuden a estar m\u00e1s presente, creativa y fortaleciendo tu autoestima e intimidad contigo misma. T\u00f3mate un Caf\u00e9 Gratis en Quito haciendo click aqu\u00ed. T\u00f3mate un Caf\u00e9 Gratis en Starbucks haciendo click aqu\u00ed. Libro: Hola, Me Presento. Waitlist Journal #5.",
+        "duration_ms": 3884382,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6hUHhGvWuUE05azPlFi3gh"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6hUHhGvWuUE05azPlFi3gh",
+        "html_description": "<p>Este cap\u00edtulo es una gu\u00eda sobre c\u00f3mo leer m\u00e1s. Isa te comparte las estrategias que ha utilizado para lograr leer cientos de libros a lo largo de su vida. Despu\u00e9s de escucharlo vas a querer correr a tu librer\u00eda favorita y elegir todos esos libros que te ayudar\u00e1n a expandir tu cerebro. La lectura es una excelente estrategia de negocios porque te da enfoque, y cultiva ideas, proyectos y sue\u00f1os. Esta es una invitaci\u00f3n a estar menos tiempo pegada a social media, y m\u00e1s a libros que te ayuden a estar m\u00e1s presente, creativa y fortaleciendo tu autoestima e intimidad contigo misma.</p> <p>T\u00f3mate un Caf\u00e9 Gratis en Quito haciendo <a href=\"https://www.isagarcia.online/cafegratis\" rel=\"nofollow\">click aqu\u00ed.</a></p> <p>T\u00f3mate un Caf\u00e9 Gratis en Starbucks haciendo <a href=\"https://www.isagarcia.online/cafegratisusa\" rel=\"nofollow\">click aqu\u00ed.</a></p> <p>Libro: <a href=\"https://holamepresento.substack.com/\" rel=\"nofollow\">Hola, Me Presento</a>.</p> <p>Waitlist <a href=\"https://www.isagarcia.online/\" rel=\"nofollow\">Journal #5</a>.</p>",
+        "id": "6hUHhGvWuUE05azPlFi3gh",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#90: LEER M\u00c1S: fortalecer el autoestima y el brillo interior",
+        "release_date": "2023-04-10",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:6hUHhGvWuUE05azPlFi3gh"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/8ac111e13c335fe5a6f198f3dd671d69439505df",
+        "description": "Este episodio es la versi\u00f3n en espa\u00f1ol de la charla que Isa dio en Benshen. En ella nos cuenta su historia y las decisiones que fue tomando en el camino para encontrar su propia receta basada en su Human Design. Porque cada camino y estrategia funciona diferente para cada persona. Despu\u00e9s de este episodio vas a salir motivada a hacer las cosas con tu propio mapa, porque entender\u00e1s que una misma estrategia no funciona para todos, sino que se crea en la cancha, con el momentum y la acci\u00f3n.  Certificaci\u00f3n en Human Design\u00a0 Lista de Espera: Vender Sin Vender Libro: Hola, Me Presento.",
+        "duration_ms": 4758543,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5UT8sXw7eBOXwHenMw02Mn"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5UT8sXw7eBOXwHenMw02Mn",
+        "html_description": "<p>Este episodio es la versi\u00f3n en espa\u00f1ol de la charla que Isa dio en Benshen. En ella nos cuenta su historia y las decisiones que fue tomando en el camino para encontrar su propia receta basada en su Human Design. Porque cada camino y estrategia funciona diferente para cada persona. Despu\u00e9s de este episodio vas a salir motivada a hacer las cosas con tu propio mapa, porque entender\u00e1s que una misma estrategia no funciona para todos, sino que se crea en la cancha, con el momentum y la acci\u00f3n.</p> <p><a href=\"https://www.myhumandesign.com/product/become-a-reader/become-a-reader-level-1-level-2/\" rel=\"nofollow\"> Certificaci\u00f3n en Human Design</a>\u00a0</p> <p>Lista de Espera: <a href=\"https://www.isagarcia.online/vender\" rel=\"nofollow\">Vender Sin Vender</a></p> <p>Libro: <a href=\"https://holamepresento.substack.com\" rel=\"nofollow\">Hola, Me Presento.</a></p>",
+        "id": "5UT8sXw7eBOXwHenMw02Mn",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#89 CHARLA: Estrategia de negocios con Human Design",
+        "release_date": "2023-04-05",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:5UT8sXw7eBOXwHenMw02Mn"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/70024b56bdcdb9136aca88294ab0381ec9b8a9da",
+        "description": "Introducci\u00f3n del libro Hola, Me Presento: versi\u00f3n narrada.\u00a0 Puedes leerlo completo  aqu\u00ed. Puedes ganar acceso a los cap\u00edtulos ya publicados y ser parte del C\u00edrculoCero  aqu\u00ed.",
+        "duration_ms": 344764,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/1Bs2UsUFPpXqQefwNuFBeI"
+        },
+        "href": "https://api.spotify.com/v1/episodes/1Bs2UsUFPpXqQefwNuFBeI",
+        "html_description": "<p>Introducci\u00f3n del libro Hola, Me Presento: versi\u00f3n narrada.\u00a0</p> <p>Puedes leerlo completo <a href=\"https://open.substack.com/pub/holamepresento/p/introduccion?r&#61;28s5na&amp;utm_campaign&#61;post&amp;utm_medium&#61;web\" rel=\"nofollow\"> aqu\u00ed</a>.</p> <p>Puedes ganar acceso a los cap\u00edtulos ya publicados y ser parte del C\u00edrculoCero <a href=\"https://open.substack.com/pub/holamepresento/p/capitulo-1?r&#61;28s5na&amp;utm_campaign&#61;post&amp;utm_medium&#61;web\" rel=\"nofollow\"> aqu\u00ed</a>.</p>",
+        "id": "1Bs2UsUFPpXqQefwNuFBeI",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "Introducci\u00f3n de mi libro: Hola, Me Presento.",
+        "release_date": "2023-03-23",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:1Bs2UsUFPpXqQefwNuFBeI"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/acf70c410c2e1b5145ade3fe19bc6612a0044034",
+        "description": "Pr\u00f3logo del libro Hola, Me Presento: versi\u00f3n narrada.\u00a0 Puedes leerlo completo  aqu\u00ed. Puedes ganar acceso a los cap\u00edtulos ya publicados y ser parte del C\u00edrculoCero  aqu\u00ed.",
+        "duration_ms": 297273,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5GpWb4uLcbTZ026a1IG2qm"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5GpWb4uLcbTZ026a1IG2qm",
+        "html_description": "<p>Pr\u00f3logo del libro Hola, Me Presento: versi\u00f3n narrada.\u00a0</p> <p>Puedes leerlo completo <a href=\"https://open.substack.com/pub/holamepresento/p/prologo?r&#61;28s5na&amp;utm_campaign&#61;post&amp;utm_medium&#61;web\" rel=\"nofollow\"> aqu\u00ed</a>.</p> <p>Puedes ganar acceso a los cap\u00edtulos ya publicados y ser parte del C\u00edrculoCero <a href=\"https://open.substack.com/pub/holamepresento/p/capitulo-1?r&#61;28s5na&amp;utm_campaign&#61;post&amp;utm_medium&#61;web\" rel=\"nofollow\"> aqu\u00ed</a>.</p>",
+        "id": "5GpWb4uLcbTZ026a1IG2qm",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "Pr\u00f3logo de mi libro: Hola, Me Presento.",
+        "release_date": "2023-03-23",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:5GpWb4uLcbTZ026a1IG2qm"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/4b23d5a0f4600d9da8a0085034fc03964a1e5301",
+        "description": "Este es un cap\u00edtulo de todas las lecciones, miedos y bloqueos de empezar un proyecto significativo para ti misma. En este caso, escribir un libro. Es tambi\u00e9n un recordatorio de dejar a un lado el perfeccionismo para poder empezar a sembrar y cosechar. El miedo nunca se va a ir, pero debemos aprender a caminar aunque est\u00e9 presente. Este episodio es la prueba de que no necesitas un PHD en negocios para crear uno exitoso, pero s\u00ed necesitas dejarte guiar por tu intuici\u00f3n y sue\u00f1os para escribir tus propias reglas.  Escribir Para Publicar - Marguga Leer el Cap\u00edtulo 1 de: Hola, Me Presento - Isa Garcia  Cap\u00edtulo #49 con Gina DeVee Mi Mejor Versi\u00f3n - Libro de Recetas",
+        "duration_ms": 3845063,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/54rxGYZh96b8xZnjyDCxzM"
+        },
+        "href": "https://api.spotify.com/v1/episodes/54rxGYZh96b8xZnjyDCxzM",
+        "html_description": "<p>Este es un cap\u00edtulo de todas las lecciones, miedos y bloqueos de empezar un proyecto significativo para ti misma. En este caso, escribir un libro. Es tambi\u00e9n un recordatorio de dejar a un lado el perfeccionismo para poder empezar a sembrar y cosechar. El miedo nunca se va a ir, pero debemos aprender a caminar aunque est\u00e9 presente. Este episodio es la prueba de que no necesitas un PHD en negocios para crear uno exitoso, pero s\u00ed necesitas dejarte guiar por tu intuici\u00f3n y sue\u00f1os para escribir tus propias reglas.</p> <p><a href=\"https://marguga.mykajabi.com/offers/VwZvAXnS/checkout?fbclid&#61;PAAaZfgNylR6Hv334Wcq2_1uZmxUrr3BfNF10rE7uMrVfPKnbjYf-AMvk00zQ\" rel=\"nofollow\"> Escribir Para Publicar - Marguga</a></p> <p><a href=\"https://holamepresento.substack.com/p/capitulo-1\" rel=\"nofollow\">Leer el Cap\u00edtulo 1 de: Hola, Me Presento - Isa Garcia</a></p> <p><a href=\"https://open.spotify.com/episode/4OteJAiKIESY2sAqG1jxRm?si&#61;2eed5ede7cad416e\" rel=\"nofollow\"> Cap\u00edtulo #49 con Gina DeVee</a></p> <p><a href=\"https://www.isagarcia.online/offers/8KgDFp7u/checkout\" rel=\"nofollow\">Mi Mejor Versi\u00f3n - Libro de Recetas</a></p>",
+        "id": "54rxGYZh96b8xZnjyDCxzM",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#86: Mentalidad de Escritora: c\u00f3mo voy a auto publicar mi primer libro",
+        "release_date": "2023-03-23",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:54rxGYZh96b8xZnjyDCxzM"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/840ae549a6eb1fa00841ae9aca6b0fb0fbde7be0",
+        "description": "Despu\u00e9s de escuchar este cap\u00edtulo tu forma de ver y sentir envidia va a cambiar. Dejar\u00e1s de ser tu propia v\u00edctima, y sentir\u00e1s ese impulso que te faltaba para alcanzar lo que quieres. Aprender\u00e1s a poner de lado la romantizaci\u00f3n de lo que se ve de afuera en experiencias ajenas y empezar\u00e1s a apropiarte de tus decisiones sin buscar validaci\u00f3n externa.\u00a0 No olvides compartir tu parte/quote/reflexi\u00f3n favorita del podcast por Twitter para participar por journals <3 Twitter del podcast: @mimejorversionp Instagram de la empresa: @isagarciacorp \u00a0",
+        "duration_ms": 3428153,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6cJZKtmULXqLWbMeuUj6VY"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6cJZKtmULXqLWbMeuUj6VY",
+        "html_description": "<p>Despu\u00e9s de escuchar este cap\u00edtulo tu forma de ver y sentir envidia va a cambiar. Dejar\u00e1s de ser tu propia v\u00edctima, y sentir\u00e1s ese impulso que te faltaba para alcanzar lo que quieres. Aprender\u00e1s a poner de lado la romantizaci\u00f3n de lo que se ve de afuera en experiencias ajenas y empezar\u00e1s a apropiarte de tus decisiones sin buscar validaci\u00f3n externa.\u00a0</p> <p>No olvides compartir tu parte/quote/reflexi\u00f3n favorita del podcast por Twitter para participar por journals &lt;3</p> <p>Twitter del podcast: <a href=\"https://twitter.com/mimejorversionp\" rel=\"nofollow\">&#64;mimejorversionp</a></p> <p>Instagram de la empresa: <a href=\"https://www.instagram.com/isagarciacorp/\" rel=\"nofollow\">&#64;isagarciacorp</a></p> <p>\u00a0</p>",
+        "id": "6cJZKtmULXqLWbMeuUj6VY",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#85: C\u00f3mo usar la comparaci\u00f3n y envidia a tu favor",
+        "release_date": "2023-03-13",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:6cJZKtmULXqLWbMeuUj6VY"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/eeb5d1600cb841f9a4a059de9bd173e84acb6eb7",
+        "description": "Con este cap\u00edtulo vas a aprender a ver a las enfermedades como algo mucho m\u00e1s profundo, y las verdaderas razones detr\u00e1s. Trabajar en tu bienestar y salud es tambi\u00e9n trabajar en tu brillo interior. No es f\u00e1cil cambiar tu estilo de vida, requiere de mucha devoci\u00f3n y compromiso, pero este episodio es un recordatorio de que no est\u00e1s sola <3. Despu\u00e9s de escucharlo vas a poner mucha m\u00e1s atenci\u00f3n a todo lo que tu cuerpo te dice para que brilles en tu estado m\u00e1s aut\u00e9ntico y saludable. ______________________________________________________ Links:  \u00a0#1. C\u00f3mo estoy sanando mi digesti\u00f3n de ra\u00edz - Mi Mejor Versi\u00f3n Diccionario de enfermedades Wellfed - Bone Broth Hidroterapia de Colon Medical Medium ______________________________________________________ MINUTO 1: Vivir con un diagn\u00f3stico que afecta todos los campos de tu vida. MINUTO 5: Hacerte responsable de tu vida y tu salud para florecer. MINUTO 11: Sanar de ra\u00edz para nutrir tu brillo interior. MINUTO 18: Investigar y probar hasta estar al volante de tu vida. MINUTO 23: La insatisfacci\u00f3n de refleja c\u00f3mo enfermedad. MINUTO 31: Un s\u00edntoma no siempre requiere de una pastilla, y todo est\u00e1 integrado. MINUTO 37: \u201cQuiero\u201d en lugar de \u201cTengo que\u201d. MINUTO 40: Tips para sanar tu digesti\u00f3n por Isa. MINUTO 47: La falta de respuestas te quita claridad pero te pone responsabilidad. MINUTO 54: La informaci\u00f3n te da poder y decisi\u00f3n. MINUTO 57: Soltar identidades para sanar. \u00a0 \u00a0",
+        "duration_ms": 4158014,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0P0dLlf69aNUiK6HHlZqQA"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0P0dLlf69aNUiK6HHlZqQA",
+        "html_description": "<p>Con este cap\u00edtulo vas a aprender a ver a las enfermedades como algo mucho m\u00e1s profundo, y las verdaderas razones detr\u00e1s. Trabajar en tu bienestar y salud es tambi\u00e9n trabajar en tu brillo interior. No es f\u00e1cil cambiar tu estilo de vida, requiere de mucha devoci\u00f3n y compromiso, pero este episodio es un recordatorio de que no est\u00e1s sola &lt;3. Despu\u00e9s de escucharlo vas a poner mucha m\u00e1s atenci\u00f3n a todo lo que tu cuerpo te dice para que brilles en tu estado m\u00e1s aut\u00e9ntico y saludable.</p> <p>______________________________________________________</p> <p>Links:</p> <p><a href=\"https://open.spotify.com/episode/4HASljJUI45tKYNLAAzOUn?si&#61;cc2ec87b73c64629\" rel=\"nofollow\"> \u00a0#1. C\u00f3mo estoy sanando mi digesti\u00f3n de ra\u00edz - Mi Mejor Versi\u00f3n</a></p> <p><a href=\"https://www.sanateysana.com/diccionarioemocional.html\" rel=\"nofollow\">Diccionario de enfermedades</a></p> <p><a href=\"https://wellfed.com.ec\" rel=\"nofollow\">Wellfed - Bone Broth</a></p> <p><a href=\"https://www.scire.com.ec/hidroterapia-de-colon-3.html\" rel=\"nofollow\">Hidroterapia de Colon</a></p> <p><a href=\"https://www.medicalmedium.com\" rel=\"nofollow\">Medical Medium</a></p> <p>______________________________________________________</p> <p>MINUTO 1: Vivir con un diagn\u00f3stico que afecta todos los campos de tu vida.</p> <p>MINUTO 5: Hacerte responsable de tu vida y tu salud para florecer.</p> <p>MINUTO 11: Sanar de ra\u00edz para nutrir tu brillo interior.</p> <p>MINUTO 18: Investigar y probar hasta estar al volante de tu vida.</p> <p>MINUTO 23: La insatisfacci\u00f3n de refleja c\u00f3mo enfermedad.</p> <p>MINUTO 31: Un s\u00edntoma no siempre requiere de una pastilla, y todo est\u00e1 integrado.</p> <p>MINUTO 37: \u201cQuiero\u201d en lugar de \u201cTengo que\u201d.</p> <p>MINUTO 40: Tips para sanar tu digesti\u00f3n por Isa.</p> <p>MINUTO 47: La falta de respuestas te quita claridad pero te pone responsabilidad.</p> <p>MINUTO 54: La informaci\u00f3n te da poder y decisi\u00f3n.</p> <p>MINUTO 57: Soltar identidades para sanar.</p> <p>\u00a0</p> <p>\u00a0</p>",
+        "id": "0P0dLlf69aNUiK6HHlZqQA",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#84: C\u00f3mo san\u00e9 mi digesti\u00f3n de ra\u00edz",
+        "release_date": "2023-03-06",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:0P0dLlf69aNUiK6HHlZqQA"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/5e801d27d7d6682bd7b51ec28b633cf12072077a",
+        "description": "En este cap\u00edtulo vas a aprender nuevas estrategias para navegar nuevas temporadas. Vas a darte cuenta de que tienes el poder de crear nuevas tradiciones que te anclen a disfrutar el momento sin perder norte, sosteniendo la ilusi\u00f3n. Desde ahora vas a poder rebalancear y reajustar esas cosas en tu vida seg\u00fan lo que vayas necesitando, sea por ti, o por el entorno al que eliges o no adaptarte. Academia de Empresarias: https://www.isagarcia.online/academia (SOLD OUT) Si no quieres perder momentum, la Academia Intensiva est\u00e1 abierta y en 50% por pocas horas, aqu\u00ed: https://bit.ly/3J0gdSL\u00a0  ______________________________________________________ Favoritos para el invierno:  Bone broth\u00a0  Exfoliante de cara  Crema hidratante  Crema bronceadora  Humidificador   ______________________________________________________ MINUTO 1: Vivir con un diagn\u00f3stico que afecta todos los campos de tu vida. MINUTO 5: Hacerte responsable de tu vida y tu salud para florecer. MINUTO 11: Sanar de ra\u00edz para nutrir tu brillo interior. MINUTO 18: Investigar y probar hasta estar al volante de tu vida. MINUTO 23: La insatisfacci\u00f3n de refleja c\u00f3mo enfermedad. MINUTO 31: Un s\u00edntoma no siempre requiere de una pastilla, y todo est\u00e1 integrado. MINUTO 37: \u201cQuiero\u201d en lugar de \u201cTengo que\u201d. MINUTO 40: Tips para sanar digestion por Isa MINUTO 47: La falta de respuestas te quita claridad pero te pone responsabilidad. MINUTO 54: La informaci\u00f3n te da poder y decisi\u00f3n. MINUTO 57: Soltar identidades para sanar.",
+        "duration_ms": 3355680,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/1w6LBGO5BlM87keKvj1FjU"
+        },
+        "href": "https://api.spotify.com/v1/episodes/1w6LBGO5BlM87keKvj1FjU",
+        "html_description": "<p>En este cap\u00edtulo vas a aprender nuevas estrategias para navegar nuevas temporadas. Vas a darte cuenta de que tienes el poder de crear nuevas tradiciones que te anclen a disfrutar el momento sin perder norte, sosteniendo la ilusi\u00f3n. Desde ahora vas a poder rebalancear y reajustar esas cosas en tu vida seg\u00fan lo que vayas necesitando, sea por ti, o por el entorno al que eliges o no adaptarte.</p> <p>Academia de Empresarias: <a href=\"https://www.isagarcia.online/academia\" rel=\"nofollow\">https://www.isagarcia.online/academia</a> (SOLD OUT)</p> <p>Si no quieres perder momentum, la Academia Intensiva est\u00e1 abierta y en 50% por pocas horas, aqu\u00ed: <a href=\"https://bit.ly/3J0gdSL\" rel=\"nofollow\">https://bit.ly/3J0gdSL</a>\u00a0</p> <p> ______________________________________________________</p> <p><a href=\"https://www.isagarcia.online/favoritos\" rel=\"nofollow\">Favoritos</a> para el invierno:</p> <ul><li>Bone broth\u00a0</li><li><a href=\"https://www.amazon.com/dp/B09QC27FKJ?&amp;linkCode&#61;sl1&amp;tag&#61;isagarciaonli-20&amp;linkId&#61;252ac887cf5db1a280bbbce5596a6776&amp;language&#61;es_US&amp;ref_&#61;as_li_ss_tl\" rel=\"nofollow\"> Exfoliante de cara</a></li><li><a href=\"https://www.amazon.com/dp/B09NBBDPHB?&amp;linkCode&#61;sl1&amp;tag&#61;isagarciaonli-20&amp;linkId&#61;3e3be070ca917874ba3d2107ad5a274b&amp;language&#61;es_US&amp;ref_&#61;as_li_ss_tl\" rel=\"nofollow\"> Crema hidratante</a></li><li><a href=\"https://www.amazon.com/dp/B07F411JQ4?ref_&#61;cm_sw_r_apin_dp_KK3X64MSZKFHZD8WJCY7\" rel=\"nofollow\"> Crema bronceadora</a></li><li><a href=\"https://www.amazon.com/dp/B09SHH13PH?&amp;linkCode&#61;sl1&amp;tag&#61;isagarciaonli-20&amp;linkId&#61;ff2265f8268a2468024e59cfb749d61c&amp;language&#61;es_US&amp;ref_&#61;as_li_ss_tl\" rel=\"nofollow\"> Humidificador</a></li></ul> <p> ______________________________________________________</p> <p>MINUTO 1: Vivir con un diagn\u00f3stico que afecta todos los campos de tu vida.</p> <p>MINUTO 5: Hacerte responsable de tu vida y tu salud para florecer.</p> <p>MINUTO 11: Sanar de ra\u00edz para nutrir tu brillo interior.</p> <p>MINUTO 18: Investigar y probar hasta estar al volante de tu vida.</p> <p>MINUTO 23: La insatisfacci\u00f3n de refleja c\u00f3mo enfermedad.</p> <p>MINUTO 31: Un s\u00edntoma no siempre requiere de una pastilla, y todo est\u00e1 integrado.</p> <p>MINUTO 37: \u201cQuiero\u201d en lugar de \u201cTengo que\u201d.</p> <p>MINUTO 40: Tips para sanar digestion por Isa</p> <p>MINUTO 47: La falta de respuestas te quita claridad pero te pone responsabilidad.</p> <p>MINUTO 54: La informaci\u00f3n te da poder y decisi\u00f3n.</p> <p>MINUTO 57: Soltar identidades para sanar.</p>",
+        "id": "1w6LBGO5BlM87keKvj1FjU",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#83: Invierno, me cambiaste",
+        "release_date": "2023-02-27",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:1w6LBGO5BlM87keKvj1FjU"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/cbbe4cff029e4a4f4e152652dd3f99ad16363735",
+        "description": "Este cap\u00edtulo es una gu\u00eda para que puedas darte cuenta si eres una Emprendedora Frustrada o una Empresaria Alineada. Este es un paso a paso de lo que Isa no har\u00eda para construir una empresa desde cero en el 2023. Despu\u00e9s de este cap\u00edtulo vas a diferenciar entre t\u00e1ctica (y por qu\u00e9 no son sostenibles en el tiempo), y estrategia (donde te deber\u00edas enfocar). Vas a tener un mapa claro de que hacer y que no hacer respecto a crear contenido, to do lists, tu seguridad y trabajo interior, tu desarrollo de destrezas, y rehusarte a soltar. Lista de Espera/Inscripciones a la Academia de Empresarias:\u00a0 https://www.isagarcia.online/academia Instagram de la Empresa: @isagarciacorp ______________________________________________________ GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: Celebraci\u00f3n de 1M de descargas en el podcast. MINUTO 6: C\u00f3mo saber cuando empezar un proyecto. MINUTO 14: Emprendedora Frustrada vs. Empresaria Alineada MINUTO 19: Diferencia entre t\u00e1ctica y estrategia, y cu\u00e1l deber\u00edas usar. MINUTO 28: Concentrarte s\u00f3lo en el to do list no te llevar\u00e1 a ning\u00fan lado. MINUTO 33: Una emprendedora frustrada busca soluciones temporales. MINUTO 39: C\u00f3mo dejar de ver a tu competencia como un obst\u00e1culo. MINUTO 44: El amor por lo que haces y tu para qu\u00e9. MINUTO 48: Una estrategia de negocios que funciona. MINUTO 54: Renovaci\u00f3n de experiencias y recursos. MINUTO 59: Tomar decisiones eficientes y despedir lo que ya no debe ser. MINUTO 60: El miedo paralizante al fracaso.",
+        "duration_ms": 4117550,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/2V2HrWt4vDCmIXIOXEQ3w7"
+        },
+        "href": "https://api.spotify.com/v1/episodes/2V2HrWt4vDCmIXIOXEQ3w7",
+        "html_description": "<p>Este cap\u00edtulo es una gu\u00eda para que puedas darte cuenta si eres una Emprendedora Frustrada o una Empresaria Alineada. Este es un paso a paso de lo que Isa no har\u00eda para construir una empresa desde cero en el 2023. Despu\u00e9s de este cap\u00edtulo vas a diferenciar entre t\u00e1ctica (y por qu\u00e9 no son sostenibles en el tiempo), y estrategia (donde te deber\u00edas enfocar). Vas a tener un mapa claro de que hacer y que no hacer respecto a crear contenido, to do lists, tu seguridad y trabajo interior, tu desarrollo de destrezas, y rehusarte a soltar.</p> <p>Lista de Espera/Inscripciones a la Academia de Empresarias:\u00a0</p> <p><a href=\"https://www.isagarcia.online/academia\" rel=\"nofollow\">https://www.isagarcia.online/academia</a></p> <p>Instagram de la Empresa: <a href=\"https://www.instagram.com/isagarciacorp/\" rel=\"nofollow\">&#64;isagarciacorp</a></p> <p>______________________________________________________</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: Celebraci\u00f3n de 1M de descargas en el podcast.</p> <p>MINUTO 6: C\u00f3mo saber cuando empezar un proyecto.</p> <p>MINUTO 14: Emprendedora Frustrada vs. Empresaria Alineada</p> <p>MINUTO 19: Diferencia entre t\u00e1ctica y estrategia, y cu\u00e1l deber\u00edas usar.</p> <p>MINUTO 28: Concentrarte s\u00f3lo en el to do list no te llevar\u00e1 a ning\u00fan lado.</p> <p>MINUTO 33: Una emprendedora frustrada busca soluciones temporales.</p> <p>MINUTO 39: C\u00f3mo dejar de ver a tu competencia como un obst\u00e1culo.</p> <p>MINUTO 44: El amor por lo que haces y tu para qu\u00e9.</p> <p>MINUTO 48: Una estrategia de negocios que funciona.</p> <p>MINUTO 54: Renovaci\u00f3n de experiencias y recursos.</p> <p>MINUTO 59: Tomar decisiones eficientes y despedir lo que ya no debe ser.</p> <p>MINUTO 60: El miedo paralizante al fracaso.</p>",
+        "id": "2V2HrWt4vDCmIXIOXEQ3w7",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#82: Emprendedora Frustrada vs. Empresaria Alineada (y Predicciones 2023)",
+        "release_date": "2023-02-20",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:2V2HrWt4vDCmIXIOXEQ3w7"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/f324299504d21a8bab74e64f659cc2d20bd71524",
+        "description": "Este episodio bonus especial es una activaci\u00f3n de 10 minutos. Como dice su nombre, vamos a activar nuestra energ\u00eda corporal para amplificar nuestra capacidad de creaci\u00f3n. Puedes usar esta herramienta cuantas veces quieras y necesites. A trav\u00e9s de ella conectar\u00e1s con tu cuerpo y con lo que le es ligero o pesado. Es hora de fluir en creatividad y dejarles a tus manos bailar y crear. ______________________________________________________ Waitlist Academia de Empresarias: https://www.isagarcia.online/academia (Durante la Academia vamos a empezar todos los lunes con una de estas activaciones). \u00a0",
+        "duration_ms": 587520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/2xWzhNtLjPTFfr553I1ik5"
+        },
+        "href": "https://api.spotify.com/v1/episodes/2xWzhNtLjPTFfr553I1ik5",
+        "html_description": "<p>Este episodio bonus especial es una activaci\u00f3n de 10 minutos. Como dice su nombre, vamos a activar nuestra energ\u00eda corporal para amplificar nuestra capacidad de creaci\u00f3n. Puedes usar esta herramienta cuantas veces quieras y necesites. A trav\u00e9s de ella conectar\u00e1s con tu cuerpo y con lo que le es ligero o pesado. Es hora de fluir en creatividad y dejarles a tus manos bailar y crear.</p> <p>______________________________________________________</p> <p>Waitlist Academia de Empresarias: <a href=\"https://www.isagarcia.online/academia\" rel=\"nofollow\">https://www.isagarcia.online/academia</a></p> <p>(Durante la Academia vamos a empezar todos los lunes con una de estas activaciones).</p> <p>\u00a0</p>",
+        "id": "2xWzhNtLjPTFfr553I1ik5",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#81: Activaci\u00f3n de Creaci\u00f3n",
+        "release_date": "2023-02-13",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:2xWzhNtLjPTFfr553I1ik5"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/f456b26a192268deb0e4022274f2de8d741797fd",
+        "description": "Las redes sociales son un canal, y de hecho es uno de los m\u00e1s importantes cuando tienes un negocio digital. \u00bfQu\u00e9 pasar\u00eda si dejas de quejarte de esta herramienta todo el tiempo y te pones a accionar? En este cap\u00edtulo vas a dejar de ver al algoritmo como tu enemigo y aprender\u00e1s los c\u00f3digos energ\u00e9ticos para usarlo a tu favor. Te comparto mis estrategias para hacer de las redes sociales mi lugar de trabajo al que me presento todos los d\u00edas, donde se abren portales y topamos vidas. Waitlist Academia de Empresarias: https://www.isagarcia.online/academia  ______________________________________________________ GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: Met\u00e1fora de Da Vinci quej\u00e1ndose por *tener* que pintar. MINUTO 5: Las redes sociales son una herramienta de trabajo gratuita. MINUTO 10: Energ\u00eda de impacto, prop\u00f3sito y creaci\u00f3n para tu empresa digital. MINUTO 15: Tu relaci\u00f3n con las redes sociales. MINUTO 23: Las plataformas digitales son herramientas para tu empresa digital. MINUTO 28: Disfrutar el proceso de aprender, fracasar y mejorar en redes sociales. MINUTO 35: Dejar de tratar las herramientas digitales como un chiste. MINUTO 41: Desarrollo de destrezas con pr\u00e1ctica y tiempo. MINUTO 47: Con\u00e9ctate energ\u00e9ticamente con las herramientas y tu servicio. MINUTO 50: Encontrar la parte de ti que te est\u00e1 poniendo limitaciones. MINUTO 56: Tener una visi\u00f3n, norte y prop\u00f3sito claro para crear tu empresa y no rendirte. MINUTO 64: Tu empresa no eres t\u00fa.\u00a0",
+        "duration_ms": 4234318,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/3jMSEXOFVXnxgdMG495R9q"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3jMSEXOFVXnxgdMG495R9q",
+        "html_description": "<p>Las redes sociales son un canal, y de hecho es uno de los m\u00e1s importantes cuando tienes un negocio digital. \u00bfQu\u00e9 pasar\u00eda si dejas de quejarte de esta herramienta todo el tiempo y te pones a accionar? En este cap\u00edtulo vas a dejar de ver al algoritmo como tu enemigo y aprender\u00e1s los c\u00f3digos energ\u00e9ticos para usarlo a tu favor. Te comparto mis estrategias para hacer de las redes sociales mi lugar de trabajo al que me presento todos los d\u00edas, donde se abren portales y topamos vidas.</p> <p>Waitlist Academia de Empresarias: <a href=\"https://www.isagarcia.online/academia\" rel=\"nofollow\">https://www.isagarcia.online/academia</a></p> <p> ______________________________________________________</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: Met\u00e1fora de Da Vinci quej\u00e1ndose por *tener* que pintar.</p> <p>MINUTO 5: Las redes sociales son una herramienta de trabajo gratuita.</p> <p>MINUTO 10: Energ\u00eda de impacto, prop\u00f3sito y creaci\u00f3n para tu empresa digital.</p> <p>MINUTO 15: Tu relaci\u00f3n con las redes sociales.</p> <p>MINUTO 23: Las plataformas digitales son herramientas para tu empresa digital.</p> <p>MINUTO 28: Disfrutar el proceso de aprender, fracasar y mejorar en redes sociales.</p> <p>MINUTO 35: Dejar de tratar las herramientas digitales como un chiste.</p> <p>MINUTO 41: Desarrollo de destrezas con pr\u00e1ctica y tiempo.</p> <p>MINUTO 47: Con\u00e9ctate energ\u00e9ticamente con las herramientas y tu servicio.</p> <p>MINUTO 50: Encontrar la parte de ti que te est\u00e1 poniendo limitaciones.</p> <p>MINUTO 56: Tener una visi\u00f3n, norte y prop\u00f3sito claro para crear tu empresa y no rendirte.</p> <p>MINUTO 64: Tu empresa no eres t\u00fa.\u00a0</p>",
+        "id": "3jMSEXOFVXnxgdMG495R9q",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#80: Secretos para enamorarte del algoritmo",
+        "release_date": "2023-02-13",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:3jMSEXOFVXnxgdMG495R9q"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/cb0158cb83ba6e9908f1f8895c4c9390c047692d",
+        "description": "Este cap\u00edtulo es una entrevista a Vale, graduada de la Academia de Empresarias y CEO de Hireboost, una empresa que ayuda a personas a encontrar el trabajo de sus sue\u00f1os. Despu\u00e9s de escuchar este episodio vas a darte cuenta que no necesitas entrar con ideas claras a la Academia, sino que lo descubrir\u00e1s en el camino. Adem\u00e1s aprender\u00e1s estrategias para contratar un equipo so\u00f1ado para tu empresa digital. Lista de Espera Academia de Empresarias: https://www.isagarcia.online/academia\u00a0 IG Hireboost: http://bit.ly/3Ynjn7K\u00a0 ______________________________________________________ Episodios con graduadas de la Academia de Empresarias: #25. Florencia Ortega: Recuperar tu Ciclo Menstrual, Esencia Femenina y Creando la Empresa Digital de tus Sue\u00f1os: spoti.fi/3JIRPFH #27. Dani G. Schulz: de influencer a Empresaria Digital, mindset, relaci\u00f3n con el dinero y como crecer en IG: https://spoti.fi/40qghSt\u00a0 #31: Uti Torres: de influencer a Empresaria Alineada, c\u00f3mo deslumbrar y superar tus propias expectativas: https://spoti.fi/3RHdXCr #50: Susana Ilustrada: de abogada a Empresaria Digital: https://spoti.fi/3HEjMf8\u00a0 #78 Mam\u00e1 recargada y empresaria digital: Emi Ponce: spoti.fi/3X4Trgi ______________________________________________________ GUIA DEL CAP\u00edTULO: MINUTO 1: Presentaci\u00f3n a Vale Aguerri e informaci\u00f3n de la Academia de Empresarias MINUTO 7: Dejarte guiar por esa vocecita de que est\u00e1s hecha para m\u00e1s. MINUTO 15: No necesitas una idea de lo que quieres hacer para entrar a la Academia de Empresarias. MINUTO 20: Dudar en ti misma, y necesitar que otros te lo digan para reconocerlo. MINUTO 24: Piezas abundantes que encajan para ayudarte a crear la vida de tus sue\u00f1os. MINUTO 28: Recomendaciones para contratar el equipo de tus sue\u00f1os. MINUTO 35: C\u00f3mo usar LinkedIn estrat\u00e9gicamente. MINUTO 40: Para tener una empresa digital no necesitas miles de seguidores. MINUTO 45: Nunca sabes qui\u00e9n te est\u00e1 viendo, ni cuando ya est\u00e1n en el lugar para pagarte. MINUTO 46: Hireboost es una empresa que busca conectar empresas norteamericanas con talento latino. MINUTO 51: El 2022 fue el recordatorio de que podemos crear cosas grandes. MINUTO 60: Qu\u00e9 decirles a m\u00e1s mujeres que sue\u00f1an con ser empresarias. \u00a0",
+        "duration_ms": 4321567,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/19uU0T5DsW6LgqmlFnmeHt"
+        },
+        "href": "https://api.spotify.com/v1/episodes/19uU0T5DsW6LgqmlFnmeHt",
+        "html_description": "<p>Este cap\u00edtulo es una entrevista a Vale, graduada de la Academia de Empresarias y CEO de Hireboost, una empresa que ayuda a personas a encontrar el trabajo de sus sue\u00f1os. Despu\u00e9s de escuchar este episodio vas a darte cuenta que no necesitas entrar con ideas claras a la Academia, sino que lo descubrir\u00e1s en el camino. Adem\u00e1s aprender\u00e1s estrategias para contratar un equipo so\u00f1ado para tu empresa digital.</p> <p>Lista de Espera Academia de Empresarias: <a href=\"https://www.isagarcia.online/academia\" rel=\"nofollow\">https://www.isagarcia.online/academia</a>\u00a0</p> <p>IG Hireboost: http://bit.ly/3Ynjn7K\u00a0</p> <p>______________________________________________________</p> <p>Episodios con graduadas de la Academia de Empresarias:</p> <p>#25. Florencia Ortega: Recuperar tu Ciclo Menstrual, Esencia Femenina y Creando la Empresa Digital de tus Sue\u00f1os: <a href=\"https://open.spotify.com/episode/7pn6VtlMedNfiQsbrTniw7?si&#61;7109be415ef14e76\" rel=\"nofollow\">spoti.fi/3JIRPFH</a></p> <p>#27. Dani G. Schulz: de influencer a Empresaria Digital, mindset, relaci\u00f3n con el dinero y como crecer en IG: <a href=\"https://spoti.fi/40qghSt\" rel=\"nofollow\">https://spoti.fi/40qghSt</a>\u00a0</p> <p>#31: Uti Torres: de influencer a Empresaria Alineada, c\u00f3mo deslumbrar y superar tus propias expectativas: <a href=\"https://spoti.fi/3RHdXCr\" rel=\"nofollow\">https://spoti.fi/3RHdXCr</a></p> <p>#50: Susana Ilustrada: de abogada a Empresaria Digital: <a href=\"https://spoti.fi/3HEjMf8\" rel=\"nofollow\">https://spoti.fi/3HEjMf8</a>\u00a0</p> <p>#78 Mam\u00e1 recargada y empresaria digital: Emi Ponce: <a href=\"https://open.spotify.com/episode/0Yiar7cFdo8J9K0mJFGw58?si&#61;10be1803ad344038\" rel=\"nofollow\">spoti.fi/3X4Trgi</a></p> <p>______________________________________________________</p> <p>GUIA DEL CAP\u00edTULO:</p> <p>MINUTO 1: Presentaci\u00f3n a Vale Aguerri e informaci\u00f3n de la Academia de Empresarias</p> <p>MINUTO 7: Dejarte guiar por esa vocecita de que est\u00e1s hecha para m\u00e1s.</p> <p>MINUTO 15: No necesitas una idea de lo que quieres hacer para entrar a la Academia de Empresarias.</p> <p>MINUTO 20: Dudar en ti misma, y necesitar que otros te lo digan para reconocerlo.</p> <p>MINUTO 24: Piezas abundantes que encajan para ayudarte a crear la vida de tus sue\u00f1os.</p> <p>MINUTO 28: Recomendaciones para contratar el equipo de tus sue\u00f1os.</p> <p>MINUTO 35: C\u00f3mo usar LinkedIn estrat\u00e9gicamente.</p> <p>MINUTO 40: Para tener una empresa digital no necesitas miles de seguidores.</p> <p>MINUTO 45: Nunca sabes qui\u00e9n te est\u00e1 viendo, ni cuando ya est\u00e1n en el lugar para pagarte.</p> <p>MINUTO 46: Hireboost es una empresa que busca conectar empresas norteamericanas con talento latino.</p> <p>MINUTO 51: El 2022 fue el recordatorio de que podemos crear cosas grandes.</p> <p>MINUTO 60: Qu\u00e9 decirles a m\u00e1s mujeres que sue\u00f1an con ser empresarias.</p> <p>\u00a0</p>",
+        "id": "19uU0T5DsW6LgqmlFnmeHt",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#79 El trabajo de tus sue\u00f1os con Valeria Aguerri (Empresaria Digital)",
+        "release_date": "2023-02-06",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:19uU0T5DsW6LgqmlFnmeHt"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/2b56d479669efafa3a951757d4984c22cb5eb32a",
+        "description": "Este cap\u00edtulo es una conversaci\u00f3n con Emi Ponce, mam\u00e1, consultora de sue\u00f1o infantil y empresaria digital. Gracias a esta entrevista vas a romper con las ideas y constructos sociales tradicionales que has escuchado sobre dormir y sacrificar tu vida cuando eres mam\u00e1. Emi nos cuenta la historia que le llev\u00f3 a ser Empresaria Digital y tomar la Academia de Empresarias, para vender servicios digitales y un journal f\u00edsico para ni\u00f1os que llega a diferentes partes del mundo. Lista de Espera Academia de Empresarias: https://www.isagarcia.online/academia\u00a0 Lista de Espera Journal: https://www.isagarcia.online/journal IG Emi: @emiponcesleep ______________________________________________________ GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: Introducci\u00f3n al cap\u00edtulo y presentaci\u00f3n a Emi Ponce MINUTO 4: Historia gris de que tener hijos es no dormir. MINUTO 8: Existen varios caminos, una manera de ser mam\u00e1 no es la \u00fanica. MINUTO 14: El impacto en la vida despu\u00e9s de volver a dormir y querer compartirlo con m\u00e1s familias MINUTO 16: Seguir el llamado de crear una empresa digital. MINUTO 22: El \u201csacrificio\u201d de ser mam\u00e1. MINUTO 28: Qu\u00e9 significa ser una mam\u00e1 recargada. MINUTO 38: No tienes que elegir entre ser mam\u00e1 y todo lo dem\u00e1s. MINUTO 47: La magia de moverte imperfectamente de forma profesional y familiar. MINUTO 57: Invertir en tu negocio, y ser paciente con el proceso. MINUTO 69: Reinventarte siendo mam\u00e1 ante las situaciones externas. MINUTO 72: Journaling y herramientas para facilitar la hora de dormir para ni\u00f1os. MINUTO 80: Crear un producto f\u00edsico desde cero. MUNUTO 94: P\u00e1gina Web de Emi: www.emiliaponce.com\u00a0 \u00a0",
+        "duration_ms": 5688293,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0Yiar7cFdo8J9K0mJFGw58"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0Yiar7cFdo8J9K0mJFGw58",
+        "html_description": "<p>Este cap\u00edtulo es una conversaci\u00f3n con Emi Ponce, mam\u00e1, consultora de sue\u00f1o infantil y empresaria digital. Gracias a esta entrevista vas a romper con las ideas y constructos sociales tradicionales que has escuchado sobre dormir y sacrificar tu vida cuando eres mam\u00e1. Emi nos cuenta la historia que le llev\u00f3 a ser Empresaria Digital y tomar la Academia de Empresarias, para vender servicios digitales y un journal f\u00edsico para ni\u00f1os que llega a diferentes partes del mundo.</p> <p>Lista de Espera Academia de Empresarias: <a href=\"https://www.isagarcia.online/academia\" rel=\"nofollow\">https://www.isagarcia.online/academia</a>\u00a0</p> <p>Lista de Espera Journal: <a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">https://www.isagarcia.online/journal</a></p> <p>IG Emi: &#64;emiponcesleep</p> <p>______________________________________________________</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: Introducci\u00f3n al cap\u00edtulo y presentaci\u00f3n a Emi Ponce</p> <p>MINUTO 4: Historia gris de que tener hijos es no dormir.</p> <p>MINUTO 8: Existen varios caminos, una manera de ser mam\u00e1 no es la \u00fanica.</p> <p>MINUTO 14: El impacto en la vida despu\u00e9s de volver a dormir y querer compartirlo con m\u00e1s familias</p> <p>MINUTO 16: Seguir el llamado de crear una empresa digital.</p> <p>MINUTO 22: El \u201csacrificio\u201d de ser mam\u00e1.</p> <p>MINUTO 28: Qu\u00e9 significa ser una mam\u00e1 recargada.</p> <p>MINUTO 38: No tienes que elegir entre ser mam\u00e1 y todo lo dem\u00e1s.</p> <p>MINUTO 47: La magia de moverte imperfectamente de forma profesional y familiar.</p> <p>MINUTO 57: Invertir en tu negocio, y ser paciente con el proceso.</p> <p>MINUTO 69: Reinventarte siendo mam\u00e1 ante las situaciones externas.</p> <p>MINUTO 72: Journaling y herramientas para facilitar la hora de dormir para ni\u00f1os.</p> <p>MINUTO 80: Crear un producto f\u00edsico desde cero.</p> <p>MUNUTO 94: P\u00e1gina Web de Emi: www.emiliaponce.com\u00a0</p> <p>\u00a0</p>",
+        "id": "0Yiar7cFdo8J9K0mJFGw58",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#78 Mam\u00e1 recargada y empresaria digital: Emi Ponce",
+        "release_date": "2023-01-23",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:0Yiar7cFdo8J9K0mJFGw58"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/f583451858316e840f227580d4baf5364f11aeab",
+        "description": "Gracias a este cap\u00edtulo va a cambiar todo lo que pensabas respecto al \u201cborr\u00f3n y cuenta nueva\u201d, no s\u00f3lo con el nuevo a\u00f1o, sino con cada cambio que atravesar\u00e1s en tu vida. Aprender\u00e1s a reconocer que no existe el \u201cempezar de cero\u201d, porque todos los pasitos anteriores fueron necesarios para cultivar y crecer quien eres, con todo lo que has aprendido hasta ahora. Lista de espera Academia de Empresarias:\u00a0 https://www.isagarcia.online/academia Lista de espera Journal: https://www.isagarcia.online/journal ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: Love/hate relationship con la idea de \u201cBorr\u00f3n y cuenta nueva\u201d. MINUTO 4: Construir tu nueva versi\u00f3n desde el pasado sabiendo qu\u00e9 buscas. MINUTO 7: Episodio #9 De dise\u00f1adora a coach:  https://open.spotify.com/episode/7l8jmi8isSFI3XwtJFqccX?si=1a079ea419c24b24 MINUTO 13: Dejar de pensar en \u201cnuevo a\u00f1o, nueva yo\u201d por miedo a que no sea perfecto. MINUTO 17: Cuando quitas cap\u00edtulos de una historia deja de hacer sentido. MINUTO 24: Buscar que las experiencias se sumen, en lugar de tener que elegir. MINUTO 29: Conectar desde el coraz\u00f3n honrando nuestra historia. MINUTO 35: No escribir tu propia historia es cumplir sue\u00f1os de otras personas. MINUTO 38: Encajar piezas ni un d\u00eda antes, ni un d\u00eda despu\u00e9s.",
+        "duration_ms": 2537430,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/1vclnPsYVPs0srHVylhH4W"
+        },
+        "href": "https://api.spotify.com/v1/episodes/1vclnPsYVPs0srHVylhH4W",
+        "html_description": "<p>Gracias a este cap\u00edtulo va a cambiar todo lo que pensabas respecto al \u201cborr\u00f3n y cuenta nueva\u201d, no s\u00f3lo con el nuevo a\u00f1o, sino con cada cambio que atravesar\u00e1s en tu vida. Aprender\u00e1s a reconocer que no existe el \u201cempezar de cero\u201d, porque todos los pasitos anteriores fueron necesarios para cultivar y crecer quien eres, con todo lo que has aprendido hasta ahora.</p> <p>Lista de espera Academia de Empresarias:\u00a0</p> <p><a href=\"https://www.isagarcia.online/academia\" rel=\"nofollow\">https://www.isagarcia.online/academia</a></p> <p>Lista de espera Journal: <a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">https://www.isagarcia.online/journal</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: Love/hate relationship con la idea de \u201cBorr\u00f3n y cuenta nueva\u201d.</p> <p>MINUTO 4: Construir tu nueva versi\u00f3n desde el pasado sabiendo qu\u00e9 buscas.</p> <p>MINUTO 7: Episodio #9 De dise\u00f1adora a coach: <a href=\"https://open.spotify.com/episode/7l8jmi8isSFI3XwtJFqccX?si&#61;1a079ea419c24b24\" rel=\"nofollow\"> https://open.spotify.com/episode/7l8jmi8isSFI3XwtJFqccX?si&#61;1a079ea419c24b24</a></p> <p>MINUTO 13: Dejar de pensar en \u201cnuevo a\u00f1o, nueva yo\u201d por miedo a que no sea perfecto.</p> <p>MINUTO 17: Cuando quitas cap\u00edtulos de una historia deja de hacer sentido.</p> <p>MINUTO 24: Buscar que las experiencias se sumen, en lugar de tener que elegir.</p> <p>MINUTO 29: Conectar desde el coraz\u00f3n honrando nuestra historia.</p> <p>MINUTO 35: No escribir tu propia historia es cumplir sue\u00f1os de otras personas.</p> <p>MINUTO 38: Encajar piezas ni un d\u00eda antes, ni un d\u00eda despu\u00e9s.</p>",
+        "id": "1vclnPsYVPs0srHVylhH4W",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#77 Borr\u00f3n y cuenta nueva",
+        "release_date": "2023-01-16",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:1vclnPsYVPs0srHVylhH4W"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/d955d7fa20db7d1236d9eb60437ccd06be98b2ed",
+        "description": "En este cap\u00edtulo vas a aprender c\u00f3mo usar el journaling para los negocios. Isa te va a ense\u00f1ar por qu\u00e9 es una estrategia de muy alto retorno y de muy bajo costo. Vas a aprender 10 ejercicios pr\u00e1cticos y sencillos que puedes usar HOY para fortalecer tus destrezas de comunicaci\u00f3n, storytelling y elocuencia. Despu\u00e9s de este cap\u00edtulo vas a querer salir corriendo a escribir todas las ma\u00f1anas. Lista de espera Journal: \u00a0https://www.isagarcia.online/journal ______________________________________________________ GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1 - Inscripciones a 2023 So\u00f1ado: https://www.isagarcia.online/ MINUTO 2 - Implementar el journaling y morning pages como herramientas de negocios. MINUTO 7 - Poner metas y experimentar para ver qu\u00e9 pasa en x tiempo. MINUTO 14 - Los \u201cingredientes\u201d de los negocios, y nuestra relaci\u00f3n con las palabras. MINUTO 17 - Incrementar potencia y destrezas a trav\u00e9s del journaling. MINUTO 20 - Aprender a decirte la verdad y volverte mejor en contar historias. MINUTO 30 - Crear, conectar y sostener tu visi\u00f3n como CEO. MINUTO 35 - Crear met\u00e1foras y s\u00edmbolos para vender. MINUTO 43 - Fortalecer, crecer y escalar destrezas para escalar un negocio. MINUTO 44 - 10 Ejercicios para hacer journaling para los negocios.",
+        "duration_ms": 3224256,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6l3RwvBMxNWQdeOgnbNZz3"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6l3RwvBMxNWQdeOgnbNZz3",
+        "html_description": "<p>En este cap\u00edtulo vas a aprender c\u00f3mo usar el journaling para los negocios. Isa te va a ense\u00f1ar por qu\u00e9 es una estrategia de muy alto retorno y de muy bajo costo. Vas a aprender 10 ejercicios pr\u00e1cticos y sencillos que puedes usar HOY para fortalecer tus destrezas de comunicaci\u00f3n, storytelling y elocuencia. Despu\u00e9s de este cap\u00edtulo vas a querer salir corriendo a escribir todas las ma\u00f1anas.</p> <p>Lista de espera Journal: \u00a0<a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">https://www.isagarcia.online/journal</a></p> <p>______________________________________________________</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1 - Inscripciones a 2023 So\u00f1ado: <a href=\"https://www.isagarcia.online/\" rel=\"nofollow\">https://www.isagarcia.online/</a></p> <p>MINUTO 2 - Implementar el journaling y morning pages como herramientas de negocios.</p> <p>MINUTO 7 - Poner metas y experimentar para ver qu\u00e9 pasa en x tiempo.</p> <p>MINUTO 14 - Los \u201cingredientes\u201d de los negocios, y nuestra relaci\u00f3n con las palabras.</p> <p>MINUTO 17 - Incrementar potencia y destrezas a trav\u00e9s del journaling.</p> <p>MINUTO 20 - Aprender a decirte la verdad y volverte mejor en contar historias.</p> <p>MINUTO 30 - Crear, conectar y sostener tu visi\u00f3n como CEO.</p> <p>MINUTO 35 - Crear met\u00e1foras y s\u00edmbolos para vender.</p> <p>MINUTO 43 - Fortalecer, crecer y escalar destrezas para escalar un negocio.</p> <p>MINUTO 44 - 10 Ejercicios para hacer journaling para los negocios.</p>",
+        "id": "6l3RwvBMxNWQdeOgnbNZz3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#76 Journaling para los negocios",
+        "release_date": "2023-01-09",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:6l3RwvBMxNWQdeOgnbNZz3"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/ce9448f9dc15943e231948150aec236cef9670c9",
+        "description": "Este cap\u00edtulo bonus especial es una activaci\u00f3n de 5 minutos para conectarte con tus ganas de m\u00e1s. Esc\u00fachala cuando quieras activar las ganas de comerte el mundo, cuando te estes comparando, cuando sientas que estas tarde a algo o tengas miedo de sonar. Escucha esta meditaci\u00f3n cuando quieras sentir ilusi\u00f3n por todo lo que puedes crear o cuando tengas miedo a sentirte malagradecida por querer M\u00c1S. Inscripciones 2023 So\u00f1ado: https://www.isagarcia.online/\u00a0 Lista de espera Journal: https://www.isagarcia.online/journal",
+        "duration_ms": 309159,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/31uKLllawKrqmR3zEaJMXW"
+        },
+        "href": "https://api.spotify.com/v1/episodes/31uKLllawKrqmR3zEaJMXW",
+        "html_description": "<p>Este cap\u00edtulo bonus especial es una activaci\u00f3n de 5 minutos para conectarte con tus ganas de m\u00e1s. Esc\u00fachala cuando quieras activar las ganas de comerte el mundo, cuando te estes comparando, cuando sientas que estas tarde a algo o tengas miedo de sonar. Escucha esta meditaci\u00f3n cuando quieras sentir ilusi\u00f3n por todo lo que puedes crear o cuando tengas miedo a sentirte malagradecida por querer M\u00c1S.</p> <p>Inscripciones 2023 So\u00f1ado: <a href=\"https://www.isagarcia.online/\" rel=\"nofollow\">https://www.isagarcia.online/</a>\u00a0</p> <p>Lista de espera Journal: <a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">https://www.isagarcia.online/journal</a></p>",
+        "id": "31uKLllawKrqmR3zEaJMXW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#75 Activaci\u00f3n: Ganas de m\u00e1s",
+        "release_date": "2023-01-02",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:31uKLllawKrqmR3zEaJMXW"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/8c519434f047d830959eaa6d4589969856dafce8",
+        "description": "En este episodio Isa rompe con las ideas y paradigmas sobre el concepto de \u201cganas de m\u00e1s\u201d. Nos demuestra que el inconformismo es necesario para habitar nuevos lugares y sue\u00f1os. Vas a aprender a identificar entre las ganas de m\u00e1s basadas en la escasez, miedo y limitaci\u00f3n versus las ganas de m\u00e1s alineadas que expanden y crean. Lista de espera Journal\u00a0: https://www.isagarcia.online/journal Inscripciones 2023 So\u00f1ado: https://isagarcia.online/ ______________________________________________________ GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: Met\u00e1fora sobre l\u00edmites o expansi\u00f3n para simbolizar las ganas de m\u00e1s. MINUTO 5: Relaci\u00f3n con tus ganas de m\u00e1s desde el inconformismo. MINUTO 8: Explorar el inconformismo desde la curiosidad de ver qu\u00e9 te vino a ense\u00f1ar. MINUTO 11: Querer m\u00e1s no significa ser mal agradecida o despreciar lo que tienes. MINUTO 16: Quedarte en un mismo lugar o expandirte es una decisi\u00f3n. MINUTO 19: Las ganas de m\u00e1s desalineadas surgen del ego y se basa en expectativas ajenas. MINUTO 24: Lista de espera Journal: https://www.isagarcia.online/journal 30:00 8 Las ganas de m\u00e1s llegan por temporadas, y est\u00e1 bien. Siempre regresan. 42:00 9 Gratitud en el cambio, la evoluci\u00f3n y nuestras versiones pasadas. 45:00 10 Inscripciones 2023 So\u00f1ado: https://isagarcia.online/",
+        "duration_ms": 2837760,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6ROToYAJctKKi1hIATqlXC"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6ROToYAJctKKi1hIATqlXC",
+        "html_description": "<p>En este episodio Isa rompe con las ideas y paradigmas sobre el concepto de \u201cganas de m\u00e1s\u201d. Nos demuestra que el inconformismo es necesario para habitar nuevos lugares y sue\u00f1os. Vas a aprender a identificar entre las ganas de m\u00e1s basadas en la escasez, miedo y limitaci\u00f3n versus las ganas de m\u00e1s alineadas que expanden y crean.</p> <p>Lista de espera Journal\u00a0: <a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">https://www.isagarcia.online/journal</a></p> <p>Inscripciones 2023 So\u00f1ado: <a href=\"https://isagarcia.co/dream2023/\" rel=\"nofollow\">https://isagarcia.online/</a></p> <p>______________________________________________________</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: Met\u00e1fora sobre l\u00edmites o expansi\u00f3n para simbolizar las ganas de m\u00e1s.</p> <p>MINUTO 5: Relaci\u00f3n con tus ganas de m\u00e1s desde el inconformismo.</p> <p>MINUTO 8: Explorar el inconformismo desde la curiosidad de ver qu\u00e9 te vino a ense\u00f1ar.</p> <p>MINUTO 11: Querer m\u00e1s no significa ser mal agradecida o despreciar lo que tienes.</p> <p>MINUTO 16: Quedarte en un mismo lugar o expandirte es una decisi\u00f3n.</p> <p>MINUTO 19: Las ganas de m\u00e1s desalineadas surgen del ego y se basa en expectativas ajenas.</p> <p>MINUTO 24: Lista de espera Journal: <a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">https://www.isagarcia.online/journal</a></p> <p>30:00 8 Las ganas de m\u00e1s llegan por temporadas, y est\u00e1 bien. Siempre regresan.</p> <p>42:00 9 Gratitud en el cambio, la evoluci\u00f3n y nuestras versiones pasadas.</p> <p>45:00 10 Inscripciones 2023 So\u00f1ado: <a href=\"https://isagarcia.co/dream2023/\" rel=\"nofollow\">https://isagarcia.online/</a></p>",
+        "id": "6ROToYAJctKKi1hIATqlXC",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#74 Activa tus ganas de m\u00e1s",
+        "release_date": "2023-01-02",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:6ROToYAJctKKi1hIATqlXC"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/97856ed24669acdec9c24b7889bc0850b6345e6b",
+        "description": "En este cap\u00edtulo Isa nos habla de c\u00f3mo caminar con gracia y productividad en las temporadas m\u00e1s retadoras. Hablamos sobre la importancia de plantar cimientos fuertes a nivel interior para el crecimiento sano de lo que est\u00e1 por fuera. Nos comparte todas las herramientas y estrategias puntuales para sobrellevar temporadas de caos, dificultad y presi\u00f3n en balance. Hablamos de qu\u00e9 son los recursos internos y porque es importante reorganizarlos para afrontar esas temporadas con gracia. Lista de espera de 2023 so\u00f1ado: https://isagarcia.co/dream2023/ Lista de espera Journal: https://www.isagarcia.online/journal Playlist Mantras: https://spoti.fi/3Gk6vJu Playlist Jazz: https://spoti.fi/3WrWCz7 ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: Estrategias para atravesar retos sin morir en el intento. MINUTO 2: Hacer algo por alguien m\u00e1s y reconectar con tu esencia humana. MINUTO 5: Anclar y romantizar tu vida con m\u00fasica y mantras para calma. MINUTO 8: Automatizaci\u00f3n, eficiencia y claridad impecable. MINUTO 14: Conexi\u00f3n contigo misma y espacio de relajaci\u00f3n. MINUTO 17: Journaling y rezos a Dios para paz y claridad. MINUTO 21: Aceptaci\u00f3n de que vamos a atravesar por retos toda nuestra vida. MINUTO 25: Inscripciones 2023 So\u00f1ado: https://isagarcia.online \u00a0",
+        "duration_ms": 2017728,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/2FaTs57yIaDoTP8L8nWEwy"
+        },
+        "href": "https://api.spotify.com/v1/episodes/2FaTs57yIaDoTP8L8nWEwy",
+        "html_description": "<p>En este cap\u00edtulo Isa nos habla de c\u00f3mo caminar con gracia y productividad en las temporadas m\u00e1s retadoras. Hablamos sobre la importancia de plantar cimientos fuertes a nivel interior para el crecimiento sano de lo que est\u00e1 por fuera. Nos comparte todas las herramientas y estrategias puntuales para sobrellevar temporadas de caos, dificultad y presi\u00f3n en balance. Hablamos de qu\u00e9 son los recursos internos y porque es importante reorganizarlos para afrontar esas temporadas con gracia.</p> <p>Lista de espera de 2023 so\u00f1ado: <a href=\"https://isagarcia.co/dream2023/\" rel=\"nofollow\">https://isagarcia.co/dream2023/</a></p> <p>Lista de espera Journal: <a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">https://www.isagarcia.online/journal</a></p> <p>Playlist Mantras: <a href=\"https://spoti.fi/3Gk6vJu\" rel=\"nofollow\">https://spoti.fi/3Gk6vJu</a></p> <p>Playlist Jazz: <a href=\"https://spoti.fi/3WrWCz7\" rel=\"nofollow\">https://spoti.fi/3WrWCz7</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: Estrategias para atravesar retos sin morir en el intento.</p> <p>MINUTO 2: Hacer algo por alguien m\u00e1s y reconectar con tu esencia humana.</p> <p>MINUTO 5: Anclar y romantizar tu vida con m\u00fasica y mantras para calma.</p> <p>MINUTO 8: Automatizaci\u00f3n, eficiencia y claridad impecable.</p> <p>MINUTO 14: Conexi\u00f3n contigo misma y espacio de relajaci\u00f3n.</p> <p>MINUTO 17: Journaling y rezos a Dios para paz y claridad.</p> <p>MINUTO 21: Aceptaci\u00f3n de que vamos a atravesar por retos toda nuestra vida.</p> <p>MINUTO 25: Inscripciones 2023 So\u00f1ado: <a href=\"https://isagarcia.co/dream2023/\" rel=\"nofollow\">https://isagarcia.online</a></p> <p>\u00a0</p>",
+        "id": "2FaTs57yIaDoTP8L8nWEwy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#73 Atravesar retos sin morir en el intento Parte 2/2",
+        "release_date": "2022-12-26",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:2FaTs57yIaDoTP8L8nWEwy"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/0e47c538de5eb9836e48ea32d94d606db73a5e88",
+        "description": "En este cap\u00edtulo Isa nos habla de c\u00f3mo caminar con gracia y productividad en las temporadas m\u00e1s retadoras. Hablamos sobre la importancia de plantar cimientos fuertes a nivel interior para el crecimiento sano de lo que est\u00e1 por fuera. Nos comparte todas las herramientas y estrategias puntuales para sobrellevar temporadas de caos, dificultad y presi\u00f3n en balance. Hablamos de qu\u00e9 son los recursos internos y porque es importante reorganizarlos para afrontar esas temporadas con gracia. Lista de espera de 2023 So\u00f1ado: https://isagarcia.co/dream2023/ Lista de espera Journal: \u00a0https://www.isagarcia.online/journal Playlist Mantras: https://spoti.fi/3Gk6vJu Playlist Jazz: https://spoti.fi/3WrWCz7 ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: Met\u00e1fora sobre construir cimientos. MINUTO 4: Relaci\u00f3n de la met\u00e1fora con el trabajo interior. MINUTO 8: Carga y peso emocional de temporadas de alta presi\u00f3n. MINUTO 10: Reorganizaci\u00f3n de recursos internos y cuales son. MINUTO 11: Importancia de decirte la verdad. MINUTO 15: Implementaci\u00f3n de sistemas sostenibles y viables para seguirte moviendo con compasi\u00f3n. MINUTO 18: Ajuste de expectativas y la temporalidad de las crisis. MINUTO 22: Definir las palabras e intenciones con las que quieres acordarte de estas temporadas. MINUTO 26: Recargar recursos internos desde una nueva estrategia y redefinir metas realistas. MINUTO 29: Elevar est\u00e1ndares de lo que dejas entrar en tu vida y priorizar. MINUTO 35: Inscripciones 2023 So\u00f1ado:\u00a0 https://isagarcia.online/ \u00a0",
+        "duration_ms": 2240520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7mZzMEKRy4uBV3VlzWnGf9"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7mZzMEKRy4uBV3VlzWnGf9",
+        "html_description": "<p>En este cap\u00edtulo Isa nos habla de c\u00f3mo caminar con gracia y productividad en las temporadas m\u00e1s retadoras. Hablamos sobre la importancia de plantar cimientos fuertes a nivel interior para el crecimiento sano de lo que est\u00e1 por fuera. Nos comparte todas las herramientas y estrategias puntuales para sobrellevar temporadas de caos, dificultad y presi\u00f3n en balance. Hablamos de qu\u00e9 son los recursos internos y porque es importante reorganizarlos para afrontar esas temporadas con gracia.</p> <p>Lista de espera de 2023 So\u00f1ado: <a href=\"https://isagarcia.co/dream2023/\" rel=\"nofollow\">https://isagarcia.co/dream2023/</a></p> <p>Lista de espera Journal: \u00a0<a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">https://www.isagarcia.online/journal</a></p> <p>Playlist Mantras: <a href=\"https://spoti.fi/3Gk6vJu\" rel=\"nofollow\">https://spoti.fi/3Gk6vJu</a></p> <p>Playlist Jazz: <a href=\"https://spoti.fi/3WrWCz7\" rel=\"nofollow\">https://spoti.fi/3WrWCz7</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: Met\u00e1fora sobre construir cimientos.</p> <p>MINUTO 4: Relaci\u00f3n de la met\u00e1fora con el trabajo interior.</p> <p>MINUTO 8: Carga y peso emocional de temporadas de alta presi\u00f3n.</p> <p>MINUTO 10: Reorganizaci\u00f3n de recursos internos y cuales son.</p> <p>MINUTO 11: Importancia de decirte la verdad.</p> <p>MINUTO 15: Implementaci\u00f3n de sistemas sostenibles y viables para seguirte moviendo con compasi\u00f3n.</p> <p>MINUTO 18: Ajuste de expectativas y la temporalidad de las crisis.</p> <p>MINUTO 22: Definir las palabras e intenciones con las que quieres acordarte de estas temporadas.</p> <p>MINUTO 26: Recargar recursos internos desde una nueva estrategia y redefinir metas realistas.</p> <p>MINUTO 29: Elevar est\u00e1ndares de lo que dejas entrar en tu vida y priorizar.</p> <p>MINUTO 35: Inscripciones 2023 So\u00f1ado:\u00a0 <a href=\"https://isagarcia.co/dream2023/\" rel=\"nofollow\">https://isagarcia.online/</a></p> <p>\u00a0</p>",
+        "id": "7mZzMEKRy4uBV3VlzWnGf9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#72 Atravesar retos sin morir en el intento Parte 1/2",
+        "release_date": "2022-12-20",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:7mZzMEKRy4uBV3VlzWnGf9"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/d429d93303c01b5534578e5eb767d5c08f7cd52d",
+        "description": "En este podcast Isa habla de c\u00f3mo casi no se muda a New York por miedo al invierno. Despu\u00e9s de quejarse mucho del clima decidi\u00f3 cambiar su mindset alrededor de \u00e9l, para no solo sobrevivir el fr\u00edo, para enamorarse de la vida en las estaciones. Este cap\u00edtulo es un training de mindset y de herramientas pr\u00e1cticas para transformar algo que te intimida en algo que tiene magia esper\u00e1ndote. Inscripciones 2023 So\u00f1ado https://www.isagarcia.online/ Waitlist Journal \u00a0https://www.isagarcia.online/journal ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1:\u00a0Cambiar de perspectiva del drama al disfrute. MINUTO 5: \u00a0El miedo al invierno y el amor a NYC. MINUTO 12: Cambiar narrativas y conversaciones al rededor del invierno, para aprender a amarlo. MINUTO 18: Preguntar sobre recomendaciones y favoritos del invierno. MINUTO 26:\u00a0Adaptaci\u00f3n, paciencia y aceptaci\u00f3n para la naturalidad. MINUTO 30:\u00a0 Sanar la ra\u00edz en lugar de querer cambiar las cosas desde afuera. MINUTO 34:\u00a0 Hacer que se sienta liviano, crear espacio y simplificar. MINUTO 37:\u00a0 Concentrarte en lo que suma en lugar de lo que resta. MINUTO 41:\u00a0 Estar preparada para la pr\u00f3xima vez que te encuentras con el invierno. MINUTO 45:\u00a0 Estar abierta a probar y estar en paz con respecto al invierno.",
+        "duration_ms": 2804663,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0CgurauBXGeBkRiYacO9di"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0CgurauBXGeBkRiYacO9di",
+        "html_description": "<p>En este podcast Isa habla de c\u00f3mo casi no se muda a New York por miedo al invierno. Despu\u00e9s de quejarse mucho del clima decidi\u00f3 cambiar su mindset alrededor de \u00e9l, para no solo sobrevivir el fr\u00edo, para enamorarse de la vida en las estaciones.</p> <p>Este cap\u00edtulo es un training de mindset y de herramientas pr\u00e1cticas para transformar algo que te intimida en algo que tiene magia esper\u00e1ndote.</p> <p>Inscripciones 2023 So\u00f1ado <a href=\"https://isagarcia.co/dream2023/\" rel=\"nofollow\">https://www.isagarcia.online/</a></p> <p>Waitlist Journal <a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">\u00a0https://www.isagarcia.online/journal</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1:\u00a0Cambiar de perspectiva del drama al disfrute.</p> <p>MINUTO 5: \u00a0El miedo al invierno y el amor a NYC.</p> <p>MINUTO 12: Cambiar narrativas y conversaciones al rededor del invierno, para aprender a amarlo.</p> <p>MINUTO 18: Preguntar sobre recomendaciones y favoritos del invierno.</p> <p>MINUTO 26:\u00a0Adaptaci\u00f3n, paciencia y aceptaci\u00f3n para la naturalidad.</p> <p>MINUTO 30:\u00a0 Sanar la ra\u00edz en lugar de querer cambiar las cosas desde afuera.</p> <p>MINUTO 34:\u00a0 Hacer que se sienta liviano, crear espacio y simplificar.</p> <p>MINUTO 37:\u00a0 Concentrarte en lo que suma en lugar de lo que resta.</p> <p>MINUTO 41:\u00a0 Estar preparada para la pr\u00f3xima vez que te encuentras con el invierno.</p> <p>MINUTO 45:\u00a0 Estar abierta a probar y estar en paz con respecto al invierno.</p>",
+        "id": "0CgurauBXGeBkRiYacO9di",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#71 Invierno, c\u00e1mbiame contigo",
+        "release_date": "2022-12-12",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:0CgurauBXGeBkRiYacO9di"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/aa0998666dd20223a99a18263834ab232207e8e9",
+        "description": "En este cap\u00edtulo Isa nos cuenta por qu\u00e9 quiere salir de su zona de confort y la nueva mentalidad que ha adoptado despu\u00e9s de tomar clases de actuaci\u00f3n en New York. Nos cuenta sobre PARA QUE quiso hacerlo y la relaci\u00f3n que encontr\u00f3 entre la actuaci\u00f3n, las ventas y los negocios. Y los resultados inesperados que noto las semanas despu\u00e9s. Clases de actuaci\u00f3n: https://lucidbody.com  IG Arantxa Servin ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1:\u00a0Explorar y ser principiante fuera de tu zona de confort. MINUTO 5: Sostener atenci\u00f3n y ocupar espacio con menor resistencia. MINUTO 9: Agrandar nuestra zona de confort es nuestra responsabilidad. MINUTO 12: La satisfacci\u00f3n de cumplir contigo misma sin que existan medalla externas. MINUTO 17: El impacto de cumplir tu compromiso en tu autoestima. MINUTO 23: Nutrir tu vida y la plenitud en la que vives. MINUTO 26: Rodearte de personas en su zona de confort donde para ti es nuevo, libera resistencia. MINUTO 33: Acceder al control de nuestro movimiento y su desarrollo. MINUTO 36: Cultivar intimidad con nuestro cuerpo m\u00e1s all\u00e1 de la rutina. MINUTO 42: La resistencia que sientes es proporcional a la magia que cultivas.",
+        "duration_ms": 2638728,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0A95Ni6nX6rczcMbY1NZCJ"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0A95Ni6nX6rczcMbY1NZCJ",
+        "html_description": "<p>En este cap\u00edtulo Isa nos cuenta por qu\u00e9 quiere salir de su zona de confort y la nueva mentalidad que ha adoptado despu\u00e9s de tomar clases de actuaci\u00f3n en New York. Nos cuenta sobre PARA QUE quiso hacerlo y la relaci\u00f3n que encontr\u00f3 entre la actuaci\u00f3n, las ventas y los negocios. Y los resultados inesperados que noto las semanas despu\u00e9s.</p> <p>Clases de actuaci\u00f3n: <a href=\"https://lucidbody.com\" rel=\"nofollow\">https://lucidbody.com</a></p> <p><a href=\"https://instagram.com/___arantxa______?igshid&#61;YmMyMTA2M2Y&#61;\" rel=\"nofollow\"> IG Arantxa Servin</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1:\u00a0Explorar y ser principiante fuera de tu zona de confort.</p> <p>MINUTO 5: Sostener atenci\u00f3n y ocupar espacio con menor resistencia.</p> <p>MINUTO 9: Agrandar nuestra zona de confort es nuestra responsabilidad.</p> <p>MINUTO 12: La satisfacci\u00f3n de cumplir contigo misma sin que existan medalla externas.</p> <p>MINUTO 17: El impacto de cumplir tu compromiso en tu autoestima.</p> <p>MINUTO 23: Nutrir tu vida y la plenitud en la que vives.</p> <p>MINUTO 26: Rodearte de personas en su zona de confort donde para ti es nuevo, libera resistencia.</p> <p>MINUTO 33: Acceder al control de nuestro movimiento y su desarrollo.</p> <p>MINUTO 36: Cultivar intimidad con nuestro cuerpo m\u00e1s all\u00e1 de la rutina.</p> <p>MINUTO 42: La resistencia que sientes es proporcional a la magia que cultivas.</p>",
+        "id": "0A95Ni6nX6rczcMbY1NZCJ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#70 Agrandando la zona de confort: clases de actuaci\u00f3n",
+        "release_date": "2022-12-05",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:0A95Ni6nX6rczcMbY1NZCJ"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/b495da1bf0c4bcc6076ea35661006bb74da23ef6",
+        "description": "Cafecito y Abundancia: Nuevo training gratuito de 7 d\u00edas para sanar tu relaci\u00f3n con el dinero. Cada ma\u00f1ana se publicar\u00e1 un cap\u00edtulo de 20 minutos para que lo escuches. Lista de espera\u00a0C\u00f3digos de Abundancia:\u00a0 https://www.isagarcia.online/codigos ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1:\u00a0La mayor\u00eda de personas no ha trabajado su relaci\u00f3n con el dinero. MINUTO 5: No tomar consejos ni juicios de personas que no te llevan donde quieres ir. MINUTO 10: Encontrar a qu\u00e9 ideas, conceptos e historias les est\u00e1s siendo leal al no expandir tu relaci\u00f3n con el dinero. MINUTO 13: Escasez con respecto a la direcci\u00f3n y decisiones que tomas en tu vida. MINUTO 17:\u00a0Crear, sostener y recibir son destrezas que se aprenden con pr\u00e1ctica.",
+        "duration_ms": 1485023,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/74PkeiH0wVCovsKKvf4Wy8"
+        },
+        "href": "https://api.spotify.com/v1/episodes/74PkeiH0wVCovsKKvf4Wy8",
+        "html_description": "<p>Cafecito y Abundancia: Nuevo training gratuito de 7 d\u00edas para sanar tu relaci\u00f3n con el dinero. Cada ma\u00f1ana se publicar\u00e1 un cap\u00edtulo de 20 minutos para que lo escuches.</p> <p>Lista de espera\u00a0C\u00f3digos de Abundancia:\u00a0</p> <p><a href=\"https://www.isagarcia.online/codigos\" rel=\"nofollow\">https://www.isagarcia.online/codigos</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1:\u00a0La mayor\u00eda de personas no ha trabajado su relaci\u00f3n con el dinero.</p> <p>MINUTO 5: No tomar consejos ni juicios de personas que no te llevan donde quieres ir.</p> <p>MINUTO 10: Encontrar a qu\u00e9 ideas, conceptos e historias les est\u00e1s siendo leal al no expandir tu relaci\u00f3n con el dinero.</p> <p>MINUTO 13: Escasez con respecto a la direcci\u00f3n y decisiones que tomas en tu vida.</p> <p>MINUTO 17:\u00a0Crear, sostener y recibir son destrezas que se aprenden con pr\u00e1ctica.</p>",
+        "id": "74PkeiH0wVCovsKKvf4Wy8",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "\ud83d\udcb8Cafecito y Abundancia: Sanando tu relaci\u00f3n con el dinero por 7 d\u00edas (7/7)",
+        "release_date": "2022-10-30",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:74PkeiH0wVCovsKKvf4Wy8"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/9c3f3e45c2e575c6400372ca25c68ba8e7f260d2",
+        "description": "Cafecito y Abundancia: Nuevo training gratuito de 7 d\u00edas para sanar tu relaci\u00f3n con el dinero. Cada ma\u00f1ana se publicar\u00e1 un cap\u00edtulo de 20 minutos para que lo escuches. Lista de espera\u00a0C\u00f3digos de Abundancia:\u00a0 https://www.isagarcia.online/codigos ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: Aprender a visualizar cu\u00e1ndo entras en escasez. MINUTO 3: Crea un sistema de valores que da claridad en tus prioridades. MINUTO 7: Reconocer \u00e1reas de tu vida donde te est\u00e1 costando respecto al dinero y limpiar la energ\u00eda. MINUTO 10: Comun\u00edcale al dinero el tipo de persona que quieres ser con \u00e9l y piensa d\u00f3nde lo quieres poner. MINUTO 18: Entrar en gratitud y activar tus ganas de m\u00e1s. MINUTO 20: Invertir tu dinero para que siga creciendo y creando m\u00e1s. \u00a0",
+        "duration_ms": 1378703,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/3QDo1b2rvPwwzAlqrADKBf"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3QDo1b2rvPwwzAlqrADKBf",
+        "html_description": "<p>Cafecito y Abundancia: Nuevo training gratuito de 7 d\u00edas para sanar tu relaci\u00f3n con el dinero. Cada ma\u00f1ana se publicar\u00e1 un cap\u00edtulo de 20 minutos para que lo escuches.</p> <p>Lista de espera\u00a0C\u00f3digos de Abundancia:\u00a0</p> <p><a href=\"https://www.isagarcia.online/codigos\" rel=\"nofollow\">https://www.isagarcia.online/codigos</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: Aprender a visualizar cu\u00e1ndo entras en escasez.</p> <p>MINUTO 3: Crea un sistema de valores que da claridad en tus prioridades.</p> <p>MINUTO 7: Reconocer \u00e1reas de tu vida donde te est\u00e1 costando respecto al dinero y limpiar la energ\u00eda.</p> <p>MINUTO 10: Comun\u00edcale al dinero el tipo de persona que quieres ser con \u00e9l y piensa d\u00f3nde lo quieres poner.</p> <p>MINUTO 18: Entrar en gratitud y activar tus ganas de m\u00e1s.</p> <p>MINUTO 20: Invertir tu dinero para que siga creciendo y creando m\u00e1s.</p> <p>\u00a0</p>",
+        "id": "3QDo1b2rvPwwzAlqrADKBf",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "\ud83d\udcb8Cafecito y Abundancia: Sanando tu relaci\u00f3n con el dinero por 7 d\u00edas (6/7)",
+        "release_date": "2022-10-29",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:3QDo1b2rvPwwzAlqrADKBf"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/9e7ef06935da638b396f1bb4c9b0ed0518bc29cc",
+        "description": "Cafecito y Abundancia: Nuevo training gratuito de 7 d\u00edas para sanar tu relaci\u00f3n con el dinero. Cada ma\u00f1ana se publicar\u00e1 un cap\u00edtulo de 20 minutos para que lo escuches. Lista de espera\u00a0C\u00f3digos de Abundancia:\u00a0 https://www.isagarcia.online/codigos ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: Tu relaci\u00f3n con el dinero se vuelve un promedio de la de las personas con las que creciste. MINUTO 3: Redefinir y crear sistemas para mejorar tu relaci\u00f3n con el dinero. MINUTO 6: Aprender a confiar en tu capacidad de generar y sostener dinero. MINUTO 10: Identificar en qu\u00e9 lugares est\u00e1s usando la palabra \u201cdemasiado\u201d. MINUTO 12: Requerimientos en tu vida para el dinero y romper con ellos. MINUTO 16: El poder de hacer preguntas para transformar tu realidad y encontrar otras respuestas.",
+        "duration_ms": 1298040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7eX03zu6N1a8su0Wbh54Fm"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7eX03zu6N1a8su0Wbh54Fm",
+        "html_description": "<p>Cafecito y Abundancia: Nuevo training gratuito de 7 d\u00edas para sanar tu relaci\u00f3n con el dinero. Cada ma\u00f1ana se publicar\u00e1 un cap\u00edtulo de 20 minutos para que lo escuches.</p> <p>Lista de espera\u00a0C\u00f3digos de Abundancia:\u00a0</p> <p><a href=\"https://www.isagarcia.online/codigos\" rel=\"nofollow\">https://www.isagarcia.online/codigos</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: Tu relaci\u00f3n con el dinero se vuelve un promedio de la de las personas con las que creciste.</p> <p>MINUTO 3: Redefinir y crear sistemas para mejorar tu relaci\u00f3n con el dinero.</p> <p>MINUTO 6: Aprender a confiar en tu capacidad de generar y sostener dinero.</p> <p>MINUTO 10: Identificar en qu\u00e9 lugares est\u00e1s usando la palabra \u201cdemasiado\u201d.</p> <p>MINUTO 12: Requerimientos en tu vida para el dinero y romper con ellos.</p> <p>MINUTO 16: El poder de hacer preguntas para transformar tu realidad y encontrar otras respuestas.</p>",
+        "id": "7eX03zu6N1a8su0Wbh54Fm",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "\ud83d\udcb8Cafecito y Abundancia: Sanando tu relaci\u00f3n con el dinero por 7 d\u00edas (5/7)",
+        "release_date": "2022-10-28",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:7eX03zu6N1a8su0Wbh54Fm"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/c3b3c023a1103d9fcc1d34484783788b53534a37",
+        "description": "Cafecito y Abundancia: Nuevo training gratuito de 7 d\u00edas para sanar tu relaci\u00f3n con el dinero. Cada ma\u00f1ana se publicar\u00e1 un cap\u00edtulo de 20 minutos para que lo escuches. Lista de espera\u00a0C\u00f3digos de Abundancia:\u00a0 https://www.isagarcia.online/codigos ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1:\u00a0Sobrejustificar tus sue\u00f1os y cu\u00e1nto dinero creas para merecerlo. MINUTO 5: Dar explicaciones de c\u00f3mo estas usando el dinero. MINUTO 9: Graduarte de sue\u00f1os. Tomar un techo y volverlo un suelo. MINUTO 12: Relatividad de \u201cpoco\u201d, \u201cmucho\u201d, \u201cbarato\u201d, \u201ccaro\u201d seg\u00fan cada persona. MINUTO 17: Evitar palabras de escasez en tu d\u00eda a d\u00eda.",
+        "duration_ms": 1138080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5XcqbYdr1wzy1fEdhnQku7"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5XcqbYdr1wzy1fEdhnQku7",
+        "html_description": "<p>Cafecito y Abundancia: Nuevo training gratuito de 7 d\u00edas para sanar tu relaci\u00f3n con el dinero. Cada ma\u00f1ana se publicar\u00e1 un cap\u00edtulo de 20 minutos para que lo escuches.</p> <p>Lista de espera\u00a0C\u00f3digos de Abundancia:\u00a0</p> <p><a href=\"https://www.isagarcia.online/codigos\" rel=\"nofollow\">https://www.isagarcia.online/codigos</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1:\u00a0Sobrejustificar tus sue\u00f1os y cu\u00e1nto dinero creas para merecerlo.</p> <p>MINUTO 5: Dar explicaciones de c\u00f3mo estas usando el dinero.</p> <p>MINUTO 9: Graduarte de sue\u00f1os. Tomar un techo y volverlo un suelo.</p> <p>MINUTO 12: Relatividad de \u201cpoco\u201d, \u201cmucho\u201d, \u201cbarato\u201d, \u201ccaro\u201d seg\u00fan cada persona.</p> <p>MINUTO 17: Evitar palabras de escasez en tu d\u00eda a d\u00eda.</p>",
+        "id": "5XcqbYdr1wzy1fEdhnQku7",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "\ud83d\udcb8Cafecito y Abundancia: Sanando tu relaci\u00f3n con el dinero por 7 d\u00edas (4/7)",
+        "release_date": "2022-10-27",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:5XcqbYdr1wzy1fEdhnQku7"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/d947887777d9fff4fbab23f28af492b2248a957a",
+        "description": "Cafecito y Abundancia: Nuevo training gratuito de 7 d\u00edas para sanar tu relaci\u00f3n con el dinero. Cada ma\u00f1ana se publicar\u00e1 un cap\u00edtulo de 20 minutos para que lo escuches. Lista de espera\u00a0C\u00f3digos de Abundancia:\u00a0 https://www.isagarcia.online/codigos ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: El papel que juegan tus sue\u00f1os en tu relaci\u00f3n con el dinero. MINUTO 3: Tratar al dinero como a una persona que amas, donde nutres la relaci\u00f3n. MINUTO 7: \u00a0Challenge para no quejarte sobre el dinero y reemplazar frases de escasez. MINUTO 10: Eliminar la palabra \u201cgastar\u201d de tu vocabulario. MINUTO 15: Transformar juicios en preguntas y encontrar valor en esos significados. \u00a0",
+        "duration_ms": 1151543,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6M9rY80Jdddkp94g3Ifj5A"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6M9rY80Jdddkp94g3Ifj5A",
+        "html_description": "<p>Cafecito y Abundancia: Nuevo training gratuito de 7 d\u00edas para sanar tu relaci\u00f3n con el dinero. Cada ma\u00f1ana se publicar\u00e1 un cap\u00edtulo de 20 minutos para que lo escuches.</p> <p>Lista de espera\u00a0C\u00f3digos de Abundancia:\u00a0</p> <p><a href=\"https://www.isagarcia.online/codigos\" rel=\"nofollow\">https://www.isagarcia.online/codigos</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: El papel que juegan tus sue\u00f1os en tu relaci\u00f3n con el dinero.</p> <p>MINUTO 3: Tratar al dinero como a una persona que amas, donde nutres la relaci\u00f3n.</p> <p>MINUTO 7: \u00a0Challenge para no quejarte sobre el dinero y reemplazar frases de escasez.</p> <p>MINUTO 10: Eliminar la palabra \u201cgastar\u201d de tu vocabulario.</p> <p>MINUTO 15: Transformar juicios en preguntas y encontrar valor en esos significados.</p> <p>\u00a0</p>",
+        "id": "6M9rY80Jdddkp94g3Ifj5A",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "\ud83d\udcb8Cafecito y Abundancia: Sanando tu relaci\u00f3n con el dinero por 7 d\u00edas (3/7)",
+        "release_date": "2022-10-26",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:6M9rY80Jdddkp94g3Ifj5A"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/c5d5dfa2584ea480bc4e521f72644a63d5b5ae16",
+        "description": "Cafecito y Abundancia: Nuevo training gratuito de 7 d\u00edas para sanar tu relaci\u00f3n con el dinero. Cada ma\u00f1ana se publicar\u00e1 un cap\u00edtulo de 20 minutos para que lo escuches. Lista de espera\u00a0C\u00f3digos de Abundancia:\u00a0 https://www.isagarcia.online/codigos ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: \u00bfQu\u00e9 patrones y h\u00e1bitos est\u00e1n funcionando desde la escasez y la abundancia? MINUTO 4: Componentes para sanar tu relaci\u00f3n con el dinero. MINUTO 5: \u00a0Permiso para crear m\u00e1s y dar m\u00e1s en reciprocidad a la abundancia. MINUTO 9: \u00a0Barreras que creas en tu relaci\u00f3n con el dinero: creer que no eres merecedora, seguridad f\u00edsica o emocional, pensar que no es posible en tu situaci\u00f3n MINUTO 13: Moralidad del dinero en base a juicios, creencias y aprendizajes.",
+        "duration_ms": 1146576,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5HQpvCw4f8YvWOwTFh0r8x"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5HQpvCw4f8YvWOwTFh0r8x",
+        "html_description": "<p>Cafecito y Abundancia: Nuevo training gratuito de 7 d\u00edas para sanar tu relaci\u00f3n con el dinero. Cada ma\u00f1ana se publicar\u00e1 un cap\u00edtulo de 20 minutos para que lo escuches.</p> <p>Lista de espera\u00a0C\u00f3digos de Abundancia:\u00a0</p> <p><a href=\"https://www.isagarcia.online/codigos\" rel=\"nofollow\">https://www.isagarcia.online/codigos</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: \u00bfQu\u00e9 patrones y h\u00e1bitos est\u00e1n funcionando desde la escasez y la abundancia?</p> <p>MINUTO 4: Componentes para sanar tu relaci\u00f3n con el dinero.</p> <p>MINUTO 5: \u00a0Permiso para crear m\u00e1s y dar m\u00e1s en reciprocidad a la abundancia.</p> <p>MINUTO 9: \u00a0Barreras que creas en tu relaci\u00f3n con el dinero: creer que no eres merecedora, seguridad f\u00edsica o emocional, pensar que no es posible en tu situaci\u00f3n</p> <p>MINUTO 13: Moralidad del dinero en base a juicios, creencias y aprendizajes.</p>",
+        "id": "5HQpvCw4f8YvWOwTFh0r8x",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "\ud83d\udcb8Cafecito y Abundancia: Sanando tu relaci\u00f3n con el dinero por 7 d\u00edas (2/7)",
+        "release_date": "2022-10-25",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:5HQpvCw4f8YvWOwTFh0r8x"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/9fbf7c079745caf8c18ee8503a34ceca59444a04",
+        "description": "Cafecito y Abundancia: Nuevo training gratuito de 7 d\u00edas para sanar tu relaci\u00f3n con el dinero. Cada ma\u00f1ana se publicar\u00e1 un cap\u00edtulo de 20 minutos para que lo escuches. Lista de espera\u00a0C\u00f3digos de Abundancia:\u00a0 https://www.isagarcia.online/codigos ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: Introducci\u00f3n a la serie Cafecito y Abundancia MINUTO 8: Aceptar, honrar y respetar tus deseos y sue\u00f1os. MINUTO 11: Redefinici\u00f3n de qu\u00e9 es el dinero. MINUTO 13: Definici\u00f3n de plenitud y abundancia para una vida llena de vida. \u00a0",
+        "duration_ms": 1246943,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5zivWGnRwGASGnLCDKGdbC"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5zivWGnRwGASGnLCDKGdbC",
+        "html_description": "<p>Cafecito y Abundancia: Nuevo training gratuito de 7 d\u00edas para sanar tu relaci\u00f3n con el dinero. Cada ma\u00f1ana se publicar\u00e1 un cap\u00edtulo de 20 minutos para que lo escuches.</p> <p>Lista de espera\u00a0C\u00f3digos de Abundancia:\u00a0</p> <p><a href=\"https://www.isagarcia.online/codigos\" rel=\"nofollow\">https://www.isagarcia.online/codigos</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: Introducci\u00f3n a la serie Cafecito y Abundancia</p> <p>MINUTO 8: Aceptar, honrar y respetar tus deseos y sue\u00f1os.</p> <p>MINUTO 11: Redefinici\u00f3n de qu\u00e9 es el dinero.</p> <p>MINUTO 13: Definici\u00f3n de plenitud y abundancia para una vida llena de vida.</p> <p>\u00a0</p>",
+        "id": "5zivWGnRwGASGnLCDKGdbC",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "\ud83d\udcb8Cafecito y Abundancia: Sanando tu relaci\u00f3n con el dinero por 7 d\u00edas (1/7)",
+        "release_date": "2022-10-24",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:5zivWGnRwGASGnLCDKGdbC"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/e0649569ae6d5b87ec7118de4bec06d518287536",
+        "description": "En este cap\u00edtulo Isa te ense\u00f1a c\u00f3mo crear un podcast que genere ventas y los errores que le quitan potencia al tuyo. Contesta las preguntas m\u00e1s frecuentes: que tan a menudo publicar, c\u00f3mo desarrollar el concepto y el nombre, si tener invitados o hablar t\u00fa, cu\u00e1nto deber\u00edan durar los cap\u00edtulos y otros puntos clave. Isa resume casi 4 a\u00f1os de experiencia en el mundo de los podcasts para que a ti te tome mucho menos tiempo tener un podcast con una estrategia de negocios poderosa. *Correcci\u00f3n del cap\u00edtulo: Isa se equivoc\u00f3. Spotify YA ten\u00eda podcasts en el 2019 pero recientemente hab\u00eda habilitado que cualquier persona pueda hostear uno ah\u00ed. Waitlist Codigos de Abundancia Edici\u00f3n:\u00a0 https://www.isagarcia.online/vender Micr\u00f3fonos:  Headset ($36.99)  Micr\u00f3fono USB ($58.99)  Micr\u00f3fono Sure ($269.00) + 20% OFF con  Libsyn Savings Marketplace\u00a0 Plataformas: Para editar tu podcast: Audacity. Para subir tu podcast: Libsyn. (Obt\u00e9n 2 meses gratis + el descuento en el micr\u00f3fono registr\u00e1ndote en el link) ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: Claridad en cu\u00e1l es tu intenci\u00f3n para crear un podcast y qu\u00e9 vas a medir. MINUTO 6: \u00bfQu\u00e9 necesitas para crear un podcast? MINUTO 8: Asegurarte de que tu concepto se pueda adaptar contigo a largo plazo. MINUTO 14: Autenticidad, ligereza servicio y conexi\u00f3n que se genera a trav\u00e9s de un podcast. MINUTO 22: Publicidad, alianzas y colaboraciones en podcasts. MINUTO 25: Tiempo de vida y relevancia de los episodios de un podcast. MINUTO 29: Pr\u00e1ctica, constancia, desarrollo de destrezas y evitar el perfeccionismo. MINUTO 34: Decidir el estilo del podcast: mon\u00f3logo, entrevistas, temas y tipos de contenido. MINUTO 44: Admiraci\u00f3n intelectual e influir en la perspectiva de tu audiencia a trav\u00e9s de tu lente. MINUTO 53: El momento perfecto para empezar un podcast. MINUTO 59: Probar entre las estrategias que son factibles para ti e incorporarlas al servicio.",
+        "duration_ms": 4091976,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7Lxlgz7ckbzQAMBDXGNi5W"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7Lxlgz7ckbzQAMBDXGNi5W",
+        "html_description": "<p>En este cap\u00edtulo Isa te ense\u00f1a c\u00f3mo crear un podcast que genere ventas y los errores que le quitan potencia al tuyo. Contesta las preguntas m\u00e1s frecuentes: que tan a menudo publicar, c\u00f3mo desarrollar el concepto y el nombre, si tener invitados o hablar t\u00fa, cu\u00e1nto deber\u00edan durar los cap\u00edtulos y otros puntos clave. Isa resume casi 4 a\u00f1os de experiencia en el mundo de los podcasts para que a ti te tome mucho menos tiempo tener un podcast con una estrategia de negocios poderosa.</p> <p>*Correcci\u00f3n del cap\u00edtulo: Isa se equivoc\u00f3. Spotify YA ten\u00eda podcasts en el 2019 pero recientemente hab\u00eda habilitado que cualquier persona pueda hostear uno ah\u00ed.</p> <p>Waitlist Codigos de Abundancia Edici\u00f3n:\u00a0</p> <p><a href=\"https://www.isagarcia.online/vender\" rel=\"nofollow\">https://www.isagarcia.online/vender</a></p> <p>Micr\u00f3fonos:</p> <p><a href=\"https://www.amazon.com/gp/product/B07D3QPLNL?ie&#61;UTF8&amp;linkCode&#61;sl1&amp;tag&#61;isagarciaonli-20&amp;linkId&#61;04dac37d1aeab45a3cf5f1947443b66d&amp;language&#61;es_US&amp;ref_&#61;as_li_ss_tl&amp;th&#61;1\" rel=\"nofollow\"> Headset ($36.99)</a></p> <p><a href=\"https://www.amazon.com/gp/product/B07N53GY3Y/ref&#61;as_li_tl?ie&#61;UTF8&amp;camp&#61;1789&amp;creative&#61;9325&amp;creativeASIN&#61;B07N53GY3Y&amp;linkCode&#61;as2&amp;tag&#61;isagarcia111-20&amp;linkId&#61;50660cd16255b8fdb26d8fd8029b9402&amp;th&#61;1\" rel=\"nofollow\"> Micr\u00f3fono USB ($58.99)</a></p> <p><a href=\"https://www.shure.com/en-US/products/microphones/mv7?variant&#61;MV7-K-BNDL\" rel=\"nofollow\"> Micr\u00f3fono Sure ($269.00)</a> &#43; 20% OFF con <a href=\"https://auth.savings.workingadvantage.com/libsyn/sign-in?response_type&#61;code&amp;client_id&#61;9ezalirn45mF43imJTdf53&amp;redirect_uri&#61;https:%2F%2Flibsyn.savings.workingadvantage.com%2F\" rel=\"nofollow\"> Libsyn Savings Marketplace\u00a0</a></p> <p>Plataformas:</p> <p>Para editar tu podcast: <a href=\"https://www.audacityteam.org/download/\" rel=\"nofollow\">Audacity</a>.</p> <p>Para subir tu podcast: <a href=\"https://signup.libsyn.com/?promo_code&#61;IGCORP\" rel=\"nofollow\">Libsyn</a>. (Obt\u00e9n 2 meses gratis &#43; el descuento en el micr\u00f3fono registr\u00e1ndote en el link)</p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: Claridad en cu\u00e1l es tu intenci\u00f3n para crear un podcast y qu\u00e9 vas a medir.</p> <p>MINUTO 6: \u00bfQu\u00e9 necesitas para crear un podcast?</p> <p>MINUTO 8: Asegurarte de que tu concepto se pueda adaptar contigo a largo plazo.</p> <p>MINUTO 14: Autenticidad, ligereza servicio y conexi\u00f3n que se genera a trav\u00e9s de un podcast.</p> <p>MINUTO 22: Publicidad, alianzas y colaboraciones en podcasts.</p> <p>MINUTO 25: Tiempo de vida y relevancia de los episodios de un podcast.</p> <p>MINUTO 29: Pr\u00e1ctica, constancia, desarrollo de destrezas y evitar el perfeccionismo.</p> <p>MINUTO 34: Decidir el estilo del podcast: mon\u00f3logo, entrevistas, temas y tipos de contenido.</p> <p>MINUTO 44: Admiraci\u00f3n intelectual e influir en la perspectiva de tu audiencia a trav\u00e9s de tu lente.</p> <p>MINUTO 53: El momento perfecto para empezar un podcast.</p> <p>MINUTO 59: Probar entre las estrategias que son factibles para ti e incorporarlas al servicio.</p>",
+        "id": "7Lxlgz7ckbzQAMBDXGNi5W",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#62: C\u00f3mo crear un podcast potente que genere ventas: Training Gratis - Parte 1",
+        "release_date": "2022-09-26",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:7Lxlgz7ckbzQAMBDXGNi5W"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/cc2318a83d7b59369332cecd5f79a650a3a2e717",
+        "description": "En esta continuaci\u00f3n del cap\u00edtulo #59, Isa te comparte 6 de las 12 lecciones m\u00e1s valiosas que ha aprendido en este \u00faltimo a\u00f1o. Vas a dejar de justificar y negociar tus prioridades a causa del miedo. Crear\u00e1s acciones m\u00e1s alineadas respecto a la vida que quieres crear y encontrar\u00e1s qu\u00e9 destrezas desarrollar para que tus proyectos obtengan m\u00e1s \u00e9xito. Waitlist Codigos de Abundancia: https://www.isagarcia.online/codigos Productos Llenos de Vida: https://www.isagarcia.online/vida Journal: https://www.isagarcia.online/journal ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: Continuaci\u00f3n del episodio #59. MINUTO 1: Entrar en justificaci\u00f3n de tu zona de confort a causa del miedo y fatiga. MINUTO 6: Vivir el proceso y dar un paso detr\u00e1s del otro. MINUTO 14: C\u00famulos de acci\u00f3n y decisi\u00f3n en base a tu norte. MINUTO 16: La misma acci\u00f3n a diferente tiempo habla otro idioma. MINUTO 27: Trabajar la relaci\u00f3n con el dinero para una nueva realidad. MINUTO 40: Concepto de erosi\u00f3n: moldear una piedra con una gota de agua a trav\u00e9s del tiempo. MINUTO 47: El \u00e9xito de tus proyectos va de la mano de tu capacidad de comunicarlos. MINUTO 54: El perd\u00f3n para ti misma es el m\u00e1s dif\u00edcil y el m\u00e1s importante.",
+        "duration_ms": 3718680,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/58kAlz2wod4QsZCOMgjamF"
+        },
+        "href": "https://api.spotify.com/v1/episodes/58kAlz2wod4QsZCOMgjamF",
+        "html_description": "<p>En esta continuaci\u00f3n del cap\u00edtulo #59, Isa te comparte 6 de las 12 lecciones m\u00e1s valiosas que ha aprendido en este \u00faltimo a\u00f1o. Vas a dejar de justificar y negociar tus prioridades a causa del miedo. Crear\u00e1s acciones m\u00e1s alineadas respecto a la vida que quieres crear y encontrar\u00e1s qu\u00e9 destrezas desarrollar para que tus proyectos obtengan m\u00e1s \u00e9xito.</p> <p>Waitlist Codigos de Abundancia: <a href=\"https://www.isagarcia.online/codigos\" rel=\"nofollow\">https://www.isagarcia.online/codigos</a></p> <p>Productos Llenos de Vida: <a href=\"https://www.isagarcia.online/vida\" rel=\"nofollow\">https://www.isagarcia.online/vida</a></p> <p>Journal: <a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">https://www.isagarcia.online/journal</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>Continuaci\u00f3n del episodio #59.</p> <p>MINUTO 1: Entrar en justificaci\u00f3n de tu zona de confort a causa del miedo y fatiga.</p> <p>MINUTO 6: Vivir el proceso y dar un paso detr\u00e1s del otro.</p> <p>MINUTO 14: C\u00famulos de acci\u00f3n y decisi\u00f3n en base a tu norte.</p> <p>MINUTO 16: La misma acci\u00f3n a diferente tiempo habla otro idioma.</p> <p>MINUTO 27: Trabajar la relaci\u00f3n con el dinero para una nueva realidad.</p> <p>MINUTO 40: Concepto de erosi\u00f3n: moldear una piedra con una gota de agua a trav\u00e9s del tiempo.</p> <p>MINUTO 47: El \u00e9xito de tus proyectos va de la mano de tu capacidad de comunicarlos.</p> <p>MINUTO 54: El perd\u00f3n para ti misma es el m\u00e1s dif\u00edcil y el m\u00e1s importante.</p>",
+        "id": "58kAlz2wod4QsZCOMgjamF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#61: Las 12 lecciones que nunca me quiero olvidar - Parte 2",
+        "release_date": "2022-09-19",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:58kAlz2wod4QsZCOMgjamF"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/9303431bfb70268d1dda38268b35c3117f336a6f",
+        "description": "En este capitulo es una conversaci\u00f3n con Haru (@HaruHealing) de invitada especial. Nos comparte sus herramientas y visi\u00f3n sobre viajes de expansi\u00f3n, amor, New York y la valent\u00eda para tomar decisiones.\u00a0 Productos Llenos de Vida: https://www.isagarcia.online/vida Waitlist C\u00f3digos de Abundancia: https://www.isagarcia.online/codigos ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: Introducci\u00f3n a la entrevista y presentaci\u00f3n a Haru Esc\u00e1rcega. MINUTO 4: Aprendizajes de dejar tu espacio, tu casa y nutrir amistades. MINUTO 8: El respaldo del cuerpo en situaciones de alto estr\u00e9s. MINUTO 11: Breakups, relaciones y amor. MINUTO 21: Lecciones de crear un nuevo negocio en una industria diferente. MINUTO 27: Herramientas para tomar decisiones valientes. MINUTO 33: Los regalos de viajar e invertir en ellos. MINUTO 38: Aprendizajes de soltar el control y tener permiso de recibirlo todo.",
+        "duration_ms": 2698416,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/77R1SB2bchBp2V3WutQITg"
+        },
+        "href": "https://api.spotify.com/v1/episodes/77R1SB2bchBp2V3WutQITg",
+        "html_description": "<p>En este capitulo es una conversaci\u00f3n con Haru (&#64;HaruHealing) de invitada especial. Nos comparte sus herramientas y visi\u00f3n sobre viajes de expansi\u00f3n, amor, New York y la valent\u00eda para tomar decisiones.\u00a0</p> <p>Productos Llenos de Vida: <a href=\"https://www.isagarcia.online/vida\" rel=\"nofollow\">https://www.isagarcia.online/vida</a></p> <p>Waitlist C\u00f3digos de Abundancia: <a href=\"https://www.isagarcia.online/codigos\" rel=\"nofollow\">https://www.isagarcia.online/codigos</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: Introducci\u00f3n a la entrevista y presentaci\u00f3n a Haru Esc\u00e1rcega.</p> <p>MINUTO 4: Aprendizajes de dejar tu espacio, tu casa y nutrir amistades.</p> <p>MINUTO 8: El respaldo del cuerpo en situaciones de alto estr\u00e9s.</p> <p>MINUTO 11: Breakups, relaciones y amor.</p> <p>MINUTO 21: Lecciones de crear un nuevo negocio en una industria diferente.</p> <p>MINUTO 27: Herramientas para tomar decisiones valientes.</p> <p>MINUTO 33: Los regalos de viajar e invertir en ellos.</p> <p>MINUTO 38: Aprendizajes de soltar el control y tener permiso de recibirlo todo.</p>",
+        "id": "77R1SB2bchBp2V3WutQITg",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#60: Haru Healing en New York",
+        "release_date": "2022-09-12",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:77R1SB2bchBp2V3WutQITg"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/e35e95b9e9f5c0fa7474e2a3c72a1bfa788f2da8",
+        "description": "En este cap\u00edtulo Isa te comparte 6 de las 12 lecciones m\u00e1s valiosas que ha aprendido en este \u00faltimo a\u00f1o. Vas a aprender que los milagros vienen con duelos, la importancia de nutrir tu cerebro y expandirte a trav\u00e9s del cambio. Despu\u00e9s de escucharlo vas a querer que todo lo que hagas tenga una intenci\u00f3n de impacto detr\u00e1s, elevar tus est\u00e1ndares y deshacerte de lo que ya no le suma a tu vida. Productos Llenos de Vida: https://www.isagarcia.online/vida Journal: https://www.isagarcia.online/journal ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1:\u00a0Cumplea\u00f1os como un momento para hacer inventario de situaciones, emociones, retos y gratitud. MINUTO 3: Lo f\u00e1cil que es caer en el positivismo t\u00f3xico y sentir culpa de los milagros. MINUTO 16: Lo m\u00e1s interesante de ti es tu cerebro. MINUTO 22: No se te olvide dejar que todo cambie, y dejarte cambiar. MINUTO 31: Encuentra significados que te muevan el coraz\u00f3n para atravesar lo tedioso. MINUTO 44: Escribir, elegir y decidir c\u00f3mo contar tu historia, haciendo inventario de tu vida. MINUTO 54: Reducir a lo esencial tiene impacto en la salud mental.",
+        "duration_ms": 3799536,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6gVLHDA00E271uEC8ZJqUA"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6gVLHDA00E271uEC8ZJqUA",
+        "html_description": "<p>En este cap\u00edtulo Isa te comparte 6 de las 12 lecciones m\u00e1s valiosas que ha aprendido en este \u00faltimo a\u00f1o. Vas a aprender que los milagros vienen con duelos, la importancia de nutrir tu cerebro y expandirte a trav\u00e9s del cambio. Despu\u00e9s de escucharlo vas a querer que todo lo que hagas tenga una intenci\u00f3n de impacto detr\u00e1s, elevar tus est\u00e1ndares y deshacerte de lo que ya no le suma a tu vida.</p> <p>Productos Llenos de Vida: <a href=\"https://www.isagarcia.online/vida\" rel=\"nofollow\">https://www.isagarcia.online/vida</a></p> <p>Journal: <a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">https://www.isagarcia.online/journal</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1:\u00a0Cumplea\u00f1os como un momento para hacer inventario de situaciones, emociones, retos y gratitud.</p> <p>MINUTO 3: Lo f\u00e1cil que es caer en el positivismo t\u00f3xico y sentir culpa de los milagros.</p> <p>MINUTO 16: Lo m\u00e1s interesante de ti es tu cerebro.</p> <p>MINUTO 22: No se te olvide dejar que todo cambie, y dejarte cambiar.</p> <p>MINUTO 31: Encuentra significados que te muevan el coraz\u00f3n para atravesar lo tedioso.</p> <p>MINUTO 44: Escribir, elegir y decidir c\u00f3mo contar tu historia, haciendo inventario de tu vida.</p> <p>MINUTO 54: Reducir a lo esencial tiene impacto en la salud mental.</p>",
+        "id": "6gVLHDA00E271uEC8ZJqUA",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#59: Las 12 lecciones que nunca me quiero olvidar - Parte 1",
+        "release_date": "2022-09-05",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:6gVLHDA00E271uEC8ZJqUA"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/fb958a08f31de000b629affa3402a52866fde808",
+        "description": "En este capitulo tenemos una entrevista con Marguga (@marguga__) en el que hablamos sobre el principio de Coffuelled, de su camino con la escritura y un poco del proceso de colaboraci\u00f3n para crear nuestro journal. Como siempre, una conversaci\u00f3n \u00edntima grabada en el piso de mi sala.\u00a0 Waitlist Journal: https://www.isagarcia.online/journal ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: La intimidad del caf\u00e9, la escritura y las conversaciones contigo misma. MINUTO 4: Morning Pages y El Camino del Artista MINUTO 13: La incomodidad de empezar a escribir porque nadie nos ense\u00f1a a hacerlo para nosotros mismos. MINUTO 17: Integrar lo que quieres, sue\u00f1as y eres para crear la realidad que quieres. MINUTO 19: No se trata del resultado, se trata de la disciplina. Si te cuesta es porque te importa. MINUTO 25: Creces tu autoestima en un \u00e1rea cuando pasas m\u00e1s tiempo en esa \u00e1rea. MINUTO 29: Ver la escritura como algo que ya haces todos los d\u00edas y a lo que le puedes dar la intenci\u00f3n que quieras. MINUTO 35: Sorpresas y emociones de publicar un libro. MINUTO 41: Experiencia de colaborar, crear, recibir y escribir por primera vez en el Journal #3. MINUTO 56: Trabajar y mantener relaciones saludables. MINUTO 60: El impacto de tener un journal que te inspire y encante. MINUTO 65: La apertura constante que requiere NYC y c\u00f3mo te inspira a quedarte.",
+        "duration_ms": 4800840,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0KVv5JZzp50CebmrKlU3YX"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0KVv5JZzp50CebmrKlU3YX",
+        "html_description": "<p>En este capitulo tenemos una entrevista con Marguga (&#64;marguga__) en el que hablamos sobre el principio de Coffuelled, de su camino con la escritura y un poco del proceso de colaboraci\u00f3n para crear nuestro journal. Como siempre, una conversaci\u00f3n \u00edntima grabada en el piso de mi sala.\u00a0</p> <p>Waitlist Journal: <a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">https://www.isagarcia.online/journal</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: La intimidad del caf\u00e9, la escritura y las conversaciones contigo misma.</p> <p>MINUTO 4: Morning Pages y El Camino del Artista</p> <p>MINUTO 13: La incomodidad de empezar a escribir porque nadie nos ense\u00f1a a hacerlo para nosotros mismos.</p> <p>MINUTO 17: Integrar lo que quieres, sue\u00f1as y eres para crear la realidad que quieres.</p> <p>MINUTO 19: No se trata del resultado, se trata de la disciplina. Si te cuesta es porque te importa.</p> <p>MINUTO 25: Creces tu autoestima en un \u00e1rea cuando pasas m\u00e1s tiempo en esa \u00e1rea.</p> <p>MINUTO 29: Ver la escritura como algo que ya haces todos los d\u00edas y a lo que le puedes dar la intenci\u00f3n que quieras.</p> <p>MINUTO 35: Sorpresas y emociones de publicar un libro.</p> <p>MINUTO 41: Experiencia de colaborar, crear, recibir y escribir por primera vez en el Journal #3.</p> <p>MINUTO 56: Trabajar y mantener relaciones saludables.</p> <p>MINUTO 60: El impacto de tener un journal que te inspire y encante.</p> <p>MINUTO 65: La apertura constante que requiere NYC y c\u00f3mo te inspira a quedarte.</p>",
+        "id": "0KVv5JZzp50CebmrKlU3YX",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#58 Marguga: escribir para sanar, escribir para publicar, escribir para so\u00f1ar",
+        "release_date": "2022-07-25",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:0KVv5JZzp50CebmrKlU3YX"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/2637b424b4596fd0d52d8371391c2347f38c5616",
+        "description": "En este cap\u00edtulo y mini training gratuito vas a aprender todo lo que se requiere para vender desde tu potencia. Descubrir\u00e1s c\u00f3mo tener ventas m\u00e1s ligeras y exitosas a trav\u00e9s de soltar el control, el estr\u00e9s, la presi\u00f3n e incrementar tu energ\u00eda femenina. Isa compartir\u00e1 su concepto desarrollado de admiraci\u00f3n intelectual y c\u00f3mo facilita transacciones monetarias y energ\u00e9ticas. Lista de Espera Vender Sin Vender https://www.isagarcia.online/vender Waitlist Journal\u00a0\u00a0https://www.isagarcia.online/journal ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1:\u00a0Conectar con la energ\u00eda femenina para mejores resultados de ventas. MINUTO 5: Soltar la validaci\u00f3n y el sacrificio de una venta para incrementar tu potencia. MINUTO 10: Sembrar ventas antes de que alguien te pueda pagar alej\u00e1ndote del perfeccionismo. MINUTO 14: C\u00f3mo vender sin vender es un balance de energ\u00edas masculina y femenina. MINUTO 18: Incrementar y elevar la eficiencia para crear con la misma cantidad de recursos. MINUTO 19: Mentalidad y permisi\u00f3n para vender. MINUTO 27: Comandar admiraci\u00f3n intelectual para facilitar una venta. MINUTO 33: Expandir conocimiento y sabidur\u00eda fuera de \u201ctu caja\u201d.",
+        "duration_ms": 2808696,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/1P62TZ9rHmB3PRguRnM6pb"
+        },
+        "href": "https://api.spotify.com/v1/episodes/1P62TZ9rHmB3PRguRnM6pb",
+        "html_description": "<p>En este cap\u00edtulo y mini training gratuito vas a aprender todo lo que se requiere para vender desde tu potencia. Descubrir\u00e1s c\u00f3mo tener ventas m\u00e1s ligeras y exitosas a trav\u00e9s de soltar el control, el estr\u00e9s, la presi\u00f3n e incrementar tu energ\u00eda femenina. Isa compartir\u00e1 su concepto desarrollado de admiraci\u00f3n intelectual y c\u00f3mo facilita transacciones monetarias y energ\u00e9ticas.</p> <p>Lista de Espera Vender Sin Vender <a href=\"https://www.isagarcia.online/vender\" rel=\"nofollow\">https://www.isagarcia.online/vender</a></p> <p>Waitlist Journal\u00a0<a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">\u00a0https://www.isagarcia.online/journal</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1:\u00a0Conectar con la energ\u00eda femenina para mejores resultados de ventas.</p> <p>MINUTO 5: Soltar la validaci\u00f3n y el sacrificio de una venta para incrementar tu potencia.</p> <p>MINUTO 10: Sembrar ventas antes de que alguien te pueda pagar alej\u00e1ndote del perfeccionismo.</p> <p>MINUTO 14: C\u00f3mo vender sin vender es un balance de energ\u00edas masculina y femenina.</p> <p>MINUTO 18: Incrementar y elevar la eficiencia para crear con la misma cantidad de recursos.</p> <p>MINUTO 19: Mentalidad y permisi\u00f3n para vender.</p> <p>MINUTO 27: Comandar admiraci\u00f3n intelectual para facilitar una venta.</p> <p>MINUTO 33: Expandir conocimiento y sabidur\u00eda fuera de \u201ctu caja\u201d.</p>",
+        "id": "1P62TZ9rHmB3PRguRnM6pb",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#57 C\u00f3mo tener m\u00e1s potencia en tus ventas",
+        "release_date": "2022-07-02",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:1P62TZ9rHmB3PRguRnM6pb"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/d596569966e1d3684cd894e96efbaaa7f2b7dfaf",
+        "description": "En este episodio despejar\u00e1s todas esas dudas sobre empezar salir a vender. Aprender\u00e1s a nutrir tu cerebro de ventas para ejecutar desde la acci\u00f3n y no desde la reacci\u00f3n. Querr\u00e1s empezar a desarrollar una prueba de concepto, experimentar, y generar admiraci\u00f3n intelectual para que el proceso de creaci\u00f3n y ventas se sienta cada vez m\u00e1s ligero. Lista de Espera Vender Sin Vender https://www.isagarcia.online/vender Waitlist Journal\u00a0 https://www.isagarcia.online/journal ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1:\u00a0Historia de primera experiencia de ventas de Isa. MINUTO 6: Vender es una destreza que se desarrolla. Diferencia de vender en acci\u00f3n y reacci\u00f3n. MINUTO 14: Aprender a reconocer lo que tu cliente busca. Leer la energ\u00eda detr\u00e1s de las ventas. MINUTO 24: Comandar admiraci\u00f3n intelectual para una venta m\u00e1s liviana. MINUTO 35: Mentalidad de expansi\u00f3n y mejorar paso por paso, 10% por 10%. MINUTO 43: Generar ventas con coherencia a trav\u00e9s de tus acciones. Menos palabras, m\u00e1s confianza. MINUTO 49: La energ\u00eda y la claridad de la comunicaci\u00f3n depende de c\u00f3mo \u201cshow up\u201d. MINUTO 58: \u00a0Estas a cargo de la simplicidad del proceso porque una mente confundida no compra. MINUTO 68: Aprender a trabajar tu relaci\u00f3n con el rechazo. \u00a0",
+        "duration_ms": 4721554,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0bDRczztfMajz2hQoLPdTX"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0bDRczztfMajz2hQoLPdTX",
+        "html_description": "<p>En este episodio despejar\u00e1s todas esas dudas sobre empezar salir a vender. Aprender\u00e1s a nutrir tu cerebro de ventas para ejecutar desde la acci\u00f3n y no desde la reacci\u00f3n. Querr\u00e1s empezar a desarrollar una prueba de concepto, experimentar, y generar admiraci\u00f3n intelectual para que el proceso de creaci\u00f3n y ventas se sienta cada vez m\u00e1s ligero.</p> <p>Lista de Espera Vender Sin Vender <a href=\"https://www.isagarcia.online/vender\" rel=\"nofollow\">https://www.isagarcia.online/vender</a></p> <p>Waitlist Journal\u00a0 <a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">https://www.isagarcia.online/journal</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1:\u00a0Historia de primera experiencia de ventas de Isa.</p> <p>MINUTO 6: Vender es una destreza que se desarrolla. Diferencia de vender en acci\u00f3n y reacci\u00f3n.</p> <p>MINUTO 14: Aprender a reconocer lo que tu cliente busca. Leer la energ\u00eda detr\u00e1s de las ventas.</p> <p>MINUTO 24: Comandar admiraci\u00f3n intelectual para una venta m\u00e1s liviana.</p> <p>MINUTO 35: Mentalidad de expansi\u00f3n y mejorar paso por paso, 10% por 10%.</p> <p>MINUTO 43: Generar ventas con coherencia a trav\u00e9s de tus acciones. Menos palabras, m\u00e1s confianza.</p> <p>MINUTO 49: La energ\u00eda y la claridad de la comunicaci\u00f3n depende de c\u00f3mo \u201cshow up\u201d.</p> <p>MINUTO 58: \u00a0Estas a cargo de la simplicidad del proceso porque una mente confundida no compra.</p> <p>MINUTO 68: Aprender a trabajar tu relaci\u00f3n con el rechazo.</p> <p>\u00a0</p>",
+        "id": "0bDRczztfMajz2hQoLPdTX",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#56: 7 Cosas que aprend\u00ed de vender waffles",
+        "release_date": "2022-06-23",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:0bDRczztfMajz2hQoLPdTX"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/cf214d1ae4eac913d7d19dc2581b75c1020c2143",
+        "description": "En este cap\u00edtulo descubrir\u00e1s c\u00f3mo crear y sostener h\u00e1bitos para cambiar tu vida, y desde d\u00f3nde debes hacerlo. Aprender\u00e1s a transformarte desde la decisi\u00f3n y no desde lo que \u201cdeber\u00edas\u201d hacer. Incorporar\u00e1s gracia, fluidez y gentileza en tu rutina mientras estableces tus l\u00edmites y no negociables para que este nuevo estilo de vida sea sostenible. Lista de Espera Vender Sin Vender https://www.isagarcia.online/vender Waitlist Journal https://www.isagarcia.online/journal ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: No eliminar h\u00e1bitos antes de querer cambiarlos. MINUTO 4: C\u00f3mo incorporar h\u00e1bitos desde la potencia. MINUTO 9: Planificaci\u00f3n de h\u00e1bitos en integridad. MINUTO 14: Ser intencional y redise\u00f1ar tu vida, sistemas, rutinas y lo que te rodea. MINUTO 20: Gentileza contigo misma para fluir dentro de una estructura con l\u00edmites. MINUTO 33: Efecto domino y el hilo que entreteje tus h\u00e1bitos. MINUTO 39: Despedirte del perfeccionismo. MINUTO 41: La acumulaci\u00f3n de acciones para llegar a una meta/venta. MINUTO 50: Mover tu enfoque energ\u00e9tico a otros espacios para crear m\u00e1s. MINUTO 55: Cultivar \u00e9xito a trav\u00e9s de la constancia con frecuencias sostenibles. \u00a0",
+        "duration_ms": 4231103,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/2idsYh3toJJKTMSKkJLJ9w"
+        },
+        "href": "https://api.spotify.com/v1/episodes/2idsYh3toJJKTMSKkJLJ9w",
+        "html_description": "<p>En este cap\u00edtulo descubrir\u00e1s c\u00f3mo crear y sostener h\u00e1bitos para cambiar tu vida, y desde d\u00f3nde debes hacerlo. Aprender\u00e1s a transformarte desde la decisi\u00f3n y no desde lo que \u201cdeber\u00edas\u201d hacer. Incorporar\u00e1s gracia, fluidez y gentileza en tu rutina mientras estableces tus l\u00edmites y no negociables para que este nuevo estilo de vida sea sostenible.</p> <p>Lista de Espera Vender Sin Vender <a href=\"https://www.isagarcia.online/vender\" rel=\"nofollow\">https://www.isagarcia.online/vender</a></p> <p>Waitlist Journal</p> <p><a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">https://www.isagarcia.online/journal</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: No eliminar h\u00e1bitos antes de querer cambiarlos.</p> <p>MINUTO 4: C\u00f3mo incorporar h\u00e1bitos desde la potencia.</p> <p>MINUTO 9: Planificaci\u00f3n de h\u00e1bitos en integridad.</p> <p>MINUTO 14: Ser intencional y redise\u00f1ar tu vida, sistemas, rutinas y lo que te rodea.</p> <p>MINUTO 20: Gentileza contigo misma para fluir dentro de una estructura con l\u00edmites.</p> <p>MINUTO 33: Efecto domino y el hilo que entreteje tus h\u00e1bitos.</p> <p>MINUTO 39: Despedirte del perfeccionismo.</p> <p>MINUTO 41: La acumulaci\u00f3n de acciones para llegar a una meta/venta.</p> <p>MINUTO 50: Mover tu enfoque energ\u00e9tico a otros espacios para crear m\u00e1s.</p> <p>MINUTO 55: Cultivar \u00e9xito a trav\u00e9s de la constancia con frecuencias sostenibles.</p> <p>\u00a0</p>",
+        "id": "2idsYh3toJJKTMSKkJLJ9w",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#55 C\u00f3mo cambiar h\u00e1bitos con gracia",
+        "release_date": "2022-06-08",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:2idsYh3toJJKTMSKkJLJ9w"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/79050a3ce6cd798d3bdd6d752b140b49fe095b0a",
+        "description": "En este episodio aprender\u00e1s que no s\u00f3lo debes crecer una empresa, sino tambi\u00e9n escalarla. Te dar\u00e1s cuenta de la importancia de hacerlo a lo largo del tiempo, con potencia y de forma sostenible. Isa te compartir\u00e1 sus mejores estrategias para hacerlo de una forma alineada, creando y SOSTENIENDO m\u00e1s en cada paso. Lista de Espera Vender sin Vender: https://www.isagarcia.online/vender ______________________________________________________ \u00a0 GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: Diferencia de conceptos de crecer y escalar. MINUTO 5: Lo que te lleva a crear una empresa exitosa no es lo que te lleva a escalarla. MINUTO 9: Reubicar tu enfoque de energ\u00eda para m\u00e1s eficiencia. MINUTO 13: Amplificar tu capacidad de sostener m\u00e1s clientes y regular tu sistema nervioso. MINUTO 16: Comunicaci\u00f3n y storytelling como una de las mejores estrategias de marketing. MINUTO 20: Encontrar y nutrir tu creatividad para expandirla a largo plazo. MINUTO 27: Entender tus finanzas para multiplicar tu dinero. MINUTO 35: Seguir creciendo tu cerebro de negocios y superar niveles, volver a ser principiante. MINUTO 39: Lista de Espera Vender Sin Vender: https://www.isagarcia.online/vender MINUTO 46: Salud f\u00edsica, mental y vitalidad como estrategia de negocios. MINUTO 54: Cultivar tu soberan\u00eda interior para saber caminar con intenci\u00f3n. MINUTO 58: Romantizar tu vida, los retos y los procesos.",
+        "duration_ms": 3765743,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7GS9Wd1UwXsDdZztR0IkSs"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7GS9Wd1UwXsDdZztR0IkSs",
+        "html_description": "<p>En este episodio aprender\u00e1s que no s\u00f3lo debes crecer una empresa, sino tambi\u00e9n escalarla. Te dar\u00e1s cuenta de la importancia de hacerlo a lo largo del tiempo, con potencia y de forma sostenible. Isa te compartir\u00e1 sus mejores estrategias para hacerlo de una forma alineada, creando y SOSTENIENDO m\u00e1s en cada paso.</p> <p>Lista de Espera Vender sin Vender: <a href=\"https://www.isagarcia.online/vender\" rel=\"nofollow\">https://www.isagarcia.online/vender</a></p> <p>______________________________________________________</p> <p>\u00a0</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: Diferencia de conceptos de crecer y escalar.</p> <p>MINUTO 5: Lo que te lleva a crear una empresa exitosa no es lo que te lleva a escalarla.</p> <p>MINUTO 9: Reubicar tu enfoque de energ\u00eda para m\u00e1s eficiencia.</p> <p>MINUTO 13: Amplificar tu capacidad de sostener m\u00e1s clientes y regular tu sistema nervioso.</p> <p>MINUTO 16: Comunicaci\u00f3n y storytelling como una de las mejores estrategias de marketing.</p> <p>MINUTO 20: Encontrar y nutrir tu creatividad para expandirla a largo plazo.</p> <p>MINUTO 27: Entender tus finanzas para multiplicar tu dinero.</p> <p>MINUTO 35: Seguir creciendo tu cerebro de negocios y superar niveles, volver a ser principiante.</p> <p>MINUTO 39: Lista de Espera Vender Sin Vender: <a href=\"https://www.isagarcia.online/vender\" rel=\"nofollow\">https://www.isagarcia.online/vender</a></p> <p>MINUTO 46: Salud f\u00edsica, mental y vitalidad como estrategia de negocios.</p> <p>MINUTO 54: Cultivar tu soberan\u00eda interior para saber caminar con intenci\u00f3n.</p> <p>MINUTO 58: Romantizar tu vida, los retos y los procesos.</p>",
+        "id": "7GS9Wd1UwXsDdZztR0IkSs",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#54 C\u00f3mo escalar una empresa sustentablemente",
+        "release_date": "2022-05-31",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:7GS9Wd1UwXsDdZztR0IkSs"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/f4ced21b7e07baa834e1f7fcf0e91b8abcf9a863",
+        "description": "Waitlist Journal https://www.isagarcia.online/journal ______________________________________________________ GU\u00cdA DEL CAP\u00cdTULO: MINUTO 1: Introducci\u00f3n al cap\u00edtulo y rebranding de imagen del podcast. MINUTO 2: Vivir duelos mientras vives un cambio en tu vida. MINUTO 8: Disfrutar del caos y bailarle con gracia cuando todo est\u00e1 movido. MINUTO 13: Hacer preguntas para abrir puertas y crear lo que anhelas. MINUTO 16: Historia de la aplicaci\u00f3n y noticia del resultado de la loter\u00eda de visas. MINUTO 22: Anclarte al presente y confiar en el proceso aunque quieras tomar decisiones. MINUTO 31: Poner intenci\u00f3n a tus acciones para atravesar los retos seg\u00fan lo requieres. MINUTO 33: Abrirte a pedir ayuda y respaldarte en tu grupo de apoyo para estar contenida. MINUTO 36: Ser estrat\u00e9gica en tus decisiones para que tomen menos recursos y energ\u00eda. MINUTO 42: Transici\u00f3n de poder mantener tus ra\u00edces cuando est\u00e1s en otro lado. MINUTO 48: Siempre tienes permiso de elegir algo diferente. MINUTO 54: Puedes hacer cosas dif\u00edciles y fortalecerte de 10% en 10%.",
+        "duration_ms": 3881496,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5Fsafw90WNAP4Ny3RwCAgF"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5Fsafw90WNAP4Ny3RwCAgF",
+        "html_description": "<p>Waitlist Journal</p> <p><a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">https://www.isagarcia.online/journal</a></p> <p>______________________________________________________</p> <p>GU\u00cdA DEL CAP\u00cdTULO:</p> <p>MINUTO 1: Introducci\u00f3n al cap\u00edtulo y rebranding de imagen del podcast.</p> <p>MINUTO 2: Vivir duelos mientras vives un cambio en tu vida.</p> <p>MINUTO 8: Disfrutar del caos y bailarle con gracia cuando todo est\u00e1 movido.</p> <p>MINUTO 13: Hacer preguntas para abrir puertas y crear lo que anhelas.</p> <p>MINUTO 16: Historia de la aplicaci\u00f3n y noticia del resultado de la loter\u00eda de visas.</p> <p>MINUTO 22: Anclarte al presente y confiar en el proceso aunque quieras tomar decisiones.</p> <p>MINUTO 31: Poner intenci\u00f3n a tus acciones para atravesar los retos seg\u00fan lo requieres.</p> <p>MINUTO 33: Abrirte a pedir ayuda y respaldarte en tu grupo de apoyo para estar contenida.</p> <p>MINUTO 36: Ser estrat\u00e9gica en tus decisiones para que tomen menos recursos y energ\u00eda.</p> <p>MINUTO 42: Transici\u00f3n de poder mantener tus ra\u00edces cuando est\u00e1s en otro lado.</p> <p>MINUTO 48: Siempre tienes permiso de elegir algo diferente.</p> <p>MINUTO 54: Puedes hacer cosas dif\u00edciles y fortalecerte de 10% en 10%.</p>",
+        "id": "5Fsafw90WNAP4Ny3RwCAgF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#53 New York, New York \u2764\ufe0f",
+        "release_date": "2022-05-13",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:5Fsafw90WNAP4Ny3RwCAgF"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/6225995870791d46a067630fd501427904fae7d8",
+        "description": "Lista de espera para la Academia de Empresarias para tener prioridad y el c\u00f3digo de descuento de $222 : https://www.isagarcia.online/academia Waitlist Journal https://www.isagarcia.online/journal \u00a0",
+        "duration_ms": 4071311,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6KYadIs8QB9mG7oDldvVTO"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6KYadIs8QB9mG7oDldvVTO",
+        "html_description": "<p>Lista de espera para la Academia de Empresarias para tener prioridad y el c\u00f3digo de descuento de $222 :</p> <p><a href=\"https://www.isagarcia.online/academia\" rel=\"nofollow\">https://www.isagarcia.online/academia</a></p> <p>Waitlist Journal</p> <p><a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">https://www.isagarcia.online/journal</a></p> <p>\u00a0</p>",
+        "id": "6KYadIs8QB9mG7oDldvVTO",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8aecf34f65a80f4e44a45fbf98",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1fecf34f65a80f4e44a45fbf98",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68decf34f65a80f4e44a45fbf98",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#52: 5 Lecciones de +20 Lanzamientos, +1 Mill\u00f3n en ventas y 4 a\u00f1os en el mundo digital",
+        "release_date": "2022-02-23",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:6KYadIs8QB9mG7oDldvVTO"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/e431c9f69a46871730a9e935311b35e1949b7b60",
+        "description": "Lista de espera para la Academia de Empresarias para tener prioridad y el c\u00f3digo de descuento de $222 : https://www.isagarcia.online/academia Waitlist Journal https://www.isagarcia.online/journal Vlogs de Sedona parte #1 https://youtu.be/GgRnku4f0TA \u00a0 \u00a0 \u00a0",
+        "duration_ms": 4285488,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6WK02azQROaS8ZXrYY6ivS"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6WK02azQROaS8ZXrYY6ivS",
+        "html_description": "<p>Lista de espera para la Academia de Empresarias para tener prioridad y el c\u00f3digo de descuento de $222 :</p> <p><a href=\"https://www.isagarcia.online/academia\" rel=\"nofollow\">https://www.isagarcia.online/academia</a></p> <p>Waitlist Journal</p> <p><a href=\"https://www.isagarcia.online/journal\" rel=\"nofollow\">https://www.isagarcia.online/journal</a></p> <p>Vlogs de Sedona parte #1</p> <p><a href=\"https://youtu.be/GgRnku4f0TA\" rel=\"nofollow\">https://youtu.be/GgRnku4f0TA</a></p> <p>\u00a0</p> <p>\u00a0</p> <p>\u00a0</p>",
+        "id": "6WK02azQROaS8ZXrYY6ivS",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a8aa90c5d09103e1122dc90a4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f8aa90c5d09103e1122dc90a4",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d8aa90c5d09103e1122dc90a4",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#51 C\u00f3mo cultivar tu potencia y mi primer retiro espiritual en Sedona",
+        "release_date": "2022-02-13",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:6WK02azQROaS8ZXrYY6ivS"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/b8e3fa65bebd730b5aa345d13068eeeed71e5b90",
+        "description": "En este podcast entrevisto a @susanailustrada sobre su camino cambi\u00e1ndose de carrera y creando la vida de sus sue\u00f1os, empezando una empresa digital y sobre el poder de la ilustraci\u00f3n. Lista de espera para la Academia de Empresarias para tener prioridad y el c\u00f3digo de descuento de $222 : https://www.isagarcia.online/academia Puedes escuchar m\u00e1s contenido de empresarias digitales en estos cap\u00edtulos: #25. Florencia Ortega: Recuperar tu Ciclo Menstrual, Esencia Femenina y Creando la Empresa Digital de tus Sue\u00f1os https://open.spotify.com/episode/7pn6VtlMedNfiQsbrTniw7 #27. Dani G. Schulz: de influencera Empresaria Digital, mindset, relaci\u00f3n con el dinero y como crecer en IG https://open.spotify.com/episode/4V1I29HDNqzpoixa4vrw4Y #31:Uti Torres: de influencer a Empresaria Alineada, c\u00f3mo deslumbrar y superar tus propias expectativas https://open.spotify.com/episode/3ugO1FFIjr1DPj16UZEPls \u00a0",
+        "duration_ms": 3807263,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/4TDOYmSh83GodYypW0UW85"
+        },
+        "href": "https://api.spotify.com/v1/episodes/4TDOYmSh83GodYypW0UW85",
+        "html_description": "<p>En este podcast entrevisto a &#64;susanailustrada sobre su camino cambi\u00e1ndose de carrera y creando la vida de sus sue\u00f1os, empezando una empresa digital y sobre el poder de la ilustraci\u00f3n.</p> <p>Lista de espera para la Academia de Empresarias para tener prioridad y el c\u00f3digo de descuento de $222 :</p> <p><a href=\"https://www.isagarcia.online/academia\" rel=\"nofollow\">https://www.isagarcia.online/academia</a></p> <p>Puedes escuchar m\u00e1s contenido de empresarias digitales en estos cap\u00edtulos:</p> <p>#25. Florencia Ortega: Recuperar tu Ciclo Menstrual, Esencia Femenina y Creando la Empresa Digital de tus Sue\u00f1os <a href=\"https://open.spotify.com/episode/7pn6VtlMedNfiQsbrTniw7\" rel=\"nofollow\">https://open.spotify.com/episode/7pn6VtlMedNfiQsbrTniw7</a></p> <p>#27. Dani G. Schulz: de influencera Empresaria Digital, mindset, relaci\u00f3n con el dinero y como crecer en IG <a href=\"https://open.spotify.com/episode/4V1I29HDNqzpoixa4vrw4Y\" rel=\"nofollow\">https://open.spotify.com/episode/4V1I29HDNqzpoixa4vrw4Y</a></p> <p>#31:Uti Torres: de influencer a Empresaria Alineada, c\u00f3mo deslumbrar y superar tus propias expectativas <a href=\"https://open.spotify.com/episode/3ugO1FFIjr1DPj16UZEPls\" rel=\"nofollow\">https://open.spotify.com/episode/3ugO1FFIjr1DPj16UZEPls</a></p> <p>\u00a0</p>",
+        "id": "4TDOYmSh83GodYypW0UW85",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a4d39f6118a2e2ae6eba3853d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f4d39f6118a2e2ae6eba3853d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d4d39f6118a2e2ae6eba3853d",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#50:  Susana Ilustrada: de abogada a Empresaria Digital",
+        "release_date": "2022-02-02",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:4TDOYmSh83GodYypW0UW85"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/6f418f3a4fc3a4534513d6ec1adfe0cfa3d24d70",
+        "description": "Para descargar los recursos del Masterclass que Gina DeVee mencion\u00f3 en la grabaci\u00f3n de este cap\u00edtulo da\u00a0click aqu\u00ed. Waitlist Academia de Empresarias Digitales: https://www.isagarcia.online/academia \u00a0",
+        "duration_ms": 4190567,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/4OteJAiKIESY2sAqG1jxRm"
+        },
+        "href": "https://api.spotify.com/v1/episodes/4OteJAiKIESY2sAqG1jxRm",
+        "html_description": "<p>Para descargar los recursos del Masterclass que Gina DeVee mencion\u00f3 en la grabaci\u00f3n de este cap\u00edtulo da\u00a0<a href=\"https://www.isagarcia.online/recursospodcast49\" rel=\"nofollow\">click aqu\u00ed.</a></p> <p>Waitlist Academia de Empresarias Digitales:</p> <p><a href=\"https://www.isagarcia.online/academia\" rel=\"nofollow\">https://www.isagarcia.online/academia</a></p> <p>\u00a0</p>",
+        "id": "4OteJAiKIESY2sAqG1jxRm",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8ad337884055b3d942635ea466",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1fd337884055b3d942635ea466",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68dd337884055b3d942635ea466",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#49 Gina DeVee: energ\u00eda femenina en los negocios, amor, el significado de viajar y los milagros detr\u00e1s de publicar un libro",
+        "release_date": "2022-01-17",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:4OteJAiKIESY2sAqG1jxRm"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/6aab92d9205a2ef774ba59baa7659136468b7077",
+        "description": "Lista de Espera para la Planificaci\u00f3n Estrat\u00e9gica y Energ\u00e9tica 2022: https://isagarcia.co/planificacion/ Lista de Espera Academia de Empresarias:\u00a0 https://www.isagarcia.online/academia",
+        "duration_ms": 3531648,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5qCtW7lA9AT9GaCGmrmceQ"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5qCtW7lA9AT9GaCGmrmceQ",
+        "html_description": "<p>Lista de Espera para la Planificaci\u00f3n Estrat\u00e9gica y Energ\u00e9tica 2022: <a href=\"https://isagarcia.co/planificacion/\" rel=\"nofollow\">https://isagarcia.co/planificacion/</a></p> <p>Lista de Espera Academia de Empresarias:\u00a0</p> <p><a href=\"https://www.isagarcia.online/academia\" rel=\"nofollow\">https://www.isagarcia.online/academia</a></p>",
+        "id": "5qCtW7lA9AT9GaCGmrmceQ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8ae5a86ffc9dd54a64c0816385",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1fe5a86ffc9dd54a64c0816385",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68de5a86ffc9dd54a64c0816385",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#48 C\u00f3mo cambiar a tu familia",
+        "release_date": "2021-12-05",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:5qCtW7lA9AT9GaCGmrmceQ"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/1da4816385cb9312d9651ac1b070a099e89b7a54",
+        "description": "Lista de Espera para la Planificaci\u00f3n Estrat\u00e9gica y Energ\u00e9tica 2022: https://isagarcia.co/planificacion/",
+        "duration_ms": 4380048,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0wDnfpaFBRUcweKYbARTwX"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0wDnfpaFBRUcweKYbARTwX",
+        "html_description": "<p>Lista de Espera para la Planificaci\u00f3n Estrat\u00e9gica y Energ\u00e9tica 2022: https://isagarcia.co/planificacion/</p>",
+        "id": "0wDnfpaFBRUcweKYbARTwX",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8ab2771fc7c58f446329d1b38c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1fb2771fc7c58f446329d1b38c",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68db2771fc7c58f446329d1b38c",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#47 C\u00f3mo contratar y crear el equipo de tus sue\u00f1os en tu empresa",
+        "release_date": "2021-11-19",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:0wDnfpaFBRUcweKYbARTwX"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/83068d46fd5f86cd69fdcb63f7269dfe3c9e81f9",
+        "description": "En este cap\u00edtulo hablamos de las ra\u00edces detr\u00e1s de sentirte estancada, saturada o desgastada con tu empresa y tus ventas. Y de lo que puedes hacer para regresar a tu centro, tu creatividad y tu ilusi\u00f3n. C\u00f3digos de Abundancia: https://www.isagarcia.online/codigos",
+        "duration_ms": 3923303,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/4dRNDolbDJbKIbQicMSqap"
+        },
+        "href": "https://api.spotify.com/v1/episodes/4dRNDolbDJbKIbQicMSqap",
+        "html_description": "<p>En este cap\u00edtulo hablamos de las ra\u00edces detr\u00e1s de sentirte estancada, saturada o desgastada con tu empresa y tus ventas. Y de lo que puedes hacer para regresar a tu centro, tu creatividad y tu ilusi\u00f3n.</p> <p>C\u00f3digos de Abundancia: <a href=\"https://www.isagarcia.online/codigos\" rel=\"nofollow\">https://www.isagarcia.online/codigos</a></p>",
+        "id": "4dRNDolbDJbKIbQicMSqap",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8a0dc577d32624153a15093857",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1f0dc577d32624153a15093857",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68d0dc577d32624153a15093857",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#46 Las 4 razones por las que te sientes estancada (y c\u00f3mo sanarlo)",
+        "release_date": "2021-10-26",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:4dRNDolbDJbKIbQicMSqap"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/3ca6c13b6bf4762c51d3691929f705b4dda2e077",
+        "description": "En este cap\u00edtulo te hablo de para qu\u00e9 hacer un viaje de expansi\u00f3n y c\u00f3mo me cambi\u00f3 la vida. Entramos en detalle de todos los c\u00f3digos energ\u00e9ticos de su poder e impacto para crear la vida de tus sue\u00f1os. C\u00f3digos de Abundancia: https://www.isagarcia.online/codigos Link para la certificaci\u00f3n de coaching: Experto en Coaching",
+        "duration_ms": 4374168,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/2Ar4Kwh6lvQ7vz0zSZBfYw"
+        },
+        "href": "https://api.spotify.com/v1/episodes/2Ar4Kwh6lvQ7vz0zSZBfYw",
+        "html_description": "<p>En este cap\u00edtulo te hablo de para qu\u00e9 hacer un viaje de expansi\u00f3n y c\u00f3mo me cambi\u00f3 la vida. Entramos en detalle de todos los c\u00f3digos energ\u00e9ticos de su poder e impacto para crear la vida de tus sue\u00f1os.</p> <p>C\u00f3digos de Abundancia: <a href=\"https://www.isagarcia.online/codigos\" rel=\"nofollow\">https://www.isagarcia.online/codigos</a></p> <p>Link para la certificaci\u00f3n de coaching: <a href=\"https://info.hebaglobal.com/isagarcia\" rel=\"nofollow\">Experto en Coaching</a></p>",
+        "id": "2Ar4Kwh6lvQ7vz0zSZBfYw",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8aca42151bdd1d26e53d721f09",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1fca42151bdd1d26e53d721f09",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68dca42151bdd1d26e53d721f09",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#45 C\u00f3mo planificar tu primer viaje de expansi\u00f3n (y como me cambi\u00f3 la vida hacer el m\u00edo)",
+        "release_date": "2021-10-08",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:2Ar4Kwh6lvQ7vz0zSZBfYw"
+      },
+      {
+        "audio_preview_url": "https://p.scdn.co/mp3-preview/308a84252b05ef4ca6dc3ad7a4c191f69d16d87e",
+        "description": "C\u00f3digos de Abundancia: https://www.isagarcia.online/codigos Link para la certificaci\u00f3n de coaching: Experto en Coaching",
+        "duration_ms": 5477880,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/5pJbmrlqoQfPLX8WjimutK"
+        },
+        "href": "https://api.spotify.com/v1/episodes/5pJbmrlqoQfPLX8WjimutK",
+        "html_description": "<p>C\u00f3digos de Abundancia: <a href=\"https://www.isagarcia.online/codigos\" rel=\"nofollow\">https://www.isagarcia.online/codigos</a></p> <p>Link para la certificaci\u00f3n de coaching: <a href=\"https://info.hebaglobal.com/isagarcia\" rel=\"nofollow\">Experto en Coaching</a></p>",
+        "id": "5pJbmrlqoQfPLX8WjimutK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8aca0b2c8d811b9f45f81c20a3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1fca0b2c8d811b9f45f81c20a3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68dca0b2c8d811b9f45f81c20a3",
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "es",
+        "languages": [
+          "es"
+        ],
+        "name": "#44 \u26a1\ufe0fLas 12 lecciones que nunca me quiero olvidar",
+        "release_date": "2021-09-30",
+        "release_date_precision": "day",
+        "type": "episode",
+        "uri": "spotify:episode:5pJbmrlqoQfPLX8WjimutK"
+      }
+    ],
+    "limit": 50,
+    "next": "https://api.spotify.com/v1/shows/1Grr7tNmgKPvWwsiA98AqK/episodes?offset=50&limit=50",
+    "offset": 0,
+    "previous": null,
+    "total": 93
+  },
+  "explicit": false,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/show/1Grr7tNmgKPvWwsiA98AqK"
+  },
+  "href": "https://api.spotify.com/v1/shows/1Grr7tNmgKPvWwsiA98AqK",
+  "html_description": "El mundo nos necesita brillando. Poderosas. Sabias. Llenas de confianza y amor propio. Nos necesita viviendo la vida de nuestros sue\u00f1os, saludables, vibrantes y abundantes. Nos debemos a nosotras mismas un SI PUEDO, CREO EN TI frente al espejo. Un TE AMO. Un GRACIAS. Nos merecemos vivir sin tanto ruido externo y sin miedo al qu\u00e9 dir\u00e1n. Nos merecemos informaci\u00f3n actualizada y saber c\u00f3mo cuidarnos y alimentarnos. Nos necesitamos llenas de vida y prop\u00f3sito, y con mucha auto compasi\u00f3n en el camino. <br/>xx<br/>Isa Garcia <br/>&#64;isagarcia<br/>https://isagarcia.co",
+  "id": "1Grr7tNmgKPvWwsiA98AqK",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6765630000ba8a250794a8abba27a8d7cc303a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67656300005f1f250794a8abba27a8d7cc303a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab6765630000f68d250794a8abba27a8d7cc303a",
+      "width": 64
+    }
+  ],
+  "is_externally_hosted": false,
+  "languages": [
+    "es"
+  ],
+  "media_type": "audio",
+  "name": "Mi Mejor Versi\u00f3n con Isa Garcia",
+  "publisher": "Isa Garcia",
+  "total_episodes": 93,
+  "type": "show",
+  "uri": "spotify:show:1Grr7tNmgKPvWwsiA98AqK"
+}

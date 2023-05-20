@@ -16,8 +16,15 @@ downloads_folder = os.path.join(os.getcwd(), 'workspace_files', 'podcasts')
 if not os.path.exists(downloads_folder):
     os.makedirs(downloads_folder)
 
-print("Please enter the URL of the podcast you'd like to transcribe:")
-rss_feed_url = input()
+print("Please enter the URL of the podcast you'd like to transcribe (and any flags):")
+user_input = input().split()
+podcast_url = user_input[0]  # The first part of the input should always be the URL
+flags = user_input[1:]  # The rest of the input (if any) will be considered as flags
+
+# Now the rest of the code will work as expected
+downloaded_file_path = download_podcast(podcast_url)
+test_run = "-t" in flags or "--test" in flags
+
 
 # Use youtube-dl to download the podcast
 ydl_opts = {
@@ -34,18 +41,25 @@ with youtube_dl.YoutubeDL(ydl_opts) as ydl:
     podcast_title = info_dict.get('title', None)
     local_file_path = ydl.prepare_filename(info_dict)
 
+test_run = False
+if "-t" in flags or "--test" in flags:
+    test_run = True
+
 def transcribe_audio_data(api_key, audio_data):
     openai.api_key = api_key
     transcript = openai.Audio.transcribe("whisper-1", audio_data)
     return transcript["text"]
 
-def transcribe_audio_file(api_key, file_path):
+def transcribe_audio_file(api_key, file_path, test_run=False):
     try:
         print("Loading audio file...")
         audio = AudioSegment.from_file(file_path)
         chunk_length_ms = 1000 * 60 * 1  # 1-minute chunks
         chunks = [audio[i:i + chunk_length_ms] for i in range(0, len(audio), chunk_length_ms)]
         transcripts = []
+
+        if test_run:
+            chunks = chunks[:5]  # If it's a test run, only consider the first 5 chunks
 
         print(f"Audio file loaded. Transcribing {len(chunks)} chunks...")
         for i, chunk in enumerate(chunks, start=1):
@@ -151,7 +165,7 @@ def summarize_transcript(podcast_title, podcast_transcript, prompt_length=2000):
         return None
 
 def summarize_local_podcast(podcast_title, local_file_path):
-    transcript = transcribe_audio_file(openai.api_key, local_file_path)
+    transcript = transcribe_audio_file(openai.api_key, downloaded_file_path, test_run)
     if transcript is None:
         return None
 

@@ -9,6 +9,7 @@ import textwrap
 import youtube_dl
 import nltk
 from nltk.tokenize import sent_tokenize
+import extractive_scoring as es
 
 config = configparser.ConfigParser()
 config.read('config.ini')
@@ -173,35 +174,12 @@ def summarize_transcript(podcast_title, podcast_transcript, prompt_length=2000):
         return None
 
 def get_importance_scores(transcript):
-    sentences = sent_tokenize(transcript)
+    sentences = es.get_sentences(transcript)
     scores = {}
 
-    for sentence in sentences:
+    for i, sentence in enumerate(sentences):
         try:
-            messages = [
-                {
-                    "role": "system",
-                    "content": "You are a helpful assistant. Your task is to rate the importance of the following sentence in the context of the document it came from. The rating should be a number from 1 to 10, where 1 means the sentence is not important at all, and 10 means the sentence is extremely important."
-                },
-                {
-                    "role": "user",
-                    "content": f"{transcript}"
-                },
-                {
-                    "role": "user",
-                    "content": f"How important is the following sentence in the context of the document: \"{sentence}\""
-                }
-            ]
-
-            response = openai.ChatCompletion.create(
-                model="gpt-4.0-turbo",
-                messages=messages,
-                max_tokens=10,
-                n=1,
-                stop=None,
-                temperature=0.5,
-            )
-            score = float(response['choices'][0]['message']['content'].strip())
+            score = es.get_sentence_score(i, sentence, len(sentences))
             scores[sentence] = score
 
         except Exception as e:

@@ -21,29 +21,33 @@ user_input = input().split()
 podcast_url = user_input[0]  # The first part of the input should always be the URL
 flags = user_input[1:]  # The rest of the input (if any) will be considered as flags
 
-# Now the rest of the code will work as expected
-downloaded_file_path = download_podcast(podcast_url)
+def download_podcast(podcast_url):
+    ydl_opts = {
+        'format': 'bestaudio/best',
+        'postprocessors': [{
+            'key': 'FFmpegExtractAudio',
+            'preferredcodec': 'mp3',
+            'preferredquality': '192',
+        }],
+        'outtmpl': downloads_folder + '/%(title)s.%(ext)s',
+        'nopostoverwrites': False,
+        'nooverwrites': True,
+        'noprogress': True,
+    }
+
+    with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+        info_dict = ydl.extract_info(podcast_url, download=False)
+        podcast_title = info_dict.get('title', None)
+        local_file_path = ydl.prepare_filename(info_dict)
+
+    if not os.path.isfile(local_file_path):
+        with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+            ydl.download([podcast_url])
+
+    return local_file_path, podcast_title
+
+downloaded_file_path, podcast_title = download_podcast(podcast_url)
 test_run = "-t" in flags or "--test" in flags
-
-
-# Use youtube-dl to download the podcast
-ydl_opts = {
-    'format': 'bestaudio/best',
-    'postprocessors': [{
-        'key': 'FFmpegExtractAudio',
-        'preferredcodec': 'mp3',
-        'preferredquality': '192',
-    }],
-    'outtmpl': downloads_folder + '/%(title)s.%(ext)s'
-}
-with youtube_dl.YoutubeDL(ydl_opts) as ydl:
-    info_dict = ydl.extract_info(rss_feed_url, download=True)
-    podcast_title = info_dict.get('title', None)
-    local_file_path = ydl.prepare_filename(info_dict)
-
-test_run = False
-if "-t" in flags or "--test" in flags:
-    test_run = True
 
 def transcribe_audio_data(api_key, audio_data):
     openai.api_key = api_key
@@ -82,6 +86,8 @@ def transcribe_audio_file(api_key, file_path, test_run=False):
     except Exception as e:
         print(f"An error occurred during transcription: {e}")
         return None
+
+# The rest of your script remains unchanged...
 
 def join_transcripts(transcripts):
     joined_transcript = '\n'.join(transcripts)
@@ -164,8 +170,9 @@ def summarize_transcript(podcast_title, podcast_transcript, prompt_length=2000):
         print(f"An error occurred during summarization: {e}")
         return None
 
-def summarize_local_podcast(podcast_title, local_file_path):
-    transcript = transcribe_audio_file(openai.api_key, downloaded_file_path, test_run)
+def summarize_local_podcast(podcast_url):
+    local_file_path, podcast_title = download_podcast(podcast_url)
+    transcript = transcribe_audio_file(openai.api_key, local_file_path, test_run)
     if transcript is None:
         return None
 
@@ -174,9 +181,8 @@ def summarize_local_podcast(podcast_title, local_file_path):
         summary = summarize_transcript(podcast_title, transcript)
     return summary
 
-
 try:
-    summary = summarize_local_podcast(podcast_title, local_file_path)
+    summary = summarize_local_podcast(podcast_url)
     if summary is not None:
         print("\nPodcast summary:\n", summary)
     else:

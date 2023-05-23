@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Podcast Summarizer</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        /* Add some basic CSS styling here if desired */
+    </style>
+</head>
+<body>
+    <h1>Podcast Summarizer</h1>
+    <form id="summarize-form">
+        <label for="podcast-url">Enter the URL of the podcast:</label><br>
+        <input type="url" id="podcast-url" name="podcast-url"><br>
+        <input type="submit" value="Summarize">
+    </form>
+    <div id="summary"></div>
+
+    <script>
+        $('#summarize-form').on('submit', function(event) {
+            event.preventDefault();
+            let podcastUrl = $('#podcast-url').val();
+            $.ajax({
+                url: 'http://localhost:5000/summarize',
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify({ 'podcast_url': podcastUrl }),
+                success: function(response) {
+                    $('#summary').html('<h2>Summary</h2><p>' + response.summary + '</p>');
+                },
+                error: function(response) {
+                    alert('An error occurred. Please try again.');
+                }
+            });
+        });
+    </script>
+</body>
+</html>

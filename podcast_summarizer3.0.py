@@ -7,6 +7,7 @@ import tempfile
 import configparser
 import textwrap
 import youtube_dl
+import re
 
 config = configparser.ConfigParser()
 config.read('config.ini')
@@ -22,6 +23,16 @@ podcast_url = user_input[0]  # The first part of the input should always be the 
 flags = user_input[1:]  # The rest of the input (if any) will be considered as flags
 
 def download_podcast(podcast_url):
+    """
+    Downloads the podcast from the given URL and saves it as an MP3 file.
+
+    Parameters:
+    podcast_url (str): The URL of the podcast to download.
+
+    Returns:
+    str: The local file path of the downloaded podcast.
+    str: The title of the podcast.
+    """
     ydl_opts = {
         'format': 'bestaudio/best',
         'postprocessors': [{
@@ -50,11 +61,32 @@ downloaded_file_path, podcast_title = download_podcast(podcast_url)
 test_run = "-t" in flags or "--test" in flags
 
 def transcribe_audio_data(api_key, audio_data):
+    """
+    Transcribes the given audio data using OpenAI's Whisper ASR system. This function is used inside transcribe_audio_file().
+
+    Parameters:
+    api_key (str): Your OpenAI API key.
+    audio_data (BytesIO): The audio data to transcribe.
+
+    Returns:
+    str: The transcription of the audio data.
+    """
     openai.api_key = api_key
     transcript = openai.Audio.transcribe("whisper-1", audio_data)
     return transcript["text"]
 
 def transcribe_audio_file(api_key, file_path, test_run=False):
+    """
+    Transcribes the given audio file using OpenAI's Whisper ASR system. But first it breaks down the file into predetermined chunks so that it doesn't reach token limits.
+
+    Parameters:
+    api_key (str): Your OpenAI API key.
+    file_path (str): The local file path of the audio file to transcribe.
+    test_run (bool, optional): If True, only the first 5 minutes of the audio file are transcribed.
+
+    Returns:
+    str: The transcription of the audio file.
+    """
     try:
         print("Loading audio file...")
         audio = AudioSegment.from_file(file_path)
@@ -87,15 +119,51 @@ def transcribe_audio_file(api_key, file_path, test_run=False):
         print(f"An error occurred during transcription: {e}")
         return None
 
-# The rest of your script remains unchanged...
-
 def join_transcripts(transcripts):
+    """
+    Joins the given list of transcripts into a single string.
+
+    Parameters:
+    transcripts (list of str): The list of transcripts to join.
+
+    Returns:
+    str: The joined transcripts.
+    """
     joined_transcript = '\n'.join(transcripts)
     print("")
     print("Full transcript:\n", joined_transcript)
     return joined_transcript
 
+def save_transcript_to_file(transcript, podcast_title):
+    # Sanitize the podcast title to use it as a filename
+    safe_filename = re.sub(r'[\\/*?:"<>|]', "", podcast_title)  # remove characters not safe for filenames
+    safe_filename = safe_filename[:200]  # truncate if needed to avoid extremely long filenames
+
+    scripts_folder = os.path.join(downloads_folder, 'podcast_scripts')
+    if not os.path.exists(scripts_folder):
+        os.makedirs(scripts_folder)  # create the scripts folder if it doesn't exist
+
+    file_path = os.path.join(scripts_folder, safe_filename + ".txt")
+
+    with open(file_path, 'w', encoding='utf-8') as f:
+        f.write(transcript)
+
+    print(f"Transcript saved to {file_path}")
+
 def summarize_full_transcript(podcast_title, podcast_transcript, prompt_length=2048):
+    """
+    Attempts to summarize the entire transcript in one go. This only works for very short
+    audio files. If it exceeds the model's maximum token limit, then it returns nothing.
+    It uses OpenAI's GPT-3.5-turbo model.
+
+    Parameters:
+    podcast_title (str): The title of the podcast.
+    podcast_transcript (str): The transcript of the podcast to summarize.
+    prompt_length (int, optional): The maximum length of the summary.
+
+    Returns:
+    str: The summary of the podcast transcript.
+    """
     try:
         print("")
         print("")
@@ -131,6 +199,17 @@ def summarize_full_transcript(podcast_title, podcast_transcript, prompt_length=2
         return None
 
 def summarize_transcript(podcast_title, podcast_transcript, prompt_length=2000):
+    """
+    Summarizes the given podcast transcript in chunks using OpenAI's GPT-3.5-turbo model.
+
+    Parameters:
+    podcast_title (str): The title of the podcast.
+    podcast_transcript (str): The transcript of the podcast to summarize.
+    prompt_length (int, optional): The maximum length of each chunk of the summary.
+
+    Returns:
+    str: The summary of the podcast transcript.
+    """
     try:
         print("")
         print("")
@@ -171,10 +250,21 @@ def summarize_transcript(podcast_title, podcast_transcript, prompt_length=2000):
         return None
 
 def summarize_local_podcast(podcast_url):
+    """
+    Downloads, transcribes, saves script and summarizes a podcast from the given URL.
+
+    Parameters:
+    podcast_url (str): The URL of the podcast to process.
+
+    Returns:
+    str: The summary of the podcast.
+    """
     local_file_path, podcast_title = download_podcast(podcast_url)
     transcript = transcribe_audio_file(openai.api_key, local_file_path, test_run)
     if transcript is None:
         return None
+
+    save_transcript_to_file(transcript, podcast_title)  
 
     summary = summarize_full_transcript(podcast_title, transcript)
     if summary is None:

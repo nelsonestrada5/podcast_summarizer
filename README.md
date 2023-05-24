@@ -1,19 +1,10 @@
 # Podcast Summarizer
-WARNING: This is only a work in progress!!!
-
-Podcast Summarizer is an app that automatically downloads podcast episodes, transcribes them using [Whisper](https://whisper.ai/), and generates summaries using [ChatGPT](https://openai.com/blog/chat-history/).
-
-## Features
-- Extract the RSS feed URL based on a podcast name
-- Automatic downloading of podcast episodes from RSS feeds
-- Speech-to-text transcription using Whisper
-- Text summarization using ChatGPT
-- Customizable summary length and language
-- Support for multiple podcast platforms and languages
-
-# Podcast Summarizer
 
 Podcast Summarizer is a Python script that uses OpenAI's GPT-3.5-turbo model to generate a summary of a given podcast transcript.
+1. It takes an RSS URL as input
+2. It downloads the audio file locally
+3. It transcribes the audio using Whisper
+4. It attempts to summarize the text (WORK IN PROGRESS)
 
 ## Installation
 

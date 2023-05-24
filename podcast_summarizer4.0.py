@@ -139,26 +139,44 @@ def summarize_transcript(podcast_title, podcast_transcript, prompt_length=2000):
     str: The summary of the podcast transcript.
     """
     try:
-        print("")
-        print("")
-        print("Summarizing transcript...")
+        print("\nSummarizing transcript...")
 
         transcript_chunks = textwrap.wrap(podcast_transcript, prompt_length - 200)  # Split the transcript into smaller chunks
         summaries = []
 
         for i, chunk in enumerate(transcript_chunks, start=1):
-            print("")
-            print(f"Summarizing chunk {i}/{len(transcript_chunks)}...")
-            messages = [
-                {
-                    "role": "system",
-                    "content": "You are a helpful assistant that speaks Spanish perfectly. You keep track of the big picture while handling small tasks methodically."
-                },
-                {
-                    "role": "user",
-                    "content": f"Summarize the transcript from a episode of the podcast \"Mi Mejor Versión con Isa Garcia\". The summary should be in spanish and should include the key points discussed in the episode, along with any important quotes or examples mentioned. Try to keep the summary under 2000 tokens. Here is the transcript: {chunk}"
-                }
-            ]
+            print(f"\nSummarizing chunk {i}/{len(transcript_chunks)}...")
+
+            if i == 1:
+                user_message_content = f"Summarize the first part of the transcript from a episode of the podcast \"{podcast_title}\". The summary should be in Spanish and should include the key points discussed in the episode, along with any important quotes or examples mentioned. Try to keep the summary under 2000 tokens. Here is the transcript: {chunk}"
+                messages = [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant that speaks Spanish perfectly. You keep track of the big picture while handling small tasks methodically."
+                    },
+                    {
+                        "role": "user",
+                        "content": user_message_content
+                    }
+                ]
+            else:
+                previous_summary = summaries[-1]
+                user_message_content = f"This is a continuation of the podcast \"{podcast_title}\". The last summary was: {previous_summary}. Can you continue the summary from where we left off? The summary should always be in Spanish and include the key points along with any important quotes. Here is the next part of the transcript: {chunk}"
+                messages = [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant that speaks Spanish perfectly. You keep track of the big picture while handling small tasks methodically."
+                    },
+                    {
+                        "role": "system",
+                        "content": f"Keep in mind the tone and narrative continuity from the previous summary: {previous_summary}"
+                    },
+                    {
+                        "role": "user",
+                        "content": user_message_content
+                    }
+                ]
+
             response = safe_summary(openai.api_key, messages)
             summary = response['choices'][0]['message']['content'].strip()
             summaries.append(summary)
@@ -195,7 +213,6 @@ def safe_summary(api_key, messages, attempts=5, cooldown=5):
     print("Failed to get summary after multiple attempts.")
     return None
 
-
 # ------------- SCRIPT SAVING FUNCTION -------------
 
 def save_transcript_to_file(transcript, podcast_title):
@@ -212,7 +229,7 @@ def save_transcript_to_file(transcript, podcast_title):
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(transcript)
 
-    print(f"Transcript saved to {file_path}")
+    print(f"\nTranscript saved to {file_path}")
 
 # ------------- MAIN FUNCTION -------------
 

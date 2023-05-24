@@ -1,5 +1,5 @@
 # Podcast Summarizer
-WARNING: This is only a work in progress!!! 
+WARNING: This is only a work in progress!!!
 
 Podcast Summarizer is an app that automatically downloads podcast episodes, transcribes them using [Whisper](https://whisper.ai/), and generates summaries using [ChatGPT](https://openai.com/blog/chat-history/).
 
@@ -11,59 +11,67 @@ Podcast Summarizer is an app that automatically downloads podcast episodes, tran
 - Customizable summary length and language
 - Support for multiple podcast platforms and languages
 
-## Getting Started
+# Podcast Summarizer
 
-### Prerequisites
+Podcast Summarizer is a Python script that uses OpenAI's GPT-3.5-turbo model to generate a summary of a given podcast transcript.
 
-- Python 3.7 or higher
-- An OpenAI API key with access to ChatGPT models
-- A Whisper API key for speech-to-text transcription
-- Podcast RSS feed URLs
+## Installation
 
-### Installation
+1. First, clone this repository to your local machine using the following command:
+    ```
+    git clone https://github.com/nelsonestrada5/podcast_summarizer.git
+    ```
+2. Move to the cloned directory:
+    ```
+    cd podcast_summarizer
+    ```
+3. It is recommended to use a virtual environment. If you have Python `venv` module installed, create a new environment with the command:
+    ```
+    python3 -m venv env
+    ```
+   Activate the virtual environment:
+   - On Windows:
+        ```
+        .\env\Scripts\activate
+        ```
+   - On Unix or MacOS:
+        ```
+        source env/bin/activate
+        ```
+4. Install the Python requirements:
+    ```
+    pip install -r requirements.txt
+    ```
 
-1. Clone the repository:
+## Setup
 
-   ```
-   git clone https://github.com/YOUR_USERNAME/podcast-summarizer.git
-   cd podcast-summarizer
-   ```
+1. The script uses OpenAI's GPT-3.5-turbo, so you will need an OpenAI API key. Once you have your API key, create a `config.ini` file in the root directory of the project with the following content:
+    ```
+    [openai]
+    api_key = your_openai_api_key
+    ```
+    Replace `your_openai_api_key` with your actual OpenAI API key.
 
-2. Install the required Python packages:
+2. You can modify the script to customize its behavior. For instance, you can modify the podcast URL or the `prompt_length` parameter when calling the `summarize_transcript` function.
 
-   ```
-   pip install -r requirements.txt
-   ```
+## Usage
 
-3. Set your API keys as environment variables:
+After setting up, you can run the script using the following command:
 
-   ```
-   export OPENAI_API_KEY=YOUR_OPENAI_API_KEY
-   export WHISPER_API_KEY=YOUR_WHISPER_API_KEY
-   ```
+    ```
+    python podcast_summarizer.py
 
-4. Add the RSS feed URLs for the podcasts you want to summarize to `podcasts.txt`:
+    ```
+The script will print out the summary of the podcast transcript to the console.
 
-   ```
-   https://example.com/podcast.rss
-   https://another.example.com/podcast.rss
-   ```
+## Note
 
-5. Run the app:
+Please make sure you have enough OpenAI API credits, as long requests to the API (like summarizing a long podcast transcript) might consume more credits.
 
-   ```
-   python main.py
-   ```
+Also note that the quality of the summary can vary depending on the content and complexity of the podcast transcript.
 
-## Configuration
+If you encounter any issues or have any improvements, feel free to open an issue or a pull request.
 
-The app can be configured using environment variables or a `.env` file. Here are the available configuration options:
-
-- `SUMMARY_LENGTH`: The maximum number of words or characters to include in each summary (default: 100 words)
-- `SUMMARY_LANGUAGE`: The language to use for the summaries (default: English)
-- `PODCAST_FEEDS`: A comma-separated list of RSS feed URLs for the podcasts to summarize (default: `podcasts.txt`)
-- `WHISPER_API_KEY`: Your Whisper API key (required)
-- `OPENAI_API_KEY`: Your OpenAI API key with access to ChatGPT models (required)
 
 ## Contributing
 

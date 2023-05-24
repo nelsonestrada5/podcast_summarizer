@@ -8,6 +8,7 @@ import configparser
 import textwrap
 import youtube_dl
 import re
+import time
 
 config = configparser.ConfigParser()
 config.read('config.ini')
@@ -134,22 +135,6 @@ def join_transcripts(transcripts):
     print("Full transcript:\n", joined_transcript)
     return joined_transcript
 
-def save_transcript_to_file(transcript, podcast_title):
-    # Sanitize the podcast title to use it as a filename
-    safe_filename = re.sub(r'[\\/*?:"<>|]', "", podcast_title)  # remove characters not safe for filenames
-    safe_filename = safe_filename[:200]  # truncate if needed to avoid extremely long filenames
-
-    scripts_folder = os.path.join(downloads_folder, 'podcast_scripts')
-    if not os.path.exists(scripts_folder):
-        os.makedirs(scripts_folder)  # create the scripts folder if it doesn't exist
-
-    file_path = os.path.join(scripts_folder, safe_filename + ".txt")
-
-    with open(file_path, 'w', encoding='utf-8') as f:
-        f.write(transcript)
-
-    print(f"Transcript saved to {file_path}")
-
 def summarize_full_transcript(podcast_title, podcast_transcript, prompt_length=2048):
     """
     Attempts to summarize the entire transcript in one go. This only works for very short
@@ -231,14 +216,7 @@ def summarize_transcript(podcast_title, podcast_transcript, prompt_length=2000):
                     "content": f"Summarize the transcript from a episode of the podcast \"Mi Mejor Versión con Isa Garcia\". The summary should be in spanish and should include the key points discussed in the episode, along with any important quotes or examples mentioned. Try to keep the summary under 2000 tokens. Here is the transcript: {chunk}"
                 }
             ]
-            response = openai.ChatCompletion.create(
-                model="gpt-3.5-turbo",
-                messages=messages,
-                max_tokens=prompt_length,
-                n=1,
-                stop=None,
-                temperature=0.5,
-            )
+            response = safe_summary(openai.api_key, messages)
             summary = response['choices'][0]['message']['content'].strip()
             summaries.append(summary)
             print(f"Finished summarizing chunk {i}/{len(transcript_chunks)}. Summary: {summary}")
@@ -248,6 +226,47 @@ def summarize_transcript(podcast_title, podcast_transcript, prompt_length=2000):
     except Exception as e:
         print(f"An error occurred during summarization: {e}")
         return None
+
+def save_transcript_to_file(transcript, podcast_title):
+    # Sanitize the podcast title to use it as a filename
+    safe_filename = re.sub(r'[\\/*?:"<>|]', "", podcast_title)  # remove characters not safe for filenames
+    safe_filename = safe_filename[:200]  # truncate if needed to avoid extremely long filenames
+
+    scripts_folder = os.path.join(downloads_folder, 'podcast_scripts')
+    if not os.path.exists(scripts_folder):
+        os.makedirs(scripts_folder)  # create the scripts folder if it doesn't exist
+
+    file_path = os.path.join(scripts_folder, safe_filename + ".txt")
+
+    with open(file_path, 'w', encoding='utf-8') as f:
+        f.write(transcript)
+
+    print(f"Transcript saved to {file_path}")
+
+def safe_summary(api_key, messages, attempts=5, cooldown=5):
+    """
+    This function is called from within summarize_transcript(). This function
+    is there to help with the OpenAI rate limits.
+
+    It slows down the requests and also adds retry logic.
+    """
+    for _ in range(attempts):
+        try:
+            response = openai.ChatCompletion.create(
+                model="gpt-3.5-turbo",
+                messages=messages,
+                max_tokens=2000,
+                n=1,
+                stop=None,
+                temperature=0.5,
+            )
+            return response
+        except Exception as e:
+            print(f"Error: {e}")
+            print("Retrying in 5 seconds...")
+            time.sleep(cooldown)
+    print("Failed to get summary after multiple attempts.")
+    return None
 
 def summarize_local_podcast(podcast_url):
     """
@@ -264,7 +283,7 @@ def summarize_local_podcast(podcast_url):
     if transcript is None:
         return None
 
-    save_transcript_to_file(transcript, podcast_title)  
+    save_transcript_to_file(transcript, podcast_title)
 
     summary = summarize_full_transcript(podcast_title, transcript)
     if summary is None:
